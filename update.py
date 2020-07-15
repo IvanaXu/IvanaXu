@@ -1,6 +1,6 @@
 import json
 import random
-with open("poetry2.json", "r", encoding="utf-8") as f:
+with open(f"poetry{random.randint(0,2)}.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 title = "# བཀྲ་ཤིས་བདེ་ལེགས་"
