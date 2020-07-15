@@ -1,9 +1,6 @@
-"""
-Thx https://github.com/chinese-poetry/chinese-poetry.
-"""
 import json
 import random
-with open("qianjiashi.json", "r", encoding="utf-8") as f:
+with open("poetry0.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 title = "# བཀྲ་ཤིས་བདེ་ལེགས་"
@@ -14,3 +11,4 @@ print(conts)
 
 with open("README.md", "w") as f:
     f.write(f"{title}\n{conts}")
+"""Thx https://github.com/chinese-poetry/chinese-poetry."""
