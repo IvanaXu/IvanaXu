@@ -1,22 +1,14 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 夢李白·其二
+> 送友人入蜀
 > 
-> 杜甫
+> （唐）李白
 > 
-> 浮雲終日行，遊子久不至。
+> 見說蠶叢路，崎嶇不易行。
 > 
-> 三夜頻夢君，情親見君意。
+> 山從人面起，雲傍馬頭生。
 > 
-> 告歸常侷促，苦道來不易。
+> 芳樹籠秦棧，春流繞蜀城。
 > 
-> 江湖多風波，舟楫恐失墜。
-> 
-> 出門搔白首，若負平生志。
-> 
-> 冠蓋滿京華，斯人獨憔悴。
-> 
-> 孰雲網恢恢，將老身反累。
-> 
-> 千秋萬歲名，寂寞身後事。
+> 升沈應已定，不必問君平。
 >
