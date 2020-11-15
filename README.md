@@ -1,14 +1,14 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 聞官軍收河南河北
+> 送友人
 > 
-> 杜甫
+> 李白
 > 
-> 劍外忽傳收薊北，初聞涕淚滿衣裳。
+> 青山橫北郭，白水繞東城。
 > 
-> 卻看妻子愁何在，漫卷詩書喜欲狂。
+> 此地一爲別，孤蓬萬里徵。
 > 
-> 白日放歌須縱酒，青春作伴好還鄉。
+> 浮雲遊子意，落日故人情。
 > 
-> 即從巴峽穿巫峽，便下襄陽向洛陽。
+> 揮手自茲去，蕭蕭班馬鳴。
 >
