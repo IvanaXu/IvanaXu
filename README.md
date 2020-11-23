@@ -1,13 +1,11 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![IvanaXu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=2&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 訟獄
+> 十二 文
 > 
-> 世人惟不平則鳴，聖人以無訟爲貴。上有恤刑之主，桁楊雨潤；下無冤枉之民，肺石風清。雖囹圄便是福堂，而畫地亦可爲獄。與人構訟，曰鼠牙雀角之爭；罪人訴冤，有搶地籲天之慘。
+> 家對國，武對文，四輔對三軍。九經對三史，菊馥對蘭芬。歌北鄙，詠南薰，邇聽對遙聞。召公周太保，李廣漢將軍。聞化蜀民皆草偃，爭權晉土已瓜分。巫峽夜深，猿嘯苦哀巴地月；衡峯秋早，雁飛高貼楚天雲。
 > 
-> 狴犴猛犬而能守，故獄門畫狴犴之形；棘木外刺而裏直，故聽訟在棘木之下。鄉亭之繫有岸，朝廷之繫有獄，誰敢作奸犯科；死者不可復生，刑者不可復續，上當原情定罪。囹圄是周獄，羑里是商牢。桎梏之設，乃拘罪人之具；縲紲之中，豈無賢者之冤。兩爭不放，謂之鷸蚌相持；無辜牽連，謂之池魚受害。
+> 欹對正，見對聞，偃武對修文。羊車對鶴駕，朝旭對晚曛。花有豔，竹成文，馬燧對羊欣。山中樑宰相，樹下漢將軍。施帳解圍嘉道韞，當壚沽酒嘆文君。好景有期，北嶺幾枝梅似雪；豐年先兆，西郊千頃稼如雲。
 > 
-> 請公入甕，周興自作其孽；下車泣罪，夏禹深痛其民。好訟曰健訟，掛告曰株連。爲人息訟，謂之釋紛；被人栽冤，謂之嫁禍。徒配曰城旦，遣戍是問軍。三尺乃朝廷之法，三木是罪人之刑。
-> 
-> 古之五刑，墨、劓、剕、宮、大辟；今之律例，笞、杖、死罪、徒、流。上古時削木爲吏，今日之淳風安在；唐太宗縱囚歸獄，古人之誠信可嘉。花落訟庭間，草生囹圄靜，歌何易治民之間；吏從冰上立，人在鏡中行，頌盧奐折獄之清。可見治亂之藥石，刑罰爲重；興平之樑肉，德教爲先。
+> 堯對舜，夏對殷，蔡惠對劉蕡。山明對水秀，五典對三墳。唐李杜，晉機雲，事父對忠君。雨晴鳩喚婦，霜冷雁呼羣。酒量洪深周僕射，詩才俊逸鮑參軍。鳥翼長隨，鳳兮洵衆禽長；狐威不假，虎也真百獸尊。
 >
