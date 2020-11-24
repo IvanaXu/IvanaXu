@@ -1,11 +1,13 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 觀書有感（其一）
+> 遊子吟
 > 
-> （宋）朱熹
+> 孟郊
 > 
-> 半畝方塘一鑑開，天光雲影共徘徊。
+> 慈母手中線，遊子身上衣。
 > 
-> 問渠那得清如許，爲有源頭活水來。
+> 臨行密密縫，意恐遲遲歸。
+> 
+> 誰言寸草心，報得三春暉。
 >
