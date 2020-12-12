@@ -1,15 +1,7 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 和賈舍人早朝
+> 周颂
 > 
-> （唐）杜甫
-> 
-> 五夜漏聲催曉箭，九重春色醉仙桃。
-> 
-> 旌旗日暖龍蛇動，宮殿風微燕雀高。
-> 
-> 朝罷香菸攜滿袖，詩成珠玉在揮毫。
-> 
-> 欲知世掌絲綸美，池上於今有鳳毛。
+> 予其惩，而毖后患。莫予荓蜂，自求辛螫。肇允彼桃虫，拚飞维鸟。未堪家多难，予又集于蓼。
 >
