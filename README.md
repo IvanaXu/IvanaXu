@@ -1,15 +1,15 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 天末懷李白
+> 題義公禪房
 > 
-> 杜甫
+> （唐）孟浩然
 > 
-> 涼風起天末，君子意如何。
+> 義公習禪寂，結宇依空林。
 > 
-> 鴻雁幾時到，江湖秋水多。
+> 戶外一峯秀，階前衆壑深。
 > 
-> 文章憎命達，魑魅喜人過。
+> 夕陽連雨足，空翠落庭陰。
 > 
-> 應共冤魂語，投詩贈汨羅。
+> 看取蓮花淨，方知不染心。
 >
