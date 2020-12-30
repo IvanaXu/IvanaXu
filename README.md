@@ -1,15 +1,11 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 送友人入蜀
+> 北山
 > 
-> （唐）李白
+> （宋）王安石
 > 
-> 見說蠶叢路，崎嶇不易行。
+> 北山輸綠漲橫陂，直塹回塘灩灩時。
 > 
-> 山從人面起，雲傍馬頭生。
-> 
-> 芳樹籠秦棧，春流繞蜀城。
-> 
-> 升沈應已定，不必問君平。
+> 細數落花因坐久，緩尋芳草得歸遲。
 >
