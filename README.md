@@ -1,11 +1,11 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 聽彈琴
+> 夜送趙縱
 > 
-> 劉長卿
+> （唐）楊炯
 > 
-> 泠泠七絃上，靜聽松風寒。(七絃 一作：七絲)
+> 趙氏連城璧，由來天下傳。
 > 
-> 古調雖自愛，今人多不彈。
+> 送君還舊府，明月滿前川。
 >
