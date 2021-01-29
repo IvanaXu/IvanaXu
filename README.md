@@ -1,15 +1,15 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 野望
+> 天末懷李白
 > 
-> （唐）王績
+> 杜甫
 > 
-> 東皋薄暮望，徙倚欲何依。
+> 涼風起天末，君子意如何。
 > 
-> 樹樹皆秋色，山山惟落暉。
+> 鴻雁幾時到，江湖秋水多。
 > 
-> 牧人驅犢返，獵馬帶禽歸。
+> 文章憎命達，魑魅喜人過。
 > 
-> 相顧無相識，長歌懷采薇。
+> 應共冤魂語，投詩贈汨羅。
 >
