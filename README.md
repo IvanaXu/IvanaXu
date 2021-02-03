@@ -1,11 +1,15 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 飲湖上初晴後雨
+> 偶成
 > 
-> （宋）蘇軾
+> （宋）程顥
 > 
-> 水光瀲灩晴方好，山色空濛雨亦奇。
+> 閒來無事不從容，睡覺東窗日已紅。
 > 
-> 欲把西湖比西子，淡妝濃抹總相宜。
+> 萬物靜觀皆自得，四時佳興與人同。
+> 
+> 道通天地有形外，思入風雲變態中。
+> 
+> 富貴不淫貧賤樂，男兒到此是豪雄。
 >
