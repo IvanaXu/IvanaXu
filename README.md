@@ -1,11 +1,15 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 国风
+> 送友人
 > 
-> 于以采蘩？于沼于沚。于以用之？公侯之事。
+> （唐）李白
 > 
-> 于以采蘩？于涧之中。于以用之？公侯之宫。
+> 青山橫北郭，白水繞東城。
 > 
-> 被之僮僮，夙夜在公。被之祁祁，薄言还归。
+> 此地一爲別，孤篷萬里徵。
+> 
+> 浮雲遊子意，落日故人情。
+> 
+> 揮手自茲去，蕭蕭斑馬鳴。
 >
