@@ -1,15 +1,11 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 左遷至藍關示侄孫湘
+> 登山
 > 
-> （唐）韓愈
+> （唐）李涉
 > 
-> 一封朝奏九重天，夕貶潮陽路八千。
+> 終日昏昏醉夢間，忽聞春盡強登山。
 > 
-> 本爲聖朝除弊政，敢將衰朽惜殘年。
-> 
-> 雲橫秦嶺家何在，雪擁藍關馬不前。
-> 
-> 知汝遠來應有意，好收吾骨瘴江邊。
+> 因過竹院逢僧話，又得浮生半日閒。
 >
