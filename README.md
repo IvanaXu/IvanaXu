@@ -1,11 +1,15 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 四 豪
+> 聖果寺
 > 
-> 琴對瑟，劍對刀，地迥對天高。峨冠對博帶，紫綬對緋袍。煎異茗，酌香醪，虎兕對猿猱。武夫攻騎射，野婦務蠶繅。秋雨一川淇澳竹，春風兩岸武陵桃。螺髻青濃，樓外晚山千仞；鴨頭綠膩，溪中春水半篙。
+> （唐）釋處默
 > 
-> 刑對賞，貶對褒，破斧對徵袍。梧桐對橘柚，枳棘對蓬蒿。雷煥劍，呂虔刀，橄欖對葡萄。一椽書舍小，百尺酒樓高。李白能詩時秉筆，劉伶愛酒每餺糟。禮別尊卑，拱北衆星常燦燦；勢分高下，朝東萬水自滔滔。
+> 路自中峯上，盤迴出薜蘿。
 > 
-> 瓜對果，李對桃，犬子對羊羔。春分對夏至，谷水對山濤。雙鳳翼，九牛毛，主逸對臣勞。水流無限闊，山聳有餘高。雨打村童新牧笠，塵生邊將舊徵袍。俊士居官，榮引鵷鴻之序；忠臣報國，誓殫犬馬之勞。
+> 到江吳地盡，隔岸越山多。
+> 
+> 古木叢青藹，遙天浸白波。
+> 
+> 下方城郭近，鐘磬雜笙歌。
 >
