@@ -1,14 +1,14 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 军中寄亲旧
+> 闻丘丈晚集庆寿作诗戏之
 >
-> 金-赵文昌
+> 金·刘迎
 >
-> 军中从事鬓丝垂，把钓江湖与愿违。
+> 桃李欲开风雨多，花时犹得屡经过。
 > 
-> 红叶关河为客久，黄花时节寄书归。
+> 缓听一曲玉连琐，满汎十分金卷荷。
 > 
-> 霜天不尽孤云远，秋意无聊一雁飞。
+> 红烛影纱闻唤马，翠罗承袜见凌波。
 > 
-> 乡社故人应念我，岂知南望更依依。
+> 杜陵老矣孤春事，奈此诗愁恼乱何。

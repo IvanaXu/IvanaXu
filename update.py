@@ -29,7 +29,7 @@ ldata = [f"Poetry/{i}" for i in os.listdir("Poetry") if i.endswith(".csv")]
 
 def rdata(d):
     d = pd.read_csv(d).sample(1).values
-    return f"> {d[0][0]}\n>\n> {d[0][1]}-{d[0][2]}\n>\n> " + "\n> \n> ".join([_+"。" for _ in d[0][3].split("。") if _])
+    return f"> {d[0][0]}\n>\n> {d[0][1]}·{d[0][2]}\n>\n> " + "\n> \n> ".join([_+"。" for _ in d[0][3].split("。") if _])
 conts = rdata(random.choice(ldata))
 print(conts)
 
@@ -42,4 +42,3 @@ with open("README.md", "w") as f:
     https://github.com/chinese-poetry/chinese-poetry.
     https://github.com/Werneror/Poetry.
 """
-
