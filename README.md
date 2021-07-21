@@ -1,14 +1,10 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 闻丘丈晚集庆寿作诗戏之
+> 东楼雨中七诗 其五
 >
-> 金·刘迎
+> 金·王元粹
 >
-> 桃李欲开风雨多，花时犹得屡经过。
+> 庭中野蔓走青蛇，窗外萱葵乱彩霞。
 > 
-> 缓听一曲玉连琐，满汎十分金卷荷。
-> 
-> 红烛影纱闻唤马，翠罗承袜见凌波。
-> 
-> 杜陵老矣孤春事，奈此诗愁恼乱何。
+> 云漏斜阳雷渐远，东边飞雨到琼华。
