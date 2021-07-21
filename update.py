@@ -10,7 +10,7 @@ toplangs = """<img align="right" src="https://github-readme-stats.vercel.app/api
 title = f"{stats}\n{toplangs}\n# བཀྲ་ཤིས་བདེ་ལེགས་"
 
 if random.random() < 0.618:
-    # 1
+    print(1)
     with open(f"poetry{random.randint(0,5)}.json", "r", encoding="utf-8") as f:
         data = json.load(f)
     ldata = [jdata for idata in data["content"] for jdata in idata["content"]]
@@ -25,7 +25,7 @@ if random.random() < 0.618:
     conts = rdata(random.choice(ldata))
     print(conts)
 else: 
-    # 2
+    print(2)
     ldata = [f"Poetry/{i}" for i in os.listdir("Poetry") if i.endswith(".csv")]
 
     def rdata(d):
