@@ -1,30 +1,18 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 硕鼠
+> 与妻李夫人联句
 >
-> 先秦·诗经
+> 魏晋·贾充
 >
-> 硕鼠硕鼠，无食我黍。
+> 室中是阿谁，叹息声正悲。
 > 
-> 三岁贯女，莫我肯顾。
+> 叹息亦何为，但恐大义亏。
 > 
-> 逝将去女，适彼乐土。
+> 大义同胶漆，匪石心不移。
 > 
-> 乐土乐土，爰得我所。
+> 人谁不虑终，日月有合离。
 > 
-> 硕鼠硕鼠，无食我麦。
+> 我心子所达，子心我所知。
 > 
-> 三岁贯女，莫我肯德。
-> 
-> 逝将去女，适彼乐国。
-> 
-> 乐国乐国，爰得我直。
-> 
-> 硕鼠硕鼠，无食我苗。
-> 
-> 三岁贯女，莫我肯劳。
-> 
-> 逝将去女，适彼乐郊。
-> 
-> 乐郊乐郊，谁之永号。
+> 若能不食言，与君同所宜。
