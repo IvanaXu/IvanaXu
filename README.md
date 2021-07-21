@@ -1,18 +1,14 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 与妻李夫人联句
+> 东台山
 >
-> 魏晋·贾充
+> 明末清初·王夫之
 >
-> 室中是阿谁，叹息声正悲。
+> 百里初见山，西晖客望闲。
 > 
-> 叹息亦何为，但恐大义亏。
+> 半峰明紫树，群岫倒苍湾。
 > 
-> 大义同胶漆，匪石心不移。
+> 仙馆箫声歇，渔舟隔浦还。
 > 
-> 人谁不虑终，日月有合离。
-> 
-> 我心子所达，子心我所知。
-> 
-> 若能不食言，与君同所宜。
+> 祝融知近远，清梦骛云间。
