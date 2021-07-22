@@ -5,8 +5,12 @@ import random
 import pandas as pd
 
 # vue-dark, graywhite
-stats = "[![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)"
-toplangs = """<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />"""
+url1 = "https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark"
+url2 = "https://github.com/anuraghazra/github-readme-stats"
+url3 = "https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite"
+
+stats = f"[![IvanaXu's github stats]({url1})]({url2})"
+toplangs = f"""<img align="right" src="{url3}" />"""
 title = f"{stats}\n{toplangs}\n# བཀྲ་ཤིས་བདེ་ལེགས་"
 
 if random.random() < 0.618:
