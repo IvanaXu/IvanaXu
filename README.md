@@ -1,18 +1,15 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 柳梢青 李园春游，借少游韵
+> 遣悲懷三首·其三
+> 
+> 元稹
+> 
+> 閒坐悲君亦自悲，百年都是幾多時。
+> 
+> 鄧攸無子尋知命，潘岳悼亡猶費詞。
+> 
+> 同穴窅冥何所望，他生緣會更難期。
+> 
+> 惟將終夜常開眼，報答平生未展眉。
 >
-> 清末近现代初·郭则沄
->
-> 雨后鸥沙。
-> 
-> 嫩阴低护，几树夭斜。
-> 
-> 碎叠閒愁，颠风卷去，暗付飞花。
-> 
-> 分明眼底天涯。
-> 
-> 正凄黯、啼来断鸦。
-> 
-> 帆远漂愁，帘深隔梦，春属谁家。
