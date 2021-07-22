@@ -40,6 +40,6 @@ with open("README.md", "w") as f:
 
 # Thx
 """
-    https://github.com/chinese-poetry/chinese-poetry.
-    https://github.com/Werneror/Poetry.
+    1、https://github.com/chinese-poetry/chinese-poetry.
+    2、https://github.com/Werneror/Poetry.
 """
