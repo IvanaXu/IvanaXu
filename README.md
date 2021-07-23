@@ -1,14 +1,11 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 题旧石桥
+> 春日
+> 
+> （宋）朱熹
+> 
+> 勝日尋芳泗水濱，無邊光景一時新。
+> 
+> 等閒識得東風面，萬紫千紅總是春。
 >
-> 明·薛瑄
->
-> 古桥欹侧岸萦回，立马临流一怆怀。
-> 
-> 鲸兽水沉沙底石，蛟螭碑莳雨中苔。
-> 
-> 阑干几曲人频倚，华表千年鹤再来。
-> 
-> 扰扰劳生只如此，好将襟抱酒中开。
