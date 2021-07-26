@@ -1,15 +1,15 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 和晉陵陸承相
+> 秋登宣城謝眺北樓
 > 
-> （唐）杜審言
+> （唐）李白
 > 
-> 獨有宦遊人，偏驚物候新。
+> 江城如畫裏，山晚望晴空。
 > 
-> 雲霞出海曙，梅柳渡江春。
+> 兩水夾明鏡，雙橋落彩虹。
 > 
-> 淑氣催黃鳥，晴光轉綠蘋。
+> 人煙寒橘柚，秋色老梧桐。
 > 
-> 忽聞歌古調，歸思欲沾巾。
+> 誰念北樓上，臨風懷謝公。
 >
