@@ -1,17 +1,15 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 琴歌
+> 和晉陵陸承相
 > 
-> 李頎
+> （唐）杜審言
 > 
-> 主人有酒歡今夕，請奏鳴琴廣陵客。
+> 獨有宦遊人，偏驚物候新。
 > 
-> 月照城頭烏半飛，霜悽萬樹風入衣。(萬樹 一作：萬木)
+> 雲霞出海曙，梅柳渡江春。
 > 
-> 銅爐華燭燭增輝，初彈淥水後楚妃。
+> 淑氣催黃鳥，晴光轉綠蘋。
 > 
-> 一聲已動物皆靜，四座無言星欲稀。
-> 
-> 清淮奉使千餘里，敢告雲山從此始。
+> 忽聞歌古調，歸思欲沾巾。
 >
