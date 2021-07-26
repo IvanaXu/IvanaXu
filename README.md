@@ -1,14 +1,14 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 赋得陶母墓送别
+> 喜罗君又持扶晨书至
 >
-> 明·赵迪
+> 明末清初·屈大均
 >
-> 剪发待佳宾，陶氏有贤母。
+> 新安江好水，生得有情鱼。
 > 
-> 孤冢依空山，芳名亘千古。
+> 岁岁衔芳信，年年到敝庐。
 > 
-> 野花笑春风，山鸟啼寒雨。
+> 萝魄因尔少，音问更谁疏。
 > 
-> 送君归故乡，因之为延伫。
+> 自古潇湘客，鳞鳞爱媵予。
