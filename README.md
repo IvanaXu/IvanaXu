@@ -1,23 +1,17 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 行路難·大道如青天
+> 琴歌
 > 
-> 李白
+> 李頎
 > 
-> 大道如青天，我獨不得出。
+> 主人有酒歡今夕，請奏鳴琴廣陵客。
 > 
-> 羞逐長安社中兒，赤雞白雉賭梨慄。
+> 月照城頭烏半飛，霜悽萬樹風入衣。(萬樹 一作：萬木)
 > 
-> 彈劍作歌奏苦聲，曳裾王門不稱情。
+> 銅爐華燭燭增輝，初彈淥水後楚妃。
 > 
-> 淮陰市井笑韓信，漢朝公卿忌賈生。
+> 一聲已動物皆靜，四座無言星欲稀。
 > 
-> 君不見昔時燕家重郭隗，擁篲折節無嫌猜。
-> 
-> 劇辛樂毅感恩分，輸肝剖膽效英才。
-> 
-> 昭王白骨縈蔓草，誰人更掃黃金臺？
-> 
-> 行路難，歸去來！
+> 清淮奉使千餘里，敢告雲山從此始。
 >
