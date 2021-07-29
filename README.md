@@ -13,3 +13,4 @@
 > 
 > 懲羹吹齏，謂人懲前警後；酒囊飯袋，謂人少學多餐。隱逸之士，漱石枕流；沉湎之夫，藉糟枕麴。昏庸桀紂，胡爲酒池肉林；苦學仲淹，惟有斷齏畫粥。
 >
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
