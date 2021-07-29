@@ -46,4 +46,5 @@ with open("README.md", "w") as f:
 """
     1、https://github.com/chinese-poetry/chinese-poetry.
     2、https://github.com/Werneror/Poetry.
+    3、https://github.com/anuraghazra/github-readme-stats/issues/1215
 """
