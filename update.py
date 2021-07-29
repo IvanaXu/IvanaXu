@@ -5,7 +5,7 @@ import random
 import pandas as pd
 
 # vue-dark, graywhite
-url1 = "https://github-readme-stats.vercel.app/api?username=IvanaXu"#&show_icons=true&theme=vue-dark"
+url1 = "https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark"
 url2 = "https://github.com/anuraghazra/github-readme-stats"
 url3 = "https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite"
 
