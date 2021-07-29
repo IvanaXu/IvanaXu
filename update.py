@@ -8,7 +8,7 @@ import pandas as pd
 url1 = "https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark"
 url2 = "https://github.com/anuraghazra/github-readme-stats"
 url3 = "https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=3&theme=graywhite"
-url4 = "\n[![](https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&theme=vue-dark)]()"
+url4 = "\n[![](https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&hide_title=True&theme=vue-dark)]()"
 
 stats = f"[![IvanaXu's github stats]({url1})]({url2})"
 toplangs = f"""<img align="right" src="{url3}" />"""
