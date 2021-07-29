@@ -12,7 +12,8 @@ url4 = "\n[![IvanaXu's github stats](https://github-readme-stats.vercel.app/api/
 
 stats = f"[![IvanaXu's github stats]({url1})]({url2})"
 toplangs = f"""<img align="right" src="{url3}" />"""
-title = f"{stats}\n{toplangs}\n# བཀྲ་ཤིས་བདེ་ལེགས་"
+title = f"{stats}\n{toplangs}\n{url4}\n# བཀྲ་ཤིས་བདེ་ལེགས་"
+
 
 if random.random() < 0.618:
     print("@1")
@@ -41,7 +42,7 @@ else:
 
 # Write
 with open("README.md", "w") as f:
-    f.write(f"{title}\n{conts}\n{url4}")
+    f.write(f"{title}\n{conts}")
 
 # Thx
 """
