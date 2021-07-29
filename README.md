@@ -14,5 +14,3 @@
 > 岂不夙夜，谓行多露。
 
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&theme=vue-dark&custom_title=Programming%20Times%20(since%20Jul%203%202021)">
