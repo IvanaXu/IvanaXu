@@ -3,10 +3,11 @@
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&hide_title=True&theme=vue-dark)](https://github.com/IvanaXu)
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 怀古
->
-> 辽·萧观音
->
-> 宫中只数赵家妆，败雨残云误汉王。
+> 訪袁拾遺不遇
 > 
-> 惟有知情一片月，曾窥飞燕入昭阳。
+> （唐）孟浩然
+> 
+> 洛陽訪才子，江嶺作流人。
+> 
+> 聞說梅花早，何如此地春。
+>
