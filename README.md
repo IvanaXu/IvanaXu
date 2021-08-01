@@ -3,15 +3,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&hide_title=True&theme=vue-dark)](https://github.com/IvanaXu)
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 至德二載甫自京金光門
+> 周颂
 > 
-> 杜甫
-> 
-> 此道昔歸順，西郊胡正繁。
-> 
-> 至今殘破膽，應有未招魂。
-> 
-> 近得歸京邑，移官豈至尊。
-> 
-> 無才日衰老，駐馬望千門。
+> 天作高山，大王荒之。彼作矣，文王康之。彼徂矣，岐有夷之行。子孙保之。
 >
