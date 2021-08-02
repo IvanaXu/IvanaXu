@@ -9,11 +9,12 @@ u = "IvanaXu"
 url1 = f"https://github-readme-stats.vercel.app/api?username={u}&show_icons=true&theme=vue-dark"
 url2 = f"https://github.com/anuraghazra/github-readme-stats"
 url3 = f"https://github-readme-stats.vercel.app/api/top-langs/?username={u}&langs_count=3&theme=graywhite"
-url4 = f"\n[![](https://github-readme-stats.vercel.app/api/wakatime?username={u}&layout=compact&langs_count=6&hide_title=True&theme=vue-dark)](https://github.com/{u})"
+url4 = f"https://github-readme-stats.vercel.app/api/wakatime?username={u}&layout=compact&langs_count=6&hide_title=True&theme=vue-dark"
 
 stats = f"[![IvanaXu's github stats]({url1})]({url2})"
 toplangs = f"""<img align="right" src="{url3}" />"""
-title = f"{stats}\n{toplangs}\n{url4}\n# བཀྲ་ཤིས་བདེ་ལེགས་"
+wakatime = f"""<img src="{url4}" />"""
+title = f"{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་"
 
 
 if random.random() < 0.618:
