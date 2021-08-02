@@ -14,7 +14,7 @@ url4 = f"https://github-readme-stats.vercel.app/api/wakatime?username={u}&layout
 stats = f"[![IvanaXu's github stats]({url1})]({url2})"
 toplangs = f"""<img align="right" src="{url3}" />"""
 wakatime = f"""<img src="{url4}" />"""
-title = f"""{stats}\n<div align="center">\n{toplangs}\n{wakatime}\n</div>\n# བཀྲ་ཤིས་བདེ་ལེགས་"""
+title = f"""{stats}\n<div>\n{toplangs}\n{wakatime}\n</div>\n# བཀྲ་ཤིས་བདེ་ལེགས་"""
 
 
 if random.random() < 0.618:
