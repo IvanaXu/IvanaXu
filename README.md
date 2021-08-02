@@ -3,11 +3,11 @@
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&hide_title=True&theme=vue-dark)](https://github.com/IvanaXu)
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 送春
+> 初夏睡起
 > 
-> （宋）王令
+> （宋）楊萬里
 > 
-> 三月殘花落更開，小檐日日燕飛來。
+> 梅子流酸濺齒牙，芭蕉分綠上窗紗。
 > 
-> 子規夜半猶啼血，不信東風喚不回。
+> 日長睡起無情思，閒看兒童捉柳花。
 >
