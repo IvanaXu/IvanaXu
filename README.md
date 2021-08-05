@@ -2,15 +2,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 題玄武禪師屋壁
-> 
-> （唐）杜甫
-> 
-> 何年顧虎頭，滿壁畫滄州。
-> 
-> 赤日石林氣，青天江海流。
-> 
-> 錫飛常近鶴，杯渡不驚鷗。
-> 
-> 似得廬山路，真隨惠遠遊。
+> 巴谣歌
 >
+> 秦·阙名
+>
+> 神仙得者茅初成，驾龙上升入太清。
+> 
+> 时下玄洲戏赤城，继世而往在我盈，帝若学之腊嘉平。
