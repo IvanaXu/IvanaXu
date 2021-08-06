@@ -2,30 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 豫章行
+> 送汤氏兄弟归建昌省其尊人惕庵先生时先生八十馀矣 其二
 >
-> 汉·两汉乐府
+> 明末清初·屈大均
 >
-> 白杨初生时，乃在豫章山。
+> 海内谁华发，天遗一老多。
 > 
-> 上叶摩青云，下根通黄泉。
+> 君归亲几杖，莫复出烟萝。
 > 
-> 凉秋八九月，山客持斧斤。
+> 朱萼当春好，黄花奈晚何。
 > 
-> 我□何皎皎，梯落□□□。
-> 
-> 根株已断绝，颠倒严石间。
-> 
-> 大匠持斧绳，锯墨齐两端。
-> 
-> 一驱四五里，枝叶自相捐。
-> 
-> □□□□□，会为舟船燔。
-> 
-> 身在洛阳宫，根在豫章山。
-> 
-> 多谢枝与叶，何时复相连。
-> 
-> 吾生百年□，自□□□俱。
-> 
-> 何意万人巧，使我离根株。
+> 庞公贤父子，招手鹿门过。
