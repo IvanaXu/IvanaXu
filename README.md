@@ -2,15 +2,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 扈從登封途中作
-> 
-> （唐）宋之問
-> 
-> 帳殿鬱崔嵬，仙遊實壯哉！
-> 
-> 曉雲連幕卷，夜火雜星迴。
-> 
-> 谷暗千旗出，山鳴萬乘來。
-> 
-> 扈從良可賦，終乏掞天才。
+> 题张子正运使所藏杨德懋山居老闲图仍次元韵四首 其三
 >
+> 金末元初·王寂
+>
+> 世路风波俯仰閒，趑趄行恐堕机关。
+> 
+> 岂知野鹿便丰草，金络从渠十二闲。
