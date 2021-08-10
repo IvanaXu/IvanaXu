@@ -2,26 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 阴字亭
+> 登禅冈寺望和虞记室诗
 >
-> 宋末元初·熊鉌
+> 南北朝·何逊
 >
-> 涌翠岂兰亭，唐峰非山阴。
+> 南望南郭门，拱树稍云密。
 > 
-> 一渠疏曲水，四野成茂林。
+> 北窗北溱道，重楼雾中出。
 > 
-> 对此坐叹息，超然起遐心。
+> 接树隐高蝉，交枝承落日。
 > 
-> 当年诸王集，幽情畅登临。
-> 
-> 虚旷非远识，绝胜名利襟。
-> 
-> 近代翁李游，至理穷高深。
-> 
-> 云何夸毗子，清谈且骎骎。
-> 
-> 抗志有近远，抚事无古今。
-> 
-> 此日复何日，有酒始酌斟。
-> 
-> 援琴不敢发，谁欤为知音。
+> 光阴不可舍，怀抱何由悉。
