@@ -2,24 +2,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 咏汉高祖
+> 小雅
+> 
+> 鸳鸯于飞，毕之罗之。君子万年，福禄宜之。
+> 
+> 鸳鸯在梁，戢其左翼。君子万年，
+> 
+> 宜其遐福。乘马在厩，摧之秣之。君子万年，福禄艾之。
+> 
+> 乘马在厩，秣之摧之。君子万年，福禄绥之。
 >
-> 隋末唐初·王圭
->
-> 汉祖起丰沛，乘运以跃鳞。
-> 
-> 手奋三尺剑，西灭无道秦。
-> 
-> 十月五星聚，七年四海宾。
-> 
-> 高抗威宇宙，贵有天下人。
-> 
-> 忆昔与项王，契阔时未伸。
-> 
-> 鸿门既薄蚀，荥阳亦蒙尘。
-> 
-> 虮虱生介胄，将卒多苦辛。
-> 
-> 爪牙驱信越，腹心谋张陈。
-> 
-> 赫赫西楚国，化为丘与榛。
