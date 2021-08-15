@@ -2,13 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 小雅
+> 国风
 > 
-> 鸳鸯于飞，毕之罗之。君子万年，福禄宜之。
+> 出自北门，忧心殷殷。终窭且贫，莫知我艰。已焉哉！天实为之，谓之何哉！
 > 
-> 鸳鸯在梁，戢其左翼。君子万年，
+> 王事适我，政事一埤益我。我入自外，室人交遍谪我。已焉哉！天实为之，谓之何哉！
 > 
-> 宜其遐福。乘马在厩，摧之秣之。君子万年，福禄艾之。
-> 
-> 乘马在厩，秣之摧之。君子万年，福禄绥之。
+> 王事敦我，政事一埤遗我。我入自外，室人交遍摧我。已焉哉！天实为之，谓之何哉！
 >
