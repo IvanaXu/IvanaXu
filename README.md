@@ -2,10 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 巴谣歌
->
-> 秦·阙名
->
-> 神仙得者茅初成，驾龙上升入太清。
+> 田家
 > 
-> 时下玄洲戏赤城，继世而往在我盈，帝若学之腊嘉平。
+> （宋）范成大
+> 
+> 晝出耘田夜績麻，村莊兒女各當家。
+> 
+> 童孫未解供耕織，也傍桑陰學種瓜。
+>
