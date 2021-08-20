@@ -2,18 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 咏史诗八首 其三
+> 新嫁娘詞
+> 
+> 王建
+> 
+> 三日入廚下，洗手作羹湯。
+> 
+> 未諳姑食性，先遣小姑嘗。
 >
-> 魏晋·左思
->
-> 吾希段干木，偃息藩魏君。
-> 
-> 吾慕鲁仲连，谈笑却秦军。
-> 
-> 当世贵不羁，遭难能解纷。
-> 
-> 功成耻受赏，高节卓不群。
-> 
-> 临组不肯绁，对圭宁肯分。
-> 
-> 连玺曜前庭，比之犹浮云。
