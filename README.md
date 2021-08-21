@@ -2,14 +2,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 山家七首 其四
+> 归家前一日雨有怀逸庐
 >
-> 金·周昂
+> 近现代·黄仁基
 >
-> 简易军中事，川原入望多。
+> 已得看山十日闲，每从幽处写诗还。
 > 
-> 草平铺碧锦，山远出青螺。
-> 
-> 远愧桃花水，重临杏子河。
-> 
-> 去年关塞意，萧䬃起悲歌。
+> 可能冲雨如前约，同看溪南未尽山。
