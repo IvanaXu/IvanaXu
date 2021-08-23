@@ -2,15 +2,26 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 宿龍興寺
-> 
-> （唐）綦毋潛
-> 
-> 香剎夜忘歸，鬆清古殿扉。
-> 
-> 燈明方丈室，珠系比丘衣。
-> 
-> 白日傳心淨，青蓮喻法微。
-> 
-> 天花落不盡，處處鳥銜飛。
+> 歌
 >
+> 汉·四皓
+>
+> 莫莫高山。
+> 
+> 深谷逶迤。
+> 
+> 晔晔紫芝。
+> 
+> 可以疗饥。
+> 
+> 唐虞世远。
+> 
+> 吾将何归。
+> 
+> 驷马高盖。
+> 
+> 其忧甚大。
+> 
+> 富贵之畏人兮。
+> 
+> 不若贫贱之肆志。
