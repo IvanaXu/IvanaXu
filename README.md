@@ -2,14 +2,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 送缪秀才教授真州
+> 品菊
 >
-> 元·赵孟頫
+> 清末民国初·许南英
 >
-> 髯生别我将安适，言向真州作教官。
+> 秋色漫相争，霜花种种呈。
 > 
-> 但使清风生绛帐，何妨朝日照空槃。
+> 如人甘澹泊，等我费详评。
 > 
-> 东园草木因人胜，北固江山隔岸看。
-> 
-> 才近中年巳伤别，可堪南望送归鞍。
+> 傲骨谁堪瘦？孤芳孰最清？何当邀赏识，老圃冠群英！。
