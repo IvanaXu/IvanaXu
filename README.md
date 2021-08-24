@@ -2,11 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 梅
+> 鲁颂
 > 
-> （宋）王淇
+> 有駜有駜，駜彼乘黄。夙夜在公，在公明明。振振鹭，鹭于下。鼓咽咽，醉言舞。于胥乐兮！
 > 
-> 不受塵埃半點侵，竹籬茅舍自甘心。
+> 有駜有駜，駜彼乘牡。夙夜在公，在公饮酒。振振鹭，鹭于飞。鼓咽咽，醉言归。于胥乐兮！
 > 
-> 只因誤識林和靖，惹得詩人說到今。
+> 有駜有駜，駜彼乘駽。夙夜在公，在公载燕。自今以始，岁其有。君子有穀，诒孙子。于胥乐兮！
 >
