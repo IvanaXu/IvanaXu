@@ -2,10 +2,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 题红黄二菊送刘司训赴南阳 其二
+> 极乐寺访海棠还至觉生寺观大钟庭有松绝奇古并纪之 其一
 >
-> 明·符锡
+> 近现代·黄浚
 >
-> 金风飒飒飘众卉，脂菊荧荧凌晓霜。
+> 独笑深林剩几枝，繁华空说介溪碑。
 > 
-> 春色上林无限树，也应摇落见孤芳。
+> 凋零如汝犹多幸，及见荷亭作柱时。
