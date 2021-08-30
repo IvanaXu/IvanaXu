@@ -2,15 +2,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 江州重別薛六柳
-> 
-> 劉長卿
-> 
-> 生涯豈料承優詔，世事空知學醉歌。
-> 
-> 江上月明胡雁過，淮南木落楚山多。
-> 
-> 寄身且喜滄洲近，顧影無如白髮何。
-> 
-> 今日龍鍾人共棄，愧君猶遣慎風波。
+> 译《鲁拜集》 其十七
 >
+> 当代·黄克孙
+>
+> 乾坤寥落一穹庐，日夜循环起太初。
+> 
+> 多少英雄来复去，锦衣华盖尽同途。
