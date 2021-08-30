@@ -2,10 +2,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 和《以司空大师不肯赋诗以诗挑之》诗二首 其二
+> 江南曲 其二
 >
-> 辽·沙门郎思孝
+> 元末明初·刘基
 >
-> 天子天才已善吟，那堪二相更同心。
+> 金陵好是帝王州，城下秦淮水北流。
 > 
-> 直饶万国犹难敌，一智宁当三智深。
+> 惆怅江南旧花月，女儿尽作北歌讴。
