@@ -2,10 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 江南曲 其二
+> 柬詹丈
 >
-> 元末明初·刘基
+> 明末清初·屈大均
 >
-> 金陵好是帝王州，城下秦淮水北流。
+> 炎方秋未凉，萧爽喜禅房。
 > 
-> 惆怅江南旧花月，女儿尽作北歌讴。
+> 僧作琴高弟，花为客故乡。
+> 
+> 无生非老病，有道在清狂。
+> 
+> 为作皋鱼操，凄然风木伤。
