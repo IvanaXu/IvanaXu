@@ -2,15 +2,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 寄全椒山中道士
+> 国风
 > 
-> 韋應物
+> 野有蔓草，零露漙兮。有美一人，清扬婉兮。邂逅相遇，适我愿兮。
 > 
-> 今朝郡齋冷，忽念山中客。
-> 
-> 澗底束荊薪，歸來煮白石。
-> 
-> 欲持一瓢酒，遠慰風雨夕。
-> 
-> 落葉滿空山，何處尋行跡。
+> 野有蔓草，零露瀼瀼。有美一人，婉如清扬。邂逅相遇，与子偕臧。
 >
