@@ -2,16 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 吊卢殷 其六
+> 次韵伯父茶花
 >
-> 唐·孟郊
+> 宋·苏籀
 >
-> 耳闻陋巷生，眼见鲁山君。
+> 鸟咮倾蓝雨春霁，琼芳入眼雾冬昏。
 > 
-> 饿死始有名，饿名高氛氲。
+> 一枝肤雪壶中曜，静几低窗养晏温。
 > 
-> 戆叟老壮气，感之为忧云。
+> 真态妖香自不言，斲冰修月妙无痕。
 > 
-> 所忧唯一泣，古今相纷纷。
-> 
-> 平生与君说，逮此俱云云。
+> 直须哜啜松风碗，岂患诗魔渴醉魂。
