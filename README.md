@@ -2,11 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 小雅
+> 涼州詞
 > 
-> 有菀者柳，不尚息焉。上帝甚蹈，无自暱焉。俾予靖之，后予极焉。
+> 王之渙
 > 
-> 有菀者柳，不尚愒焉。上帝甚蹈，无自瘵焉。俾予靖之，后予迈焉。
+> 黃河遠上白雲間，一片孤城萬仞山。
 > 
-> 有鸟高飞，亦傅于天。彼人之心，于何其臻。曷予靖之，居以凶矜。
+> 羌笛何須怨楊柳，春風不度玉門關。
 >
