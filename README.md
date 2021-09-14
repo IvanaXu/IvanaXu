@@ -2,20 +2,22 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 古意二首 其一
+> 减字木兰花 案上盆兰养之三岁矣，忽抽一蕊，喜赋此阕
 >
-> 元·刘诜
+> 近现代·龙榆生
 >
-> 古风日以丧，交道遂以圮。
+> 孤茎擢秀。
 > 
-> 昔时素心人，忽若匪知己。
+> 拚向灯前人比瘦。
 > 
-> 朝直蓬莱宫，暮宿光禄邸。
+> 对影沈吟。
 > 
-> 联骑多季剧，填门集金史。
+> 肯负东皇长养心。
 > 
-> 疑嗔著天下，名德为垢秕。
+> 出墙红杏。
 > 
-> 古言西施贵，众色失桃李。
+> 酿得春浓还自警。
 > 
-> 不见秦张仪，卷舌让苏子。
+> 怀素开迟。
+> 
+> 待吐幽芬慰所思。
