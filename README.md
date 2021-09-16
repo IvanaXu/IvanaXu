@@ -2,18 +2,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 临江仙
+> 冻水歌
 >
-> 当代·刘季高
+> 先秦·无名氏
 >
-> 江北江南大雨，华亭七月秋凉。
+> 冻水洗我若之何。
 > 
-> 水浩浩洞庭沅湘。
-> 
-> 鲁西成泽国，涛怒太湖狂。
-> 
-> 水落膏腴强占，水生飘溺难当。
-> 
-> 贾君上策烛天阊。
-> 
-> 水人两不犯，万世保安康。
+> 太上糜散我若之何。
