@@ -2,11 +2,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 竹裏館
-> 
-> 王維
-> 
-> 獨坐幽篁裏，彈琴復長嘯。
-> 
-> 深林人不知，明月來相照。
+> 水帘
 >
+> 金末元初·李俊民
+>
+> 倒倾蛟室泻琼瑰，派落空岩雪浪堆。
+> 
+> 卷地封姨收不起，素娥垂下玉钩来。
