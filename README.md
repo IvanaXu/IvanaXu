@@ -2,10 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 偈颂十二首 其八
->
-> 宋·释道璨
->
-> 箭穿杨叶未为亲，透得金尘有几人。
+> 元日
 > 
-> 多谢汾阳曾说破，重阳九日菊花新。
+> （宋）王安石
+> 
+> 爆竹聲中一歲除，春風送暖入屠蘇。
+> 
+> 千門萬戶曈曈日，總把新桃換舊符。
+>
