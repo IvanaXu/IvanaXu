@@ -2,11 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 伊州歌
+> 集靈臺·其二
 > 
-> （唐）金昌緒
+> 張祜
 > 
-> 打起黃鶯兒，莫教枝上啼。
+> 虢國夫人承主恩，平明騎馬入宮門。
 > 
-> 啼時驚妾夢，不得到遼西。
+> 卻嫌脂粉污顏色，淡掃蛾眉朝至尊。
 >
