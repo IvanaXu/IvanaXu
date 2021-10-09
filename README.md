@@ -2,16 +2,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 浣溪沙   其二 三叠前韵
+> 漫兴八首 其二
 >
-> 民国末当代初·饶宗颐
+> 明·王世贞
 >
-> 断送此生百绪捐。
+> 冥搜碧海珊瑚老，细琢青春玉叶过。
 > 
-> 惺忪宿鸟惹人怜。
-> 
-> 爱他楼角出红嫣。
-> 
-> 怨去吹箫声转泪，老来簪发恨生钿。
-> 
-> 销魂总在夕阳前。
+> 只自人间无白雪，不知天上有黄河。
