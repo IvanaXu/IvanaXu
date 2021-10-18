@@ -2,16 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 浣溪沙
+> 舟中与徐文海叙旧追赋旧事三首词虽婉媚意实经常总不能效丽则之言然亦非香奁体也 其一
 >
-> 近现代末当代初·田遨
+> 明·张宁
 >
-> 遐想飞飞兴正长。
+> 龙髻盘云翠作翘，绣鞋尖小束轻绡。
 > 
-> 核能在手意昂扬。
+> 鳞鸿附托芳心许，弟妹传呼小字娇。
 > 
-> 能源无限是阳光。
+> 彩凤竟分萧史伴，黄花瘦减易安腰。
 > 
-> 着得仙衣无冷热，取来天水试温凉。
-> 
-> 鲲鹏变化本寻常。
+> 无端却忆朱帘下，手劈云香待月烧。
