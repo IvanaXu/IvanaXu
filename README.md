@@ -2,11 +2,16 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 五 歌
-> 
-> 山對水，海對河，雪竹對煙蘿。新歡對舊恨，痛飲對高歌。琴再撫，劍重磨，媚柳對枯荷。荷盤從雨洗，柳線任風搓。飲酒豈知欹醉帽，觀棋不覺爛樵柯。山寺清幽，直踞千尋雲嶺；江樓宏敞，遙臨萬頃煙波。
-> 
-> 繁對簡，少對多，裏詠對途歌。宦情對旅況，銀鹿對銅駝。刺史鴨，將軍鵝，玉律對金科。古堤垂嚲柳，曲沼長新荷。命駕呂因思叔夜，引車藺爲避廉頗。千尺水簾，今古無人能手卷；一輪月鏡，乾坤何匠用功磨。
-> 
-> 霜對露，浪對波，徑菊對池荷。酒闌對歌罷，日暖對風和。樑父詠，楚狂歌，放鶴對觀鵝。史才推永叔，刀筆仰蕭何。種橘猶嫌千樹少，寄梅誰信一枝多。林下風生，黃髮村童推牧笠；江頭日出，皓眉溪叟曬漁蓑。
+> 浣溪沙
 >
+> 近现代末当代初·田遨
+>
+> 遐想飞飞兴正长。
+> 
+> 核能在手意昂扬。
+> 
+> 能源无限是阳光。
+> 
+> 着得仙衣无冷热，取来天水试温凉。
+> 
+> 鲲鹏变化本寻常。
