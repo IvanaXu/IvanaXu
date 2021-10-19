@@ -2,14 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 舟中与徐文海叙旧追赋旧事三首词虽婉媚意实经常总不能效丽则之言然亦非香奁体也 其一
+> 敬赋大人竹林真隐之图
 >
-> 明·张宁
+> 宋·章粲
 >
-> 龙髻盘云翠作翘，绣鞋尖小束轻绡。
+> 野草閒花竞赏音，萧然坐阅岁年深。
 > 
-> 鳞鸿附托芳心许，弟妹传呼小字娇。
+> 当贞固日知高节，只静虚中见本心。
 > 
-> 彩凤竟分萧史伴，黄花瘦减易安腰。
+> 何处乾坤无凤集，他时风雨有龙吟。
 > 
-> 无端却忆朱帘下，手劈云香待月烧。
+> 向来七子皆充隐，不止山王累晋林。
