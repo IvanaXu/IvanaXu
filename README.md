@@ -2,12 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 武陵精舍六首 其二 河洑渔梁
+> 古诗十四首 其七
 >
-> 明·岳岱
+> 元末明初·张昱
 >
-> 白石何累累，流水亦复急。
+> 祢衡轻狡人，况以才自负。
 > 
-> 茅茨对夕晖，敝笋待鲜食。
+> 将赴渔阳挝，侮人还自侮。
 > 
-> 晒翅满渔梁，鸬鹚与鸂鶒。
+> 曹公岂容物，嫁恶与黄祖。
+> 
+> 值兹劻勷际，焉用鹦鹉赋？所以贤达士，贵在识时务。
