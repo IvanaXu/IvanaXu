@@ -2,14 +2,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 古诗十四首 其七
+> 小雅
+> 
+> 隰桑有阿，其叶有难。既见君子，其乐如何。
+> 
+> 隰桑有阿，其叶有沃。既见君子，云何不乐。
+> 
+> 隰桑有阿，其叶有幽。既见君子，德音孔胶。
+> 
+> 心乎爱矣，遐不谓矣？中心藏之，何日忘之！
 >
-> 元末明初·张昱
->
-> 祢衡轻狡人，况以才自负。
-> 
-> 将赴渔阳挝，侮人还自侮。
-> 
-> 曹公岂容物，嫁恶与黄祖。
-> 
-> 值兹劻勷际，焉用鹦鹉赋？所以贤达士，贵在识时务。
