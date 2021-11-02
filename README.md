@@ -2,22 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 减字木兰花 为监司寿
+> 杂言和常州李员外副使春日戏题十首 其七
 >
-> 元·曹伯启
+> 唐·权德舆
 >
-> 乾坤清气。
+> 江春好游衍，处处芳菲积。
 > 
-> 崧岳生申名盖世。
+> 綵舫入花津，香车依柳陌。
 > 
-> 白简霜飞。
+> 绿杨烟袅袅，红蕊莺寂寂。
 > 
-> 不为人间鼠发机。
-> 
-> 要期庄算。
-> 
-> 九十春光都占断。
-> 
-> 平秩南讹。
-> 
-> 管领薰风入舜歌。
+> 如何愁思人，独与风光隔。
