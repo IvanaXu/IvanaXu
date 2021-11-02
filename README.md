@@ -2,9 +2,22 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 讀孟嘗君傳
-> 
-> 宋代：王安石 
-> 
-> 世皆稱孟嘗君能得士，士以故歸之，而卒賴其力以脫於虎豹之秦。嗟乎！孟嘗君特雞鳴狗盜之雄耳，豈足以言得士？不然，擅齊之強，得一士焉，宜可以南面而制秦，尚何取雞鳴狗盜之力哉？夫雞鳴狗盜之出其門，此士之所以不至也。
+> 菩萨蛮 丹徒袁伯庸归佛四十余年，尝手书诸经咒，命其弟孝谷为日课。伯庸既殁，孝谷持以乞题
 >
+> 清末近现代初·汪东
+>
+> 金经手贮琅函秘。
+> 
+> 天亲无著相依倚。
+> 
+> 心似月轮明。
+> 
+> 照将诸有情。
+> 
+> 定应生极乐。
+> 
+> 来去无缠缚。
+> 
+> 若去若来时。
+> 
+> 何人窥此机。
