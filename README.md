@@ -2,11 +2,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 十五 刪
+> 讀孟嘗君傳
 > 
-> 興對廢，附對攀，露草對霜菅，歌廉對借寇，習孔對希顏。山壘壘，水潺潺，奉壁對探鐶。禮由公旦作，詩本仲尼刪。驢困客方經灞水，雞鳴人已出函關。幾夜霜飛，已有蒼鴻辭北塞；數朝霧暗，豈無玄豹隱南山。
+> 宋代：王安石 
 > 
-> 猶對尚，侈對慳，霧髻對煙鬟。鶯啼對鵲噪，獨鶴對雙鷳。黃牛峽，金馬山，結草對銜環。崑山惟玉集，合浦有珠還。阮籍舊能爲眼白，老萊新愛着衣斑。棲遲避世人，草衣木食；窈窕傾城女，雲鬢花顏。
-> 
-> 姚對宋，柳對顏，賞善對懲奸。愁中對夢裏，巧慧對癡頑。孔北海，謝東山，使越對徵蠻，淫聲聞濮上，離曲聽陽關。驍將袍披仁貴白，小兒衣着老萊斑。茅舍無人，難卻塵埃生榻上；竹亭有客，尚留風月在窗間。
+> 世皆稱孟嘗君能得士，士以故歸之，而卒賴其力以脫於虎豹之秦。嗟乎！孟嘗君特雞鳴狗盜之雄耳，豈足以言得士？不然，擅齊之強，得一士焉，宜可以南面而制秦，尚何取雞鳴狗盜之力哉？夫雞鳴狗盜之出其門，此士之所以不至也。
 >
