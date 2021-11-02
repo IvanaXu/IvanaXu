@@ -2,14 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 杂言和常州李员外副使春日戏题十首 其七
+> 十五 刪
+> 
+> 興對廢，附對攀，露草對霜菅，歌廉對借寇，習孔對希顏。山壘壘，水潺潺，奉壁對探鐶。禮由公旦作，詩本仲尼刪。驢困客方經灞水，雞鳴人已出函關。幾夜霜飛，已有蒼鴻辭北塞；數朝霧暗，豈無玄豹隱南山。
+> 
+> 猶對尚，侈對慳，霧髻對煙鬟。鶯啼對鵲噪，獨鶴對雙鷳。黃牛峽，金馬山，結草對銜環。崑山惟玉集，合浦有珠還。阮籍舊能爲眼白，老萊新愛着衣斑。棲遲避世人，草衣木食；窈窕傾城女，雲鬢花顏。
+> 
+> 姚對宋，柳對顏，賞善對懲奸。愁中對夢裏，巧慧對癡頑。孔北海，謝東山，使越對徵蠻，淫聲聞濮上，離曲聽陽關。驍將袍披仁貴白，小兒衣着老萊斑。茅舍無人，難卻塵埃生榻上；竹亭有客，尚留風月在窗間。
 >
-> 唐·权德舆
->
-> 江春好游衍，处处芳菲积。
-> 
-> 綵舫入花津，香车依柳陌。
-> 
-> 绿杨烟袅袅，红蕊莺寂寂。
-> 
-> 如何愁思人，独与风光隔。
