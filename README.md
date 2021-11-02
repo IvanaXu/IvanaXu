@@ -2,11 +2,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 海棠
-> 
-> （宋）蘇軾
-> 
-> 東風嫋嫋泛崇光，香霧空濛月轉廊。
-> 
-> 只恐夜深花睡去，故燒高燭照紅妝。
+> 郦道元引橘洲谚
 >
+> 隋·无名氏
+>
+> 昭潭无底橘洲浮。
