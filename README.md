@@ -2,9 +2,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 国风
+> 寓意
 > 
-> 终南何有？有条有梅。君子至止，锦衣狐裘。颜如渥丹，其君也哉！
+> （宋）晏殊
 > 
-> 终南何有？有纪有堂。君子至止，黻衣绣裳。佩玉将将，寿考不忘！
+> 油壁香車不再逢，峽雲無跡任西東。
+> 
+> 梨花院落溶溶月，柳絮池塘淡淡風。
+> 
+> 幾日寂寥傷酒後，一番蕭瑟禁菸中。
+> 
+> 魚書欲寄何由達，水遠山長處處同。
 >
