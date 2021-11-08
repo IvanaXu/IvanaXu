@@ -2,14 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 次韵贾逢源见寄二首 其一
+> 冰盘瓜藕
 >
-> 元末明初·叶颙
+> 明·邓云霄
 >
-> 不成惊世事，愧读古人书。
+> 热思寒水玉，更忆葛仙方。
 > 
-> 老去功名懒，贫来故旧疏。
+> 忽对片冰皛，能生六月凉。
 > 
-> 白云生户牖，明月宿庭除。
+> 甘瓜翻几滑，脆藕拂盘香。
 > 
-> 亦有无心者，携琴访逸居。
+> 坐听莲歌晚，青门意更长。
