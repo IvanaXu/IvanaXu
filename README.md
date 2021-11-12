@@ -2,15 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 黃鶴樓
-> 
-> （唐）崔顥
-> 
-> 昔人已乘黃鶴去，此地空餘黃鶴樓。
-> 
-> 黃鶴一去不復返，白雲千載空悠悠。
-> 
-> 晴川歷歷漢陽樹，芳草萋萋鸚鵡州。
-> 
-> 日暮鄉關何處是，煙波江上使人愁。
+> 寿湖南宗宪五首 其二
 >
+> 宋·廖行之
+>
+> 斯文不于政，体用方殊观。
+> 
+> 颇闻罢谋曹，渠肯先学官。
+> 
+> 而公独古意，首欲尊儒冠。
+> 
+> 果哉此道振，善俗良非难。
