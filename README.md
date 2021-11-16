@@ -2,14 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 赋得边马有归心诗
+> 十一 尤
+> 
+> 榮對辱，喜對憂，夜宴對春遊。燕關對楚水，蜀犬對吳牛。茶敵睡，酒消愁，青眼對白頭。馬遷修史記，孔子作春秋。適興子猷常泛棹，思歸王粲強登樓。窗下佳人，妝罷重將金插鬢；筵前舞妓，曲終還要錦纏頭。
+> 
+> 脣對齒，角對頭，策馬對騎牛。毫尖對筆底，綺閣對雕鏤。楊柳岸，荻蘆洲，語燕對啼鳩。客乘金絡馬，人泛木蘭舟。綠野耕夫春舉耜，碧池漁父晚垂鉤。波浪千層，喜見蛟龍得水；雲霄萬里，驚看鵰鶚橫秋。
+> 
+> 庵對寺，殿對樓，酒艇對漁舟。金龍對綵鳳，豶豕對童牛。王郎帽，蘇子裘，四季對三秋。峯巒扶地秀，江漢接天流。一灣綠水漁村小，萬里青山佛寺幽。龍馬呈河，羲皇闡微而畫卦；神龜出洛，禹王取法以陳疇。
 >
-> 南北朝·沈炯
->
-> 穷秋边马肥，向塞甚思归。
-> 
-> 连镳渡蒲海，束舌下金微。
-> 
-> 已却鱼丽阵，将摧鹤翼围。
-> 
-> 弥忆长楸道，金鞭背落晖。
