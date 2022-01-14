@@ -2,14 +2,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 秋荷效李锦瑟 其一
+> 张家界古绝三十三首 其一
 >
-> 明·凌义渠
+> 当代·程滨
 >
-> 粉悄香乾烂不收，晚汀风薄暗垂头。
+> 雨夜入深山，群山森其廓。
 > 
-> 勾人嫩喘红儿泪，蘸客伤心玉姊愁。
-> 
-> 翠袖自支斜照湿，零钿从泛晓萤留。
-> 
-> 依稀欲梦寒塘月，怕碾香魂半面羞。
+> 被褥暗生霉，蚱蜢栖于幕。
