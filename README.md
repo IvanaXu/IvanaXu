@@ -2,10 +2,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 偶成二首 其一
->
-> 宋末金初·吴激
->
-> 一番瘦笋羽林枪，松架阴阴尽日凉。
+> 国风
 > 
-> 绕屋云烟无定态，连山草木有真香。
+> 泛彼柏舟，在彼中河。髧彼两髦，实维我仪。之死矢靡它。母也天只，不谅人只！
+> 
+> 泛彼柏舟，在彼河侧。髧彼两髦，实维我特。之死矢靡慝。母也天只，不谅人只！
+>
