@@ -2,14 +2,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 元会大飨歌十首 其八 登歌三曲
+> 六言
 >
-> 隋·无名氏
+> 清·吴克明
 >
-> 大齐统历，道化光明。
+> 半生烟蓑雨笠，燃吸楚竹清湘。
 > 
-> 马图呈宝，龟箓告灵。
-> 
-> 百蛮非众，八荒非逖。
-> 
-> 同作尧人，俱包禹迹。
+> 踏破渔樵古道，归来鸟噪斜阳。
