@@ -2,10 +2,16 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 王尧韭以六忆诗见投和之 其六 忆妆
+> 浣溪沙 其一 去年此夜
 >
-> 明·李之世
+> 清·邹祗谟
 >
-> 菱花似水写秋光，画出双眉若个长。
+> 醉唱新词付小红。
 > 
-> 一片乌云翠可鉴，飞来小凤立中央。
+> 去年此夜月明中。
+> 
+> 吹箫脉脉傍帘栊。
+> 
+> 肠断不堪成九曲，心灰难与叠千重。
+> 
+> 笑啼花事听东风。
