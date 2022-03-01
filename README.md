@@ -2,11 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 江行望匡廬
-> 
-> （唐）錢起
-> 
-> 咫尺愁風雨，匡廬不可登。
-> 
-> 只疑雲霧窟，猶有六朝僧。
+> 野行赴塾
 >
+> 清·周馨桂
+>
+> 频年望远不胜嗟，此日萍踪路未赊。
+> 
+> 雨后春堤添柳色，烟中茅屋见桃花。
+> 
+> 久栖虞岭重回首，暂卧香山总是家。
+> 
+> 欲返田园随可得，莫嫌门外即天涯。
