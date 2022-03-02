@@ -2,17 +2,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 同從弟銷南齋玩月憶山陰
-> 
-> 王昌齡
-> 
-> 高臥南齋時，開帷月初吐。
-> 
-> 清輝澹水木，演漾在窗戶。
-> 
-> 冉冉幾盈虛，澄澄變今古。
-> 
-> 美人清江畔，是夜越吟苦。
-> 
-> 千里共如何，微風吹蘭杜。
+> 十索二首 其一
 >
+> 隋·丁六娘
+>
+> 含娇不自转，送眼劳相望。
+> 
+> 无那关情伴，共入同心帐。
+> 
+> 欲防人眼多，从郎索锦障。
