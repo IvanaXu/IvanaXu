@@ -2,27 +2,21 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 哀江頭
+> 小雅
 > 
-> 杜甫
+> 我车既攻，我马既同。四牡庞庞，驾言徂东。
 > 
-> 少陵野老吞聲哭，春日潛行曲江曲。
+> 田车既好，田牡孔阜。东有甫草，驾言行狩。
 > 
-> 江頭宮殿鎖千門，細柳新蒲爲誰綠？
+> 之子于苗，选徒嚣嚣。建旐设旄，搏兽于敖。
 > 
-> 憶昔霓旌下南苑，苑中萬物生顏色。
+> 驾彼四牡，四牡奕奕。赤芾金舄，会同有绎。
 > 
-> 昭陽殿裏第一人，同輦隨君侍君側。
+> 决拾既佽，弓矢既调。射夫既同，助我举柴。
 > 
-> 輦前才人帶弓箭，白馬嚼齧黃金勒。
+> 四黄既驾，两骖不猗。不失其驰，舍矢如破。
 > 
-> 翻身向天仰射雲，一笑正墜雙飛翼。
+> 萧萧马鸣，悠悠旆旌。徒御不惊，大庖不盈。
 > 
-> 明眸皓齒今何在？血污遊魂歸不得。
-> 
-> 清渭東流劍閣深，去住彼此無消息。
-> 
-> 人生有情淚沾臆，江水江花豈終極！
-> 
-> 黃昏胡騎塵滿城，欲往城南望城北。
+> 之子于征，有闻无声。允矣君子，展也大成。
 >
