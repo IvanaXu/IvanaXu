@@ -2,21 +2,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 小雅
+> 夜歸鹿門山歌
 > 
-> 我车既攻，我马既同。四牡庞庞，驾言徂东。
+> 孟浩然
 > 
-> 田车既好，田牡孔阜。东有甫草，驾言行狩。
+> 山寺鐘鳴晝已昏，漁梁渡頭爭渡喧。
 > 
-> 之子于苗，选徒嚣嚣。建旐设旄，搏兽于敖。
+> 人隨沙岸向江村，餘亦乘舟歸鹿門。
 > 
-> 驾彼四牡，四牡奕奕。赤芾金舄，会同有绎。
+> 鹿門月照開煙樹，忽到龐公棲隱處。
 > 
-> 决拾既佽，弓矢既调。射夫既同，助我举柴。
-> 
-> 四黄既驾，两骖不猗。不失其驰，舍矢如破。
-> 
-> 萧萧马鸣，悠悠旆旌。徒御不惊，大庖不盈。
-> 
-> 之子于征，有闻无声。允矣君子，展也大成。
+> 巖扉鬆徑長寂寥，惟有幽人自來去。
 >
