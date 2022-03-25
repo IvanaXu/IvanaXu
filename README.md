@@ -2,14 +2,32 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 送人官满二首 其一
+> 九怀 其七 思忠
 >
-> 金末元初·王寂
+> 汉·王褒
 >
-> 朔风吹云雁程起，木叶萧萧落寒雨。
+> 登九灵兮游神，静女歌兮微晨。
 > 
-> 先生官满游京华，扁舟欲发湘江渚。
+> 悲皇丘兮积葛，众体错兮交纷。
 > 
-> 写诗饯别各尽觞，遥瞻蓬岛三千里。
+> 贞枝抑兮枯槁，枉车登兮庆云。
 > 
-> 思君到日梅乱开，瑞雪花飞凤城里。
+> 感余志兮惨慄，心怆怆兮自怜。
+> 
+> 驾玄螭兮北征，向吾路兮葱岭。
+> 
+> 连五宿兮建旄，扬氛气兮为旌。
+> 
+> 历广漠兮驰骛，览中国兮冥冥。
+> 
+> 玄武步兮水母，与吾期兮南荣。
+> 
+> 登华盖兮乘阳，聊逍遥兮播光。
+> 
+> 抽库娄兮酌醴，援瓟瓜兮接粮。
+> 
+> 毕休息兮远逝，发玉轫兮西行。
+> 
+> 惟时俗兮疾正，弗可久兮此方。
+> 
+> 寤辟摽兮永思，心怫郁兮内伤。
