@@ -2,15 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 初發揚子寄元大校書
+> 三 江
 > 
-> 韋應物
+> 樓對閣，戶對窗，巨海對長江。蓉裳對蕙帳，玉斝對銀釭。青布幔，碧油幢，寶劍對金缸。忠心安社稷，利口覆家邦。世祖中興延馬武，桀王失道殺龍逄。秋雨瀟瀟，漫爛黃花都滿徑；春風嫋嫋，扶疏綠竹正盈窗。
 > 
-> 悽悽去親愛，泛泛入煙霧。
+> 旌對旆，蓋對幢，故國對他邦。千山對萬水，九澤對三江。山岌岌，水淙淙，鼓振對鍾撞。清風生酒舍，皓月照書窗。陣上倒戈辛紂戰，道旁系劍子嬰降。夏日池塘，出沒浴波鷗對對；春風簾幕，往來營壘燕雙雙。
 > 
-> 歸棹洛陽人，殘鍾廣陵樹。
-> 
-> 今朝此爲別，何處還相遇。
-> 
-> 世事波上舟，沿洄安得住。
+> 銖對兩，只對雙，華嶽對湘江。朝車對禁鼓，宿火對寒缸。青瑣闥，碧紗窗，漢社對周邦。笙簫鳴細細，鐘鼓響摐摐。主簿棲鸞名有覽，治中展驥姓惟龐。蘇武牧羊，雪屢餐於北海；莊周活鮒，水必決於西江。
 >
