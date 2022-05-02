@@ -2,14 +2,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 谁园即事八首（选六） 其一
+> 周颂
+> 
+> 嗟嗟臣工，敬尔在公。王厘尔成，来咨来茹。嗟嗟保介，维莫之春，亦又何求？如何新畲？
+> 
+> 于皇来牟，将受厥明。明昭上帝，迄用康年。命我众人：庤乃钱镈，奄观铚艾。
 >
-> 近现代·张瑞玑
->
-> 四面窗轩书百城，琴樽心迹自双清。
-> 
-> 胸中丘壑画千本，眼底沧桑棋一枰。
-> 
-> 剩有文章媚山水，更无书劄到公卿。
-> 
-> 一天风雪孤寒在，到底梅花不世情。
