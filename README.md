@@ -2,14 +2,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 金州怀古
+> 大雅
+> 
+> 凫鹥在泾，公尸在燕来宁。尔酒既清，尔肴既馨。公尸燕饮，福禄来成。
+> 
+> 凫鹥在沙，公尸来燕来宜。尔酒既多，尔肴既嘉。公尸燕饮，福禄来为。
+> 
+> 凫鹥在渚，公尸来燕来处。尔酒既湑，尔肴伊脯。公尸燕饮，福禄来下。
+> 
+> 凫鹥在潀，公尸来燕来宗，既燕于宗，福禄攸降。公尸燕饮，福禄来崇。
+> 
+> 凫鹥在亹，公尸来止熏熏。旨酒欣欣，燔炙芬芬。公尸燕饮，无有后艰。
 >
-> 明·袁衷
->
-> 碧沙红树路茫茫，偶为传宣到异乡。
-> 
-> 方外求仙惭汉武，海东驱石陋秦王。
-> 
-> 连岩翡翠凝烟湿，绕郭玻璃漾日光。
-> 
-> 万里不知身是客，寸心常在五云傍。
