@@ -2,10 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 竹扇诗
+> 行田登海口盘屿山诗
 >
-> 汉·班固
+> 南北朝·谢灵运
 >
-> 供时有度量，异好有团方。
+> 羁苦孰云慰，观海藉朝风。
 > 
-> 来风堪避暑，静夜致清凉。
+> 莫辨洪波极，谁知大壑东。
+> 
+> 依稀采菱歌，仿佛含嚬容。
+> 
+> 遨游碧沙渚，游衍丹山峰。
