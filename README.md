@@ -2,18 +2,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 栗里华阳窝辞 移积金涧辞
+> 叔侄
+> 
+> 曰諸父，曰亞父，皆叔父之輩；曰猶子，曰比兒，俱侄兒之稱。阿大中郎，道韞雅稱叔父；吾家龍文，楊素比美侄兒。烏衣諸郎君，江東稱王謝之子弟；吾家千里駒，符堅羨苻朗爲侄兒。竹林叔侄之稱，蘭玉子侄之譽。
+> 
+> 存侄棄兒，悲伯道之無後；視叔猶父，羨公綽之居官。盧邁無兒，以侄而主身之後；張範遇賊，以子而代侄之生。
 >
-> 宋·王质
->
-> 长史御风兮舍人蹑云，掾左右兮山高谷深。
-> 
-> 昔渺渺兮何世，今茫茫兮何代。
-> 
-> 王谢兮埃中，杨许兮尘外。
-> 
-> 五明重云兮咫尺而阻脩，东春兮西秋。
-> 
-> 群芝兮递芳，朮花参花兮似不仝。
-> 
-> 人兮焉往，药香无歇兮人生不可以久留。
