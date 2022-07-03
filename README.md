@@ -2,22 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 秋游隙溪，饮草亭作
+> 国风
+> 
+> 将仲子兮，无逾我里，无折我树杞。岂敢爱之？畏我父母。仲可怀也，父母之言亦可畏也。
+> 
+> 将仲子兮，无逾我墙，无折我树桑。岂敢爱之？畏我诸兄。仲可怀也，诸兄之言亦可畏也。
+> 
+> 将仲子兮，无逾我园，无折我树檀。岂敢爱之？畏人之多言。仲可怀也，人之多言亦可畏也。
 >
-> 清·林占梅
->
-> 修篁簇簇连沙汀，秋色苍然来草亭。
-> 
-> 岩云片片忽飞去，送到群峰入眼青。
-> 
-> 杖头幸有百钱挂，村沽饮共桑麻话。
-> 
-> 曲涧清泉鸣似琴，平林冷淡秋如画。
-> 
-> 樽前畅饮杯复杯，陶然诗兴酒边来。
-> 
-> 吟秋步入菊畦去，寒香插鬓笑颜开。
-> 
-> 人生自古贵行乐，明朝还把游山约。
-> 
-> 数声牧笛催人归，前村已上如钩月。
