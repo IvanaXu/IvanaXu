@@ -2,11 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 涼州詞
+> 小雅
 > 
-> 王翰
+> 鱼在在藻，有颁其首。王在在镐，岂乐饮酒。
 > 
-> 葡萄美酒夜光杯，欲飲琵琶馬上催。
+> 鱼在在藻，有莘其尾。王在在镐，饮酒乐岂。
 > 
-> 醉臥沙場君莫笑，古來征戰幾人回？
+> 鱼在在藻，依于其蒲。王在在镐，有那其居。
 >
