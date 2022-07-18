@@ -2,14 +2,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 感述
+> 巴谣歌
 >
-> 明末清初·易奇际
+> 秦·阙名
 >
-> 少年未解百忧并，十载青缃浪得名。
+> 神仙得者茅初成，驾龙上升入太清。
 > 
-> 礼及趋庭曾有教，诗当陟圮总无声。
-> 
-> 原鸰并断馀双鹄，柳絮飞残尚一莺。
-> 
-> 欲把新裁写幽恨，不堪痛定理平生。
+> 时下玄洲戏赤城，继世而往在我盈，帝若学之腊嘉平。
