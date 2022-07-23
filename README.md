@@ -2,14 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 二子乘舟
+> 偶感二首 其二
 >
-> 先秦·诗经
+> 民国末当代初·吴未淳
 >
-> 二子乘舟，汎汎其景。
+> 有兴还看竹，无心更钓鳌。
 > 
-> 愿言思子，中心养养。
+> 古今同扰扰，物我两骚骚。
 > 
-> 二子乘舟，汎汎其逝。
+> 蜀犬识何浅，黔驴技不高。
 > 
-> 愿言思子，不瑕有害。
+> 百年方醒日，始悟此生劳。
