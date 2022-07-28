@@ -2,11 +2,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 遊小園不值
+> 送鄭侍御謫閩中
 > 
-> （宋）葉紹翁
+> （唐）高適
 > 
-> 應嫌屐齒印蒼苔，十扣柴扉九不開。
+> 謫去君無恨，閩中我舊過。
 > 
-> 春色滿園關不住，一枝紅杏出牆來。
+> 大都秋雁少，只是夜猿多。
+> 
+> 東路雲山合，南天瘴癘和。
+> 
+> 自當逢雨露，行矣順風波。
 >
