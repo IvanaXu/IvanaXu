@@ -2,15 +2,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&&custom_title=Programming Times(Jul 29 2021-)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 送鄭侍御謫閩中
+> 国风
 > 
-> （唐）高適
+> 冽彼下泉，浸彼苞稂。忾我寤叹，念彼周京。
 > 
-> 謫去君無恨，閩中我舊過。
+> 冽彼下泉，浸彼苞萧。忾我寤叹，念彼京周。
 > 
-> 大都秋雁少，只是夜猿多。
+> 冽彼下泉，浸彼苞蓍。忾我寤叹，念彼京师。
 > 
-> 東路雲山合，南天瘴癘和。
-> 
-> 自當逢雨露，行矣順風波。
+> 芃芃黍苗，阴雨膏之。四国有王，郇伯劳之。
 >
