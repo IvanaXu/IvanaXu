@@ -2,15 +2,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&custom_title=ProgrammingTimes/Since-Jul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 長沙過賈誼宅
+> 小雅
 > 
-> 劉長卿
+> 有杕之杜，有睆其实。王事靡盬，继嗣我日。日月阳止，女心伤止，征夫遑止。
 > 
-> 三年謫宦此棲遲，萬古惟留楚客悲。
+> 有杕之杜，其叶萋萋。王事靡盬，我心伤悲。卉木萋止，女心悲止，征夫归止！
 > 
-> 秋草獨尋人去後，寒林空見日斜時。
+> 陟彼北山，言采其杞。王事靡盬，忧我父母。檀车幝幝，四牡痯痯，征夫不远！
 > 
-> 漢文有道恩猶薄，湘水無情吊豈知。
-> 
-> 寂寂江山搖落處，憐君何事到天涯。
+> 匪载匪来，忧心孔疚。斯逝不至，而多为恤。卜筮偕止，会言近止，征夫迩止！
 >
