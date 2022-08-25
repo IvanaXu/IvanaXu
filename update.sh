@@ -1,6 +1,3 @@
-#
-
-cd /root/proj/code/IvanaXu
 
 python3 update.py
 
