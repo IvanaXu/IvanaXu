@@ -2,11 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&custom_title=ProgrammingTimes/Since-Jul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 小雅
+> 春晴
 > 
-> 营营青蝇，止于樊。岂弟君子，无信谗言。
+> （宋）王駕
 > 
-> 营营青蝇，止于棘。谗人罔极，交乱四国。
+> 雨前初見花間蕊，雨後全無葉底花。
 > 
-> 营营青蝇，止于榛。谗人罔极，构我二人。
+> 蜂蝶紛紛過牆去，卻疑春色在鄰家。
 >
