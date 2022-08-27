@@ -2,14 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&custom_title=ProgrammingTimes/Since-Jul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 冬夜
+> 早春
 >
-> 宋·吴龙翰
+> 宋末金初·吴激
 >
-> 读罢床头一卷易，晚风冻尽铜壶滴。
+> 寂寂重寂寂，出门春草齐。
 > 
-> 起傍危阑啸一声，月明何处人横笛。
+> 晚芳犹著树，江涨欲平溪。
 > 
-> 一屋白云无锁钥，酒酣要摘梅花嚼。
+> 山暝有时雨，村深何处鸡。
 > 
-> 相逢石鼎老弥明，吟罢松梢月欲落。
+> 远山缘底恨，故作傍人低。
