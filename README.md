@@ -2,15 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&custom_title=ProgrammingTimes/Since-Jul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 答丁元珍
+> 絕句
 > 
-> （宋）歐陽修
+> （宋）僧志安
 > 
-> 春風疑不到天涯，二月山城未見花。
+> 古木陰中系短篷，杖藜扶我過橋東。
 > 
-> 殘雪壓枝猶有橘，凍雷驚筍欲抽芽。
-> 
-> 夜聞啼雁生鄉思，病入新年感物華。
-> 
-> 曾是洛陽花下客，野芳雖晚不須嗟。
+> 沾衣欲溼杏花雨，吹面不寒楊柳風。
 >
