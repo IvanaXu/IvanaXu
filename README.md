@@ -2,11 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&custom_title=ProgrammingTimes/Since-Jul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 慶全庵桃花
-> 
-> （宋）謝枋得
-> 
-> 尋得桃源好避秦，桃紅又是一年春。
-> 
-> 花飛莫遣隨流水，怕有漁郎來問津。
+> 拟古十首 其三
 >
+> 金·张建
+>
+> 枯桑依颓垣，摧折生理微。
+> 
+> 剥我枝间叶，备君身上衣。
+> 
+> 叶尽谁复顾，栖鸟来亦稀。
+> 
+> 君看牡丹丛，日日笙歌围。
