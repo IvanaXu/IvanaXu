@@ -1,20 +1,10 @@
-# བཀྲ་ཤིས་བདེ་ལེགས་
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&custom_title=ProgrammingTimes/Since-Jul.29.2021" />
-> 商颂
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=9&theme=graywhite" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=ProgrammingTimes/Since-Jul.29.2021" />
+# བཀྲ་ཤིས་བདེ་ལེགས་
+> 師生
 > 
-> 浚哲维商，长发其祥。洪水芒芒，禹敷下土方。外大国是疆，幅陨既长。有娀方将，帝立子生商。
+> 馬融設絳帳，前授生徒，後列女樂；孔子居杏壇，賢人七十，弟子三千。稱教館曰設帳，又回振鐸；謙教館曰餬口，又曰舌耕。師曰西賓，師席曰函丈；學曰家塾，學俸日束脩。桃李在公門，稱人弟子之多；首蓿長闌干，奉師飲食之薄。
 > 
-> 玄王桓拨，受小国是达，受大国是达。率履不越，遂视既发。相士烈烈。海外有截。
-> 
-> 帝命不违，至于汤齐。汤降不迟，圣敬日跻。昭假迟迟，上帝是祗，帝命式于九围。
-> 
-> 受小球大球，为下国缀旒，何天之休。不竞不絿，不刚不柔。敷政优优。百禄是遒。
-> 
-> 受小共大共，为下国骏厖。何天之龙，敷奏其勇。不震不动，不戁不竦，百禄是总。
-> 
-> 武王载旆，有虔秉钺。如火烈烈，则莫我敢曷。苞有三蘖，莫遂莫达。九有有截，韦顾既伐，昆吾夏桀。
-> 
-> 昔在中叶，有震且业。允也天子，降予卿士。实维阿衡，实左右商王。
+> 冰生於水而寒於水，比學生過於先生；青出於藍而勝於藍，謂弟子優於師傅。未得及門，曰宮牆外望；稱得祕授，曰衣鉢真傳。人稱楊震爲關西夫子，世稱賀循爲當世儒宗。負笈千里，蘇章從師之殷；立雪程門，遊楊敬師之至。弟子稱師之善教，曰如坐春風之中；學業感師之造成，曰仰沾時雨之化。
 >

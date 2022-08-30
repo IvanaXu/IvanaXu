@@ -8,17 +8,16 @@ import pandas as pd
 u = "IvanaXu"
 url1 = f"https://github-readme-stats.vercel.app/api?username={u}&show_icons=true&theme=vue-dark"
 url2 = f"https://github.com/anuraghazra/github-readme-stats"
-url3 = f"https://github-readme-stats.vercel.app/api/top-langs/?username={u}&langs_count=7&theme=graywhite"
+url3 = f"https://github-readme-stats.vercel.app/api/top-langs/?username={u}&langs_count=9&theme=graywhite" # 7
 t = "ProgrammingTimes/Since-Jul.29.2021"
-url4 = f"https://github-readme-stats.vercel.app/api/wakatime?username={u}&layout=compact&langs_count=6&theme=vue-dark&custom_title={t}"
+url4 = f"https://github-readme-stats.vercel.app/api/wakatime?username={u}&layout=compact&langs_count=8&theme=vue-dark&custom_title={t}" # 6
 
 stats = f"[![IvanaXu's github stats]({url1})]({url2})"
 toplangs = f"""<img align="right" src="{url3}" />"""
 wakatime = f"""<img src="{url4}" />"""
 title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་"""
-title = f"""# བཀྲ་ཤིས་བདེ་ལེགས་\n{stats}\n{toplangs}\n{wakatime}"""
 
-
+# 
 if random.random() < 0.618:
     print("@1")
     with open(f"poetry{random.randint(0,5)}.json", "r", encoding="utf-8") as f:
