@@ -2,14 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=7&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=6&theme=vue-dark&custom_title=ProgrammingTimes/Since-Jul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 将至京师寄当事诸老 其四
+> 慶全庵桃花
+> 
+> （宋）謝枋得
+> 
+> 尋得桃源好避秦，桃紅又是一年春。
+> 
+> 花飛莫遣隨流水，怕有漁郎來問津。
 >
-> 明末清初·吴伟业
->
-> 平生踪迹尽繇天，世事浮名总弃捐。
-> 
-> 不召岂能逃圣代，无官敢即傲高眠。
-> 
-> 匹夫志在何难夺，君相思深自见怜。
-> 
-> 记送铁崖诗句好，白衣宣至白衣还。
