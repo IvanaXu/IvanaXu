@@ -2,14 +2,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=ProgrammingTimes/Since-Jul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 送蜀客
+> 杂咏和湘东王诗三首 其一 秋夜
 >
-> 唐·张乔
+> 南北朝·刘缓
 >
-> 剑阁缘空去，西南转几州。
+> 楼上起秋风，绝望秋闺中。
 > 
-> 丹霄行客语，明月杜鹃愁。
+> 烛溜花行满，香燃奁欲空。
 > 
-> 露带山花落，云随野水流。
-> 
-> 相如曾醉地，莫滞少年游。
+> 徒教两行泪，俱浮妆上红。
