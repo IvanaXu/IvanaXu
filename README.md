@@ -2,12 +2,17 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=ProgrammingTimes/Since-Jul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 杂咏和湘东王诗三首 其一 秋夜
->
-> 南北朝·刘缓
->
-> 楼上起秋风，绝望秋闺中。
+> 夜泊牛渚懷古
 > 
-> 烛溜花行满，香燃奁欲空。
+> 李白
 > 
-> 徒教两行泪，俱浮妆上红。
+> 牛渚西江夜，青天無片雲。
+> 
+> 登舟望秋月，空憶謝將軍。
+> 
+> 餘亦能高詠，斯人不可聞。
+> 
+> 明朝掛帆席，楓葉落紛紛。(掛帆
+> 
+> 一作：去)
+>
