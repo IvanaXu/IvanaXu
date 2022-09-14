@@ -2,7 +2,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=ProgrammingTimes/Since-Jul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 周颂
+> 宿雲門寺閣
 > 
-> 维清缉熙，文王之典。肇禋，迄用有成，维周之祯。
+> （唐）孫逖
+> 
+> 香閣東山下，煙花象外幽。
+> 
+> 懸燈千嶂夕，卷幔五湖秋。
+> 
+> 畫壁餘鴻雁，紗窗宿鬥牛。
+> 
+> 更疑天路近，夢與白雲遊。
 >
