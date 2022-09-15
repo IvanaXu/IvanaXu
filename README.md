@@ -2,15 +2,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=ProgrammingTimes/Since-Jul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 宿雲門寺閣
+> 秋日登吳公臺上寺遠眺
 > 
-> （唐）孫逖
+> 劉長卿
 > 
-> 香閣東山下，煙花象外幽。
+> 古臺搖落後，秋日望鄉心。
 > 
-> 懸燈千嶂夕，卷幔五湖秋。
+> 野寺來人少，雲峯隔水深。
 > 
-> 畫壁餘鴻雁，紗窗宿鬥牛。
+> 夕陽依舊壘，寒磬滿空林。
 > 
-> 更疑天路近，夢與白雲遊。
+> 惆悵南朝事，長江獨至今。
 >
