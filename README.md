@@ -2,9 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=ProgrammingTimes/Since-Jul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 国风
+> 海棠
 > 
-> 式微，式微，胡不归？微君之故，胡为乎中露！
+> （宋）蘇軾
 > 
-> 式微，式微，胡不归？微君之躬，胡为乎泥中！
+> 東風嫋嫋泛崇光，香霧空濛月轉廊。
+> 
+> 只恐夜深花睡去，故燒高燭照紅妝。
 >
