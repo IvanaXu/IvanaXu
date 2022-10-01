@@ -2,15 +2,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 侍宴
+> 国风
 > 
-> （唐）沈佺期
+> 泛彼柏舟，在彼中河。髧彼两髦，实维我仪。之死矢靡它。母也天只，不谅人只！
 > 
-> 皇家貴主好神仙，別業初開雲漢邊。
-> 
-> 山出盡如鳴鳳嶺，池成不讓飲龍川。
-> 
-> 妝樓翠幌教春住，舞閣金鋪借日懸。
-> 
-> 敬從乘輿來此地，稱觴獻壽樂鈞天。
+> 泛彼柏舟，在彼河侧。髧彼两髦，实维我特。之死矢靡慝。母也天只，不谅人只！
 >
