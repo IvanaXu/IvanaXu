@@ -2,22 +2,18 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 祝英台近 难后怀蕙庵
+> 鹧鸪天
 >
-> 明末清初·徐石麒
+> 清末近现代初·汪东
 >
-> 雨中山，山下渡，犹是旧时路。
+> 杰阁巍台气象通。
 > 
-> 指尽征帆，都向日边去。
+> 星辰原只隔房栊。
 > 
-> 萧萧红蓼西风，白蘋秋水，望岭表、苏郎何处。
+> 檐前暗堕三更月，海上斜驱七级风。
 > 
-> 莫回头。
+> 人不寐，思无穷。
 > 
-> 只有烟雨鸣鸠，惊飞夕阳坞。
+> 横流此日任西东。
 > 
-> 断刹荒丘。
-> 
-> 再诵鲍照赋。
-> 
-> 归来又恐伤心，人非物换，空一座、锦城如故。
+> 饶渠衔石多精卫，未抵龙骧万斛功。
