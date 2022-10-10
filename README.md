@@ -2,18 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 鹧鸪天
+> 三秦民谣
 >
-> 清末近现代初·汪东
+> 秦·无名氏
 >
-> 杰阁巍台气象通。
+> 武功太白，去天三百。
 > 
-> 星辰原只隔房栊。
+> 孤云两角，去天一握。
 > 
-> 檐前暗堕三更月，海上斜驱七级风。
+> 山水险阻，黄金子午。
 > 
-> 人不寐，思无穷。
-> 
-> 横流此日任西东。
-> 
-> 饶渠衔石多精卫，未抵龙骧万斛功。
+> 蛇盘鸟栊，势与天通。
