@@ -2,14 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 自勉二首
+> 春远
 >
-> 明·胡居仁
+> 唐·杜甫
 >
-> 周南治化何其盛，本在身脩与意诚。
+> 肃肃花絮晚，菲菲红素轻。
 > 
-> 此是圣贤真事业，莫教墙面度平生。
+> 日长唯鸟雀，春远独柴荆。
 > 
-> 此身此理由天付，屋漏多惭忝所生。
+> 数有关中乱，何曾剑外清。
 > 
-> 今后事天知有道，力闲邪妄便存诚。
+> 故乡归不得，地入亚夫营。
