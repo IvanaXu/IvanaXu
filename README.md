@@ -2,22 +2,16 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 虞美人 二月二日寄砚之
+> 与司马治书同闻邻妇夜织诗
 >
-> 当代·石任之
+> 南北朝·王僧孺
 >
-> 檀笺每恨新裁后。
+> 洞房风已激，长廊月复清。
 > 
-> 寒色吹仍透。
+> 蔼蔼夜庭广，飘飘晓帐轻。
 > 
-> 青春剩向骨中销。
+> 杂闻百虫思，偏伤一鸟声。
 > 
-> 可惜当年不语误今朝。
+> 鸟声长不息，妾心复何极。
 > 
-> 梦魂羁我如重雾。
-> 
-> 梦也无由住。
-> 
-> 帝乡幸是著春衫。
-> 
-> 管得落花时候对花惭。
+> 犹恐君无衣，夜夜当窗织。
