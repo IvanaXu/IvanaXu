@@ -2,14 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་
-> 初夏园林即事
+> 初春鹫峰寺送吴非熊之楚
 >
-> 明·张正蒙
+> 明·陈玄胤
 >
-> 夏入园林好，欣逢霁景明。
+> 蘼芜绿遍柳垂丝，黯澹东风乍别时。
 > 
-> 药阑香醉蝶，柳岸绿迷莺。
+> 兰若晓钟乡梦断，布帆春涨客程迟。
 > 
-> 道在心逾逸，情闲迹自清。
+> 月明湘岸闻猿啸，花落黄陵共鸟悲。
 > 
-> 夕阳红欲尽，一抹暮山横。
+> 犹恋同心与同调，酒尊诗卷隔天涯。
