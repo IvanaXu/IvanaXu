@@ -1,39 +1,27 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
-# བཀྲ་ཤིས་བདེ་ལེགས་
-> 客中奉怀竹溪游好四首 西斋先生
+# བཀྲ་ཤིས་བདེ་ལེགས "[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)་
+> 烛影摇红 叶遐庵丈客馆小集赋此兼呈黎六禾、詹无庵、陈寂园、冯秋雪、黄咏雩、胡伯孝诸同座
 >
-> 元末明初·张羽
+> 民国末当代初·朱庸斋
 >
-> 共识王孙贵，吾知长者贤。
+> 驿馆新凉，压枝馀绿当门敛。
 > 
-> 逢人多话旧，爱我竟忘年。
+> 山眉空减晚来妆，一镜车尘罨。
 > 
-> 对饮频辞酒，相思却放船。
+> 樽酒旗亭未酽。
 > 
-> 别来成寂寞，得句向谁传。
+> 怎消他、芳时荏苒。
 > 
-> 质朴古风存，家连水竹村。
+> 不如终付，欹枕分茶，秋光同占。
 > 
-> 旧蒙公子爱，兼得里人尊。
+> 倚曲愁边，才情早谢承平艳。
 > 
-> 客至频倾酿，闲时自灌园。
+> 高楼西北几阴晴，清泪应难掩。
 > 
-> 西楼有枕席，高卧任乾坤。
+> 醒眼登临自厌。
 > 
-> 四海尽王臣，多君历苦辛。
+> 近黄昏、孤悰潋潋。
 > 
-> 绳桥独往路，雪岭几时春。
-> 
-> 哭子余枯眼，休官一病身。
-> 
-> 还闻有趣召，未许便垂纶。
-> 
-> 君方还邑里，我复离家园。
-> 
-> 交臂仍相识，伤心孰与论。
-> 
-> 过桥闻访寺，带雨共归村。
-> 
-> 别后交游冷，唯应独闭门。
+> 江湖倦鬓，接坐相看，吴霜盈点。
