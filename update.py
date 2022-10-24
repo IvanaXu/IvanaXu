@@ -17,7 +17,7 @@ stats = f"[![IvanaXu's github stats]({url1})]({url2})"
 toplangs = f"""<img align="right" src="{url3}" />"""
 wakatime = f"""<img src="{url4}" />"""
 wakatime_total = f"""[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)"""
-title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t😉\t{wakatime_total}"""
+title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}"""
 
 # 
 if random.random() < 0.618:
