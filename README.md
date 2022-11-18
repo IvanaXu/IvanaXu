@@ -2,14 +2,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)
-> 再送杏东考功北上便道省觐
+> 長寧公主東莊侍宴
+> 
+> （唐）李嶠
+> 
+> 別業臨青甸，鳴鑾降紫霄。
+> 
+> 長筵鵷鷺集，仙管鳳凰調。
+> 
+> 樹接南山近，煙含北渚遙。
+> 
+> 承恩鹹已醉，戀賞未還鑣。
 >
-> 明·边贡
->
-> 祖筵晴日照离肠，客思江流共渺茫。
-> 
-> 西去直看家不远，北游虚拟棹相将。
-> 
-> 璧池花发兼桃李，阿阁巢成待凤凰。
-> 
-> 五色愿分庭下綵，入朝重补舜衣裳。
