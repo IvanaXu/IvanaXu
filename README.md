@@ -2,10 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)
-> 馆中书事
->
-> 宋末金初·宇文虚中
->
-> 雨来蒸郁似江乡，雨过西风特地凉。
+> 送元二使安西
 > 
-> 尚有庭花共客恨，可无尊酒慰幽芳。
+> （唐）王維
+> 
+> 渭城朝雨浥輕塵，客舍青青柳色新。
+> 
+> 勸君更盡一杯酒，西出陽關無故人。
+>
