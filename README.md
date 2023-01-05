@@ -2,21 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)
-> 小雅
+> 五 微
 > 
-> 骍骍角弓，翩其反矣。兄弟婚姻，无胥远矣。
+> 來對往，密對稀，燕舞對鶯飛。風清對月朗，露重對煙微。霜菊瘦，雨梅肥，客路對漁磯。晚霞舒錦繡，朝露綴珠璣。夏暑客思欹石枕，秋寒婦念寄邊衣。春水才深，青草岸邊漁父去；夕陽半落，綠莎原上牧童歸。
 > 
-> 尔之远矣，民胥然矣。尔之教矣，民胥效矣。
+> 寬對猛，是對非，服美對乘肥。珊瑚對玳瑁，錦繡對珠璣。桃灼灼，柳依依，綠暗對紅稀。窗前鶯並語，簾外燕雙飛。漢致太平三尺劍，周臻大定一戎衣。吟成賞月之詩，只愁月墮；斟滿送春之酒，惟憾春歸。
 > 
-> 此令兄弟，绰绰有裕。不令兄弟，交相为愈。
-> 
-> 民之无良，相怨一方。受爵不让，至于已斯亡。
-> 
-> 老马反为驹，不顾其后。如食宜饇，如酌孔取。
-> 
-> 毋教猱升木，如涂涂附。君子有徽猷，小人与属。
-> 
-> 雨雪瀌瀌，见晛曰消。莫肯下遗，式居娄骄。
-> 
-> 雨雪浮浮，见晛曰流。如蛮如髦，我是用忧。
+> 聲對色，飽對飢，虎節對龍旗。楊花對桂葉，白簡對朱衣。尨也吠，燕于飛，蕩蕩對巍巍。春暄資日氣，秋冷借霜威。出使振威馮奉世，治民異等尹翁歸。燕我弟兄，載詠棣棠韡韡；命伊將帥，爲歌楊柳依依。
 >
