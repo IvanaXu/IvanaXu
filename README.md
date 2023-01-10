@@ -2,13 +2,25 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)
-> 国风
+> 大雅
 > 
-> 鸱鸮鸱鸮，既取我子，无毁我室。恩斯勤斯，鬻子之闵斯。
+> 民亦劳止，汔可小康。惠此中国，以绥四方。无纵诡随，以谨无良。
 > 
-> 迨天之未阴雨，彻彼桑土，绸缪牖户。今女下民，或敢侮予？
+> 式遏寇虐，憯不畏明。柔远能迩，以定我王。
 > 
-> 予手拮据，予所捋荼。予所蓄租，予口卒瘏，曰予未有室家。
+> 民亦劳止，汔可小休。惠此中国，以为民逑。无纵诡随，以谨惛怓。
 > 
-> 予羽谯谯，予尾翛翛，予室翘翘。风雨所漂摇，予维音哓哓！
+> 式遏寇虐，无俾民忧。无弃尔劳，以为王休。
+> 
+> 民亦劳止，汔可小息。惠此京师，以绥四国。无纵诡随，以谨罔极。
+> 
+> 式遏寇虐，无俾作慝。敬慎威仪，以近有德。
+> 
+> 民亦劳止，汔可小愒。惠此中国，俾民忧泄。无纵诡随，以谨丑厉。
+> 
+> 式遏寇虐，无俾正败。戎虽小子，而式弘大。
+> 
+> 民亦劳止，汔可小安。惠此中国，国无有残。无纵诡随，以谨缱绻。
+> 
+> 式遏寇虐，无俾正反。王欲玉女，是用大谏。
 >
