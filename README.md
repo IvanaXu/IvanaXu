@@ -2,11 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)
-> 四 豪
+> 十五 刪
 > 
-> 琴對瑟，劍對刀，地迥對天高。峨冠對博帶，紫綬對緋袍。煎異茗，酌香醪，虎兕對猿猱。武夫攻騎射，野婦務蠶繅。秋雨一川淇澳竹，春風兩岸武陵桃。螺髻青濃，樓外晚山千仞；鴨頭綠膩，溪中春水半篙。
+> 興對廢，附對攀，露草對霜菅，歌廉對借寇，習孔對希顏。山壘壘，水潺潺，奉壁對探鐶。禮由公旦作，詩本仲尼刪。驢困客方經灞水，雞鳴人已出函關。幾夜霜飛，已有蒼鴻辭北塞；數朝霧暗，豈無玄豹隱南山。
 > 
-> 刑對賞，貶對褒，破斧對徵袍。梧桐對橘柚，枳棘對蓬蒿。雷煥劍，呂虔刀，橄欖對葡萄。一椽書舍小，百尺酒樓高。李白能詩時秉筆，劉伶愛酒每餺糟。禮別尊卑，拱北衆星常燦燦；勢分高下，朝東萬水自滔滔。
+> 猶對尚，侈對慳，霧髻對煙鬟。鶯啼對鵲噪，獨鶴對雙鷳。黃牛峽，金馬山，結草對銜環。崑山惟玉集，合浦有珠還。阮籍舊能爲眼白，老萊新愛着衣斑。棲遲避世人，草衣木食；窈窕傾城女，雲鬢花顏。
 > 
-> 瓜對果，李對桃，犬子對羊羔。春分對夏至，谷水對山濤。雙鳳翼，九牛毛，主逸對臣勞。水流無限闊，山聳有餘高。雨打村童新牧笠，塵生邊將舊徵袍。俊士居官，榮引鵷鴻之序；忠臣報國，誓殫犬馬之勞。
+> 姚對宋，柳對顏，賞善對懲奸。愁中對夢裏，巧慧對癡頑。孔北海，謝東山，使越對徵蠻，淫聲聞濮上，離曲聽陽關。驍將袍披仁貴白，小兒衣着老萊斑。茅舍無人，難卻塵埃生榻上；竹亭有客，尚留風月在窗間。
 >
