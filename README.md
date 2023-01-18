@@ -2,17 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)
-> 小雅
+> 四 豪
 > 
-> 六月栖栖，戎车既饬。四牡骙骙，载是常服。玁狁孔炽，我是用急。王于出征，以匡王国。
+> 琴對瑟，劍對刀，地迥對天高。峨冠對博帶，紫綬對緋袍。煎異茗，酌香醪，虎兕對猿猱。武夫攻騎射，野婦務蠶繅。秋雨一川淇澳竹，春風兩岸武陵桃。螺髻青濃，樓外晚山千仞；鴨頭綠膩，溪中春水半篙。
 > 
-> 比物四骊，闲之维则。维此六月，既成我服。我服既成，于三十里。王于出征，以佐天子。
+> 刑對賞，貶對褒，破斧對徵袍。梧桐對橘柚，枳棘對蓬蒿。雷煥劍，呂虔刀，橄欖對葡萄。一椽書舍小，百尺酒樓高。李白能詩時秉筆，劉伶愛酒每餺糟。禮別尊卑，拱北衆星常燦燦；勢分高下，朝東萬水自滔滔。
 > 
-> 四牡修广，其大有颙。薄伐玁狁，以奏肤公。有严有翼，共武之服。共武之服，以定王国。
-> 
-> 玁狁匪茹，整居焦获。侵镐及方，至于泾阳。织文鸟章，白旆央央。元戎十乘，以先启行。
-> 
-> 戎车既安，如轾如轩。四牡既佶，既佶且闲。薄伐玁狁，至于大原。文武吉甫，万邦为宪。
-> 
-> 吉甫燕喜，既多受祉。来归自镐，我行永久。饮御诸友，炰鳖脍鲤。侯谁在矣？张仲孝友。
+> 瓜對果，李對桃，犬子對羊羔。春分對夏至，谷水對山濤。雙鳳翼，九牛毛，主逸對臣勞。水流無限闊，山聳有餘高。雨打村童新牧笠，塵生邊將舊徵袍。俊士居官，榮引鵷鴻之序；忠臣報國，誓殫犬馬之勞。
 >
