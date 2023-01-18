@@ -2,11 +2,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)
-> 十五 刪
+> 與陳給事書
 > 
-> 興對廢，附對攀，露草對霜菅，歌廉對借寇，習孔對希顏。山壘壘，水潺潺，奉壁對探鐶。禮由公旦作，詩本仲尼刪。驢困客方經灞水，雞鳴人已出函關。幾夜霜飛，已有蒼鴻辭北塞；數朝霧暗，豈無玄豹隱南山。
+> 唐代：韓愈 
 > 
-> 猶對尚，侈對慳，霧髻對煙鬟。鶯啼對鵲噪，獨鶴對雙鷳。黃牛峽，金馬山，結草對銜環。崑山惟玉集，合浦有珠還。阮籍舊能爲眼白，老萊新愛着衣斑。棲遲避世人，草衣木食；窈窕傾城女，雲鬢花顏。
+> 愈再拜：愈之獲見於閣下有年矣。始者亦嘗辱一言之譽。貧賤也，衣食於奔走，不得朝夕繼見。其後，閣下位益尊，伺候於門牆者日益進。夫位益尊，則賤者日隔；伺候於門牆者日益進，則愛博而情不專。愈也道不加修，而文日益有名。夫道不加修，則賢者不與；文日益有名，則同進者忌。始之以日隔之疏，加之以不專之望，以不與者之心，而聽忌者之說。由是閣下之庭，無愈之跡矣。
 > 
-> 姚對宋，柳對顏，賞善對懲奸。愁中對夢裏，巧慧對癡頑。孔北海，謝東山，使越對徵蠻，淫聲聞濮上，離曲聽陽關。驍將袍披仁貴白，小兒衣着老萊斑。茅舍無人，難卻塵埃生榻上；竹亭有客，尚留風月在窗間。
+> 去年春，亦嘗一進謁於左右矣。溫乎其容，若加其新也；屬乎其言，若閔其窮也。退而喜也，以告於人。其後，如東京取妻子，又不得朝夕繼見。及其還也，亦嘗一進謁於左右矣。邈乎其容，若不察其愚也；悄乎其言，若不接其情也。退而懼也，不敢復進。
+> 
+> 今則釋然悟，翻然悔曰：其邈也，乃所以怒其來之不繼也；其悄也，乃所以示其意也。不敏之誅，無所逃避。不敢遂進，輒自疏其所以，並獻近所爲《復志賦》以下十首爲一卷，卷有標軸。《送孟郊序》一首，生紙寫，不加裝飾。皆有揩字注字處，急於自解而謝，不能俟更寫。閣下取其意而略其禮可也。
+> 
+> 愈恐懼再拜。
 >
