@@ -2,9 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)
-> 国风
+> 秋月
 > 
-> 伐柯如何？匪斧不克。取妻如何？匪媒不得。
+> （宋）程顥
 > 
-> 伐柯伐柯，其则不远。我觏之子，笾豆有践。
+> 清溪流過碧山頭，空水澄鮮一色秋。
+> 
+> 隔斷紅塵三十里，白雲紅葉兩悠悠。
 >
