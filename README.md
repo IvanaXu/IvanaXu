@@ -2,17 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=graywhite" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming~Times/SinceJul.29.2021" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)
-> 燭之武退秦師
+> 貧富
 > 
-> 先秦：左丘明 
+> 命之修短有數，人之富貴在天。惟君子安貧，達人知命。貫朽粟陳，稱羨財多之謂；紫標黃榜，封記錢庫之名。貪愛錢物，謂之錢愚；好置由宅，謂之地癖。守錢虜，譏蓄財而不散；落魄夫，謂失業之無依。貧者地無立錐，富者田連阡陌。
 > 
-> 晉侯、秦伯圍鄭，以其無禮於晉，且貳於楚也。晉軍函陵，秦軍氾南。
+> 室如懸磬，言其甚窘；家無儋石，謂其極貧。無米曰在陳，守死曰待斃。富足曰殷實，命蹇日數奇。蘇涸鮒，乃濟人之急；呼庚癸，是乞人之糧。家徒壁立，司馬相如之貧；扊扅爲炊，秦百里奚之苦。鵠形菜色，皆窮民飢餓之形；炊骨爨骸，謂軍中乏糧之慘。餓死留君臣之義，伯夷叔齊；資財敵王公之富，陶朱倚頓。
 > 
-> 佚之狐言於鄭伯曰：“國危矣，若使燭之武見秦君，師必退。”公從之。辭曰：“臣之壯也，猶不如人；今老矣，無能爲也已。”公曰：“吾不能早用子，今急而求子，是寡人之過也。然鄭亡，子亦有不利焉！”許之。
-> 
-> 夜縋而出，見秦伯，曰：“秦、晉圍鄭，鄭既知亡矣。若亡鄭而有益於君，敢以煩執事。越國以鄙遠，君知其難也，焉用亡鄭以陪鄰？鄰之厚，君之薄也。若舍鄭以爲東道主，行李之往來，共其乏困，君亦無所害。且君嘗爲晉君賜矣，許君焦、瑕，朝濟而夕設版焉，君之所知也。夫晉，何厭之有？既東封鄭，又欲肆其西封，若不闕秦，將焉取之？闕秦以利晉，唯君圖之。”秦伯說，與鄭人盟。使杞子、逢孫、楊孫戍之，乃還。
-> 
-> 子犯請擊之。公曰：“不可。微夫人之力不及此。因人之力而敝之，不仁；失其所與，不知；以亂易整，不武。吾其還也。”亦去之。
-> 
-> （選自《左傳》）
+> 石崇殺妓以侑酒，恃富行兇；何曾一食費萬錢，奢侈過甚。二月賣新絲，五月糶新谷，真是剜肉醫瘡；三年耕而有一年之食，九年耕而有三年之食，庶幾遇荒有備。貧士之腸習黎莧，富人之口厭膏樑。石崇以蠟代薪，王愷以飴沃釜。範丹土竈生蛙，破甑生塵；曾子捉襟見肘，納履決踵，貧不勝言。子路衣敝縕袍，與輕裘立；韋莊數米而飲，稱薪而爨，儉有可鄙。總之飽德之士，不願膏樑；聞譽之施，奚圖文繡。
 >
