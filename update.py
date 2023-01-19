@@ -6,7 +6,7 @@ import pandas as pd
 
 # vue-dark, graywhite
 u = "IvanaXu"
-url1 = f"https://github-readme-stats.vercel.app/api?username={u}&theme=vue-dark"# &show_icons=true
+url1 = f"https://github-readme-stats.vercel.app/api?username={u}&theme=codeSTACKr"# &show_icons=true&theme=vue-dark
 url2 = f"https://github.com/anuraghazra/github-readme-stats"
 url3 = f"https://github-readme-stats.vercel.app/api/top-langs/?username={u}&langs_count=8"# &theme=graywhite
 t = "Programming~Times/SinceJul.29.2021"
