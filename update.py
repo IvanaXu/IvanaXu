@@ -5,7 +5,7 @@ import random
 import pandas as pd
 
 u = "IvanaXu"
-theme = "Gradient" # vue-dark, graywhite, codeSTACKr
+theme = "gradient" # vue-dark, graywhite, codeSTACKr
 url1 = f"https://github-readme-stats.vercel.app/api?username={u}&theme={theme}"# &show_icons=true&theme=vue-dark
 url2 = f"https://github.com/anuraghazra/github-readme-stats"
 url3 = f"https://github-readme-stats.vercel.app/api/top-langs/?username={u}&langs_count=8&theme={theme}"# &theme=graywhite
