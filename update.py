@@ -5,12 +5,12 @@ import random
 import pandas as pd
 
 u = "IvanaXu"
-theme = "gradient" # vue-dark, graywhite, codeSTACKr
+theme = "codeSTACKr" # vue-dark, graywhite, codeSTACKr
 url1 = f"https://github-readme-stats.vercel.app/api?username={u}&theme={theme}"# &show_icons=true&theme=vue-dark
 url2 = f"https://github.com/anuraghazra/github-readme-stats"
 url3 = f"https://github-readme-stats.vercel.app/api/top-langs/?username={u}&langs_count=8&theme={theme}"# &theme=graywhite
 t = "Programming~Times/SinceJul.29.2021"
-url4 = f"https://github-readme-stats.vercel.app/api/wakatime?username={u}&layout=compact&langs_count=8&theme={theme}&custom_title={t}" #&theme=vue-dark
+url4 = f"https://github-readme-stats.vercel.app/api/wakatime?username={u}&langs_count=8&theme={theme}&custom_title={t}" #&theme=vue-dark&layout=compact
 # langs_count url3/url4 6/7, 8/8
 
 stats = f"[![IvanaXu's github stats]({url1})]({url2})"
