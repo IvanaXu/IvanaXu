@@ -2,13 +2,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)
-> 老幼壽誕
+> 衣服
 > 
-> 不凡之子，必異其生；大德之人，必得其壽。稱人生日，曰初度之辰；賀人逢旬，曰生申令旦。三朝洗兒，曰湯餅之會；週歲試嬰，曰晬盤之期。男生辰曰懸弧令旦，女生辰曰設帨佳辰。賀人生子，曰嵩嶽降神；自謙生女，曰緩急非益。生子曰弄璋，生女曰弄瓦。
+> 冠稱元服，衣曰身章。曰弁曰冔曰冕，皆冠之號；日履日舄曰屣，悉鞋之名。上公命服有九錫，士人初冠有三加。簪纓縉紳，仕宦之稱；章甫縫掖，儒者之服。布衣即白丁之謂，青衿乃生員之稱。
 > 
-> 夢熊夢羆，男子之兆；夢虺夢蛇，女子之祥。夢蘭叶吉兆，鄭燕姞生穆公之奇；英物試啼聲，晉溫嶠聞聲知桓公之異。姜嫄生稷，履大人之跡而有娠；簡狄生契，吞玄鳥之卵而葉孕。鱗吐玉書，天生孔子之瑞；王燕投懷，夢孕張說之奇。弗陵太子，懷胎十四月而始生；老子道君，在孕八十一年而始誕。
+> 葛屨履霜，誚儉嗇之過甚；綠衣黃裏，譏貴賤之失倫。上服曰衣，下服曰裳；衣前曰襟，衣後曰裾。敝衣曰襤褸，美服曰華裾。襁褓乃小兒之衣，弁髦亦小兒之飾。左衽是夷狄之服，短後是武夫之衣。尊卑失序，如冠履倒置；富貴不歸，如錦衣夜行。狐裘三十年，儉稱晏子；錦幛四十里，富羨石崇。
 > 
-> 晚年得子，調之老蚌生珠；暮歲登科，正是龍頭屬老。賀男壽曰南極星輝，賀女壽曰中天婺煥。松柏節操，美其壽元之耐久；桑榆晚景，自謙老景之無多。矍鑠稱人康健，聵眊自謙衰頹。黃髮兒齒，有壽之徵；龍鍾潦倒，年高之狀。日月逾邁，徒自傷悲；春秋幾何，問人壽算。
+> 孟嘗君珠履三千客，牛僧孺金釵十二行。千金之裘，非一狐之腋；綺羅之輩，非養蠶之人。貴着重裀疊褥，貧者裋褐不完。卜子夏甚貧，鶉衣百結；公孫弘甚儉，布被十年。南州冠冕，德操稱龐統之邁衆；三河領袖，崔浩羨裴駿之超羣。
 > 
-> 稱少年曰春秋鼎盛，羨高年曰齒德俱尊。行年五十，當知四十九年之非；在世百年，那有三萬六千日之樂。百歲曰上壽，八十曰中壽，六十曰下壽；八十日耋，九十曰耄，百歲曰期頤。童子十歲就外傅，十三舞勺，成童舞象；老者六十杖於鄉，七十杖於國，八十杖於朝。後生固爲可畏，而高年尤是當尊。
+> 虞舜製衣裳，所以命有德；昭侯藏敝褲，所以待有功。唐文宗袖經三浣，晉文公衣不重裘。衣履不敝，不肯更爲，世稱堯帝；衣不經新，何由得故，婦勸桓衝。王氏之眉貼花鈿，被韋固之劍所刺；貴妃之乳服訶子，爲祿山之爪所傷。
+> 
+> 姜氏翕和，兄弟每宵同大被；三章未遇，夫妻寒夜臥牛衣。綬帶輕裘，羊叔子乃斯文主將；葛巾野服，陶淵明真陸地神仙。服之不衷，身之災也；縕袍不恥，志獨超歟。
 >
