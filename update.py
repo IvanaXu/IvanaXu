@@ -23,9 +23,10 @@ tianchi = f"""[![Website](https://img.shields.io/website?label=tianchi&up_color=
 yuque = f"""[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)"""
 leetcode = f"""[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)"""
 
-title = f"""{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\n{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t"""
+title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}"""
 
-# 
+
+## 
 if random.random() < 0.618:
     print("@1")
     with open(f"poetry{random.randint(0,5)}.json", "r", encoding="utf-8") as f:
@@ -50,14 +51,15 @@ else:
         return f"> {d[0][0]}\n>\n> {d[0][1]}·{d[0][2]}\n>\n> " + "\n> \n> ".join([_+"。" for _ in d[0][3].split("。") if _])
     conts = rdata(random.choice(ldata))
     print(conts)
-
-# Write
+    
+    
+## Write
 with open("README.md", "w") as f:
-    # f.write("![](./Source/5eecf35f693f168adc0bc5ad06da35ad.jpg)")
+    f.write("![](./Source/5eecf35f693f168adc0bc5ad06da35ad.jpg)")
     
     f.write(f"{title}\n{conts}")
 
-# Thx
+## Thx
 """
     https://github.com/chinese-poetry/chinese-poetry.
     https://github.com/Werneror/Poetry.
