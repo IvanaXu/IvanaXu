@@ -2,11 +2,21 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)
-> 八 庚
+> 小雅
 > 
-> 深對淺，重對輕，有影對無聲。蜂腰對蝶翅，宿醉對餘酲。天北缺，日東生，獨臥對同行。寒冰三尺厚，秋月十分明。萬卷書容閒客覽，一樽酒待故人傾。心侈唐玄，厭看霓裳之曲；意驕陳主，飽聞玉樹之賡。
+> 弁彼鸴斯，归飞提提。民莫不穀，我独于罹。何辜于天？我罪伊何？心之忧矣，云如之何？
 > 
-> 虛對實，送對迎，後甲對先庚。鼓琴對舍瑟，搏虎對騎鯨。金匼匝，玉瑽琤，玉宇對金莖。花間雙粉蝶，柳內幾黃鶯。貧裏每甘藜藿味，醉中厭聽管絃聲。腸斷秋閨，涼吹已侵重被冷；夢驚曉枕，殘蟾猶照半窗明。
+> 踧踧周道，鞫为茂草。我心忧伤，惄焉如捣。假寐永叹，维忧用老。心之忧矣，疢如疾首。
 > 
-> 漁對獵，釣對耕，玉振對金聲。雉城對雁塞，柳嫋對葵傾。吹玉笛，弄銀笙，阮杖對桓箏。墨呼鬆處士，紙號楮先生。露浥好花潘岳縣，風搓細柳亞夫營。撫動琴絃，遽覺座中風雨至；哦成詩句，應知窗外鬼神驚。
+> 维桑与梓，必恭敬止。靡瞻匪父，靡依匪母。不属于毛？不罹于里？天之生我，我辰安在？
+> 
+> 菀彼柳斯，鸣蜩嘒嘒，有漼者渊，萑苇淠淠。譬彼舟流，不知所届，心之忧矣，不遑假寐。
+> 
+> 鹿斯之奔，维足伎伎。雉之朝雊，尚求其雌。譬彼坏木，疾用无枝。心之忧矣，宁莫之知？
+> 
+> 相彼投兔，尚或先之。行有死人，尚或墐之。君子秉心，维其忍之。心之忧矣，涕既陨之。
+> 
+> 君子信谗，如或酬之。君子不惠，不舒究之。伐木掎矣，析薪扡矣。舍彼有罪，予之佗矣。
+> 
+> 莫高匪山，莫浚匪泉。君子无易由言，耳属于垣。无逝我梁，无发我笱。我躬不阅，遑恤我后。
 >
