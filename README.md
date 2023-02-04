@@ -2,11 +2,70 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)
-> 七 陽
-> 
-> 高對下，短對長，柳影對花香。詞人對賦客，五帝對三王。深院落，小池塘，晚眺對晨妝。絳霄唐帝殿，綠野晉公堂。寒集謝莊衣上雪，秋添潘岳鬢邊霜。人浴蘭湯，事不忘於端午；客斟菊酒，興常記於重陽。
-> 
-> 堯對舜，禹對湯，晉宋對隋唐。奇花對異卉，夏日對秋霜。八叉手，九迴腸，地久對天長。一堤楊柳綠，三徑菊花黃。聞鼓塞兵方戰鬥，聽鍾宮女正梳妝。春飲方歸，紗帽半淹鄰舍酒；早朝初退，袞衣微惹御爐香。
-> 
-> 荀對孟，老對莊，嚲柳對垂楊。仙宮對梵宇，小閣對長廊。風月窟，水雲鄉，蟋蟀對螳螂。暖煙香靄靄，寒燭影煌煌。伍子欲酬漁父劍，韓生嘗竊賈公香。三月韶光，常憶花明柳媚；一年好景，難忘橘綠橙黃。
+> 迪志诗
 >
+> 汉·傅毅
+>
+> 咨尔庶士，迨时斯勖。
+> 
+> 日月逾迈，岂云旋复。
+> 
+> 哀我经营，膂力靡及。
+> 
+> 在兹弱冠，靡所树立。
+> 
+> 于赫我祖，显于殷国。
+> 
+> 贰迹阿衡，克光其则。
+> 
+> 武丁兴商，伊宗皇士。
+> 
+> 爰作股肱，万邦是纪。
+> 
+> 奕世载德，迄我显考。
+> 
+> 保膺淑懿，缵修其道。
+> 
+> 汉之中叶，俊乂式序。
+> 
+> 秩彼殷宗，光此勋绪。
+> 
+> 伊余小子，秽陋靡逮。
+> 
+> 惧我世烈，自兹以坠。
+> 
+> 谁能革浊，清我濯溉。
+> 
+> 谁能昭暗，启我童昧。
+> 
+> 先人有训，我讯我诰。
+> 
+> 训我嘉务，诲我博学。
+> 
+> 爰率朋友，寻此旧则。
+> 
+> 契阔夙夜，庶不懈忒。
+> 
+> 秩秩大猷，纪纲庶式。
+> 
+> 匪勤匪昭，匪壹匪测。
+> 
+> 农夫不怠，越有黍稷。
+> 
+> 谁能云作，考之居息。
+> 
+> 二事败叶，多疾我力。
+> 
+> 如彼遵衢，则罔所极。
+> 
+> 二志靡成，聿劳我心。
+> 
+> 如彼兼听，则溷于音。
+> 
+> 于戏君子，无恒自逸。
+> 
+> 徂年如流，鲜兹暇日。
+> 
+> 行迈屡税，胡能有迄。
+> 
+> 密勿朝夕，聿同始卒。
