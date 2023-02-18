@@ -23,6 +23,9 @@ tianchi = f"""[![Website](https://img.shields.io/website?label=tianchi&up_color=
 yuque = f"""[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)"""
 leetcode = f"""[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)"""
 
+# latest
+latest = f"""[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&style=for-the-badge&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)"""
+
 title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}"""
 
 
@@ -58,6 +61,8 @@ with open("README.md", "w") as f:
     # f.write("![](./Source/5eecf35f693f168adc0bc5ad06da35ad.jpg)")
     
     f.write(f"{title}\n{conts}\n")
+    
+    f.write(latest)
 
 ## Thx
 """
