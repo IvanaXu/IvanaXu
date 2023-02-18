@@ -24,7 +24,7 @@ yuque = f"""[![Website](https://img.shields.io/website?label=yuque&up_color=gree
 leetcode = f"""[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)"""
 
 # latest
-latest = f"""[![Website](https://img.shields.io/website?label=leetcode&up_message=IvanaXu&style=social&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)"""
+# latest = f"""[![Website](https://img.shields.io/website?label=leetcode&up_message=IvanaXu&style=social&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)"""
 
 title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}"""
 
@@ -62,7 +62,7 @@ with open("README.md", "w") as f:
     
     f.write(f"{title}\n{conts}\n")
     
-    f.write(latest)
+    # f.write(latest)
 
 ## Thx
 """
