@@ -1,5 +1,5 @@
 # 
-python3 update.py;echo;
+python update.py;echo;
 
 # 
 git add *;echo;
