@@ -2,14 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)
-> 唐荆川先生视师海上奉赠二首 其一
+> 遣懷
+> 
+> 杜牧
+> 
+> 落魄江南載酒行，楚腰纖細掌中輕。(江南 一作：江湖；纖細 一作：腸斷)
+> 
+> 十年一覺揚州夢，贏得青樓薄倖名。
 >
-> 明·胡直
->
-> 翩翩瑶节下烟霄，岁晏关河朔气饶。
-> 
-> 兵法久传黄石略，使旌遥指赤城标。
-> 
-> 雪中鲸海销氛祲，春后鲛宫贡薄绡。
-> 
-> 蓟北越南均报主，勋名那羡汉嫖姚。
