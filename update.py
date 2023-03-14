@@ -8,7 +8,7 @@ u = "IvanaXu"
 theme = "codeSTACKr" # vue-dark, graywhite, codeSTACKr
 url1 = f"https://github-readme-stats.vercel.app/api?username={u}&theme={theme}"# &show_icons=true&theme=vue-dark
 url2 = f"https://github.com/anuraghazra/github-readme-stats"
-url3 = f"https://github-readme-stats.vercel.app/api/top-langs/?username={u}&langs_count=6&theme={theme}"# &theme=graywhite
+url3 = f"https://github-readme-stats.vercel.app/api/top-langs/?username={u}&langs_count=8&theme={theme}"# &theme=graywhite
 
 b = "&nbsp;"
 t = f"Programming{b}Times{b}(Since{b}Jul.29.2021)"
