@@ -2,11 +2,22 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=aistudio&up_color=violet&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)
-> 三 餚
-> 
-> 風對雅，象對爻，巨蟒對長蛟。天文對地理，蟋蟀對螵蛸。龍生矯，虎咆哮，北學對東膠。築臺須壘土，成屋必誅茅。潘岳不忘秋興賦，邊韶常被晝眠嘲。撫養羣黎，已見國家隆治；滋生萬物，方知天地泰交。
-> 
-> 蛇對虺，蜃對蛟，麟藪對鵲巢。風聲對月色，麥穗對桑苞。何妥難，子云嘲，楚甸對商郊。五音惟耳聽，萬慮在心包。葛被湯徵因仇餉，楚遭齊伐責包茅。高矣若天，洵是聖人大道；淡而如水，實爲君子神交。
-> 
-> 牛對馬，犬對貓，旨酒對嘉餚。桃紅對柳綠，竹葉對鬆梢，藜杖叟，布衣樵，北野對東郊。白駒形皎皎，黃鳥語交交。花圃春殘無客到，柴門夜永有僧敲。牆畔佳人，飄揚競把鞦韆舞；樓前公子，笑語爭將蹴踘拋。
+> 雨中归凤城柬徐侯戢斋二首
 >
+> 明末清初·陈恭尹
+>
+> 山多佳气翠重重，知有神君在五峰。
+> 
+> 暂泊溪桥逢骤雨，乍眠江馆听新钟。
+> 
+> 数声集野初归雁，百里惊雷欲起龙。
+> 
+> 拟待晴天花尽发，万松堤上试扶筇。
+> 
+> 昨来珠海米如珠，万石今看满石湖。
+> 
+> 直道信知千载在，乐郊真觉此邦殊。
+> 
+> 德如风草人皆偃，令下泉源众所趋。
+> 
+> 旧是龙岩山下住，白头归作老农夫。
