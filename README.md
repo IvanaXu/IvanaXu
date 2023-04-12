@@ -2,11 +2,19 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=aistudio&up_color=violet&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)
-> 王孫圉論楚寶
+> 天文
 > 
-> 先秦：佚名 
+> 混沌初開，乾坤始奠。氣之輕清上浮者爲天，氣之重濁下凝者爲地。日月五星，謂之七政；天地與人，謂之三才。日爲衆陽之宗，月乃太陰之象。虹名螮蝀，乃天地之淫氣；月裏蟾蜍是月魄之精光。
 > 
-> 王孫圉聘於晉，定公饗之。趙簡子鳴玉以相，問於王孫圉曰：“楚之白珩猶在乎？”對曰：“然。”簡子曰：“其爲寶也，幾何矣？”曰：“未嘗爲寶。楚之所寶者，曰觀射父，能作訓辭，以行事於諸侯，使無以寡君爲口實。又有左史倚相，能道訓典，以敘百物，以朝夕獻善敗於寡君，使寡君無忘先王之業；又能上下說於鬼神，順道其欲惡，使神無有怨痛於楚國。又有藪曰云，連徒洲，金、木、竹、箭之所生也，龜、珠、角、齒、皮、革、羽、毛，所以備賦，以戒不虞者也；所以共幣帛，以賓享於諸侯者也。若諸侯之好幣具，而導之以訓辭，有不虞之備，而皇神相之，寡君其可以免罪於諸侯，而國民保焉。此楚國之寶也。若夫白珩，先王之玩也，何寶之焉？”
+> 風欲起而石燕飛，天將雨而商羊舞。旋風名爲羊角，閃電號曰雷鞭。青女乃霜之神，素娥即月之號。雷部至捷之鬼曰律令，雷部推車之女曰阿香。雲師系是豐隆，雪神乃是滕六。歘火、謝仙，俱掌雷火；飛廉、箕伯，悉是風神。
 > 
-> “圉聞國之寶，六而已：聖能制議百物，以輔相國家，則寶之；玉足以庇廕嘉穀，使無水旱之災，則寶之；龜足以憲臧否，則寶之；珠足以御火災，則寶之；金足以御兵亂，則寶之；山林藪澤足以備財用，則寶之。若夫譁囂之美，楚雖蠻夷，不能寶也。”
+> 列缺乃電之神，望舒是月之御。甘霖、甘澍，僅指時雨；玄穹、彼蒼，悉稱上天。雪花飛六出，先兆豐年；日上已三竿，乃雲時晏。蜀犬吠日，比人所見甚稀；吳牛喘月，笑人畏懼過甚。
+> 
+> 望切者，若雲霓之望；恩深者，如雨露之恩。參商二星，其出沒不相見；牛女兩宿，惟七夕一相逢。后羿妻，奔月宮而爲嫦娥；傅說死，其精神託於箕尾。披星戴月，謂早夜之奔馳；沐雨櫛風，謂風塵之勞苦。事非有意，譬如雲出無心；恩可遍施，乃曰陽春有腳。
+> 
+> 饋物致敬，曰敢效獻曝之忱；託人轉移，曰全賴回天之力。感救死之恩，曰再造；誦再生之德，曰二天。勢易盡者若冰山，事相懸者如天壤。晨星謂賢人廖落，雷同謂言語相符。心多過慮，何異杞人憂天；事不量力，不殊夸父追日。
+> 
+> 如夏日之可畏，是謂趙盾；如冬日之可愛，是謂趙衰。齊婦含冤，三年不雨；鄒衍下獄，六月飛霜。父仇不共戴天，子道須當愛日。
+> 
+> 盛世黎民，嬉遊於光天化日之下；太平天子，上召夫景星慶雲之祥。夏時大禹在位，上天雨金；春秋孝經既成，赤虹化玉。箕好風，畢好雨，比庶人願欲不同；風從虎，雲從龍，比君臣會合不偶。雨暘時若，系是休徵；天地交泰，稱斯盛世。
 >
