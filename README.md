@@ -2,15 +2,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=aistudio&up_color=violet&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)
-> 和賈舍人早朝
+> 偶成
 > 
-> （唐）王維
+> （宋）程顥
 > 
-> 絳幘雞人報曉籌，尚衣方進翠雲裘。
+> 閒來無事不從容，睡覺東窗日已紅。
 > 
-> 九天閶闔開宮殿，萬國衣冠拜冕旒。
+> 萬物靜觀皆自得，四時佳興與人同。
 > 
-> 日色才臨仙掌動，香菸欲傍袞龍浮。
+> 道通天地有形外，思入風雲變態中。
 > 
-> 朝罷須裁五色詔，佩聲歸到鳳池頭。
+> 富貴不淫貧賤樂，男兒到此是豪雄。
 >
