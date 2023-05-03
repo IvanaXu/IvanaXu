@@ -1,16 +1,16 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=aistudio&up_color=violet&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)
-> 女子
+> 飲食
 > 
-> 男子稟乾之剛，女子配坤之順。賢后稱女中堯舜，烈女稱女中丈夫。曰閨秀，曰淑媛，皆稱賢女；曰閫範，曰懿德，並美佳人。婦主中饋，烹治飲食之名；女子歸寧，回家省親之謂。何謂三從，從父從夫從子；何謂四德，婦德婦言婦工婦容。
+> 甘脆肥膿，命曰腐腸之藥；羹藜含糗，難語太牢之滋。御食曰珍饈，白米曰玉粒。好酒曰青州從事，次酒曰平原督郵。魯酒茅柴，皆爲薄酒；龍團雀舌，盡是香茗。待人禮衰，曰醴酒不設；款客甚薄，曰脫粟相留。竹葉青，狀元紅，俱爲美酒；葡萄綠，珍珠紅，悉是香醪。
 > 
-> 周家母儀，太王有周姜，王季有太妊，文王有太姒；三代亡國，夏桀以妹喜，商紂以妲已，周幽以褒姒。蘭蕙質，柳絮才，皆女人之美譽；冰雪心，柏舟操，悉孀婦之清聲。女貌嬌嬈，謂之尤物；婦容妖媚，實可傾城。
+> 五斗解酲，劉伶獨溺於酒；兩腋生風，盧仝偏嗜乎茶。茶曰酪奴，又曰瑞草；米曰白粲，又曰長腰。太羹玄酒，亦可薦馨；塵飯塗羹，焉能充餓。酒系杜康所造，腐乃淮南所爲。僧謂魚曰水梭花，僧謂雞曰穿籬菜。臨淵羨魚，不如退而結網；揚湯止沸，不如去火抽薪。羔酒自勞，田家之樂；含哺鼓腹，盛世之風。
 > 
-> 潘妃步朵朵蓮花，小蠻腰纖纖楊柳。張麗華髮光可鑑，吳絳仙秀色可餐。麗娟氣馥如蘭，呵氣結成香霧；太真淚紅於血，滴時更結紅冰。孟光力大，石臼可擎；飛燕身輕，掌上可舞。
+> 人貪食曰徒餔啜，食不敬曰嗟來食。多食不厭，謂之饕餮之徒；見食垂涎，謂有欲炙之色。未獲同食，曰向隅；謝人賜食，曰飽德。安步可以當車，晚食可以當肉。飲食貧難曰半菽不飽，厚恩圖報曰每飯不忘。謝擾人曰兵廚之擾，謙待薄曰草具之陳。白飯青芻，待僕馬之厚；炊金爨玉，謝款客之隆。
 > 
-> 至若緹縈上書而救父，盧氏冒刃而衛姑，此女之孝者；侃母截髮以延賓，村媼殺雞而謝客，此女之賢者；韓玖英恐賊穢而自投於穢，陳仲妻恐隕德而寧隕於崖，此女之烈者；王凝妻被牽，斷臂投地；曹令女誓志，引刀割鼻，此女之節者；曹大家續完《漢》帙，徐惠妃援筆成文，此女之才者；戴女之練裳竹笥，孟光之荊釵裙布，此女之貧者；柳氏禿妃之髮，郭氏絕夫之嗣，此女之妒者；賈女偷韓壽之香，齊女致襖廟之毀，此女之淫者。東施效顰而可厭，無鹽刻畫以難堪，此女之醜者。
+> 家貧待客，但知抹月披風；冬月邀賓，乃曰敲冰煮茗。君側元臣，若作酒醴之麴櫱；朝中冢宰，若作和羹之鹽梅。宰肉甚均，陳平見重於父老；戛釜示盡，邱嫂心厭乎漢高。畢卓爲吏部而盜酒，逸興太豪；越王愛士卒而投醪，戰氣百倍。
 > 
-> 自古貞淫各異，人生妍醜不齊。是故生菩薩、九子母、鳩盤荼，謂婦態之更變可畏；錢樹子、一點紅、無廉恥，謂青樓之妓女殊名。此固不列於人羣，亦可附之以博笑。
+> 懲羹吹齏，謂人懲前警後；酒囊飯袋，謂人少學多餐。隱逸之士，漱石枕流；沉湎之夫，藉糟枕麴。昏庸桀紂，胡爲酒池肉林；苦學仲淹，惟有斷齏畫粥。
 >
