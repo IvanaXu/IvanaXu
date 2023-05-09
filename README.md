@@ -2,13 +2,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=aistudio&up_color=violet&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)
-> 製作
+> 應科目時與人書
 > 
-> 上古結繩記事，蒼頡制字代繩。龍馬負圖，伏羲因畫八卦；洛龜呈瑞，大禹因列九疇。歷日是神農所爲，甲子乃大橈所作。算數作於隸首，律呂造自伶倫。甲冑舟車，系軒轅之創始；權量衡度，亦軒轅之立規。
+> 唐代：韓愈 
 > 
-> 伏羲氏造網罟，教佃漁以贍民用；唐太宗造冊籍，編裏甲以稅田糧。興貿易，制耒耜，皆由炎帝；造琴瑟，教嫁娶，乃是伏羲。冠冕衣裳，至黃帝而始備；桑麻蠶績，自元妃而始興。神農嘗百草，醫藥有方；后稷播百穀，粒食攸賴。燧人氏鑽木取火，烹飪初興；有巢氏構木爲巢，宮室始創。
+> 月日，愈再拜：天地之濱，大江之濆，有怪物焉，蓋非常鱗凡介之品匹儔也。其得水，變化風雨，上下於天不難也。
 > 
-> 夏禹欲通神祗，因鑄鏞鍾於郊廟；漢明尊崇佛教，始立寺觀於中朝。周公作指南車，羅盤是其遺制；錢樂作渾天儀，歷家始有所宗。育王得疾，因造無量寶塔；秦政防胡，特築萬里長城。叔孫通制立朝儀，魏曹丕秩序官品。周公獨制禮樂，蕭何造立律條。堯帝作圍棋，以教丹朱；武王作象棋，以象戰鬥。
+> 其不及水，蓋尋常尺寸之間耳，無高山大陵曠途絕險爲之關隔也，然其窮涸，不能自致乎水，爲獱獺之笑者，蓋十八九矣。如有力者，哀其窮而運轉之，蓋一舉手一投足之勞也。然是物也，負其異於衆也，且曰：“爛死於沙泥，吾寧樂之；若俯首貼耳，搖尾而乞憐者，非我之志也。”是以有力者遇之，熟視之若無睹也。其死其生，固不可知也。
 > 
-> 文章取士，興於趙宋；應制以詩，起於李唐。梨園子弟，乃唐明皇作始；《資治通鑑》，乃司馬光所編。筆乃蒙恬所造，紙乃蔡倫所爲。凡今人之利用，皆古聖之前民。
+> 今又有有力者當其前矣，聊試仰首一鳴號焉，庸詎知有力者不哀其窮而忘一舉手，一投足之勞，而轉之清波乎？其哀之，命也；其不哀之，命也；知其在命，而且鳴號之者，亦命也。
+> 
+> 愈今者，實有類於是，是以忘其疏愚之罪，而有是說焉。閣下其亦憐察之。
 >
