@@ -2,11 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=aistudio&up_color=violet&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)
-> 鲁颂
+> 国风
 > 
-> 有駜有駜，駜彼乘黄。夙夜在公，在公明明。振振鹭，鹭于下。鼓咽咽，醉言舞。于胥乐兮！
+> 蟋蟀在堂，岁聿其莫。今我不乐，日月其除。无已大康，职思其居。好乐无荒，良士瞿瞿。
 > 
-> 有駜有駜，駜彼乘牡。夙夜在公，在公饮酒。振振鹭，鹭于飞。鼓咽咽，醉言归。于胥乐兮！
+> 蟋蟀在堂，岁聿其逝。今我不乐，日月其迈。无已大康，职思其外。好乐无荒，良士蹶蹶。
 > 
-> 有駜有駜，駜彼乘駽。夙夜在公，在公载燕。自今以始，岁其有。君子有穀，诒孙子。于胥乐兮！
+> 蟋蟀在堂，役车其休。今我不乐，日月其慆。无以大康。职思其忧。好乐无荒，良士休休。
 >
