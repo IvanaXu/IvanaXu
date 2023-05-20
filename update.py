@@ -12,8 +12,9 @@ url3 = f"https://github-readme-stats.vercel.app/api/top-langs/?username={u}&lang
 
 b = "&nbsp;"
 t = f"Programming{b}Times{b}(Since{b}Jul.29.2021)"
-url4 = f"https://github-readme-stats.vercel.app/api/wakatime?username={u}&layout=compact&langs_count=8&theme={theme}&custom_title={t}" #&theme=vue-dark
+url4 = f"https://github-readme-stats.vercel.app/api/wakatime?username={u}&layout=compact&langs_count=8&theme={theme}&custom_title={t}&range=all_time" #&theme=vue-dark 
 # langs_count url3/url4 6/7, 8/8
+# https://github.com/anuraghazra/github-readme-stats/discussions/2668
 
 stats = f"[![IvanaXu's github stats]({url1})]({url2})"
 toplangs = f"""<img align="right" src="{url3}" />"""
