@@ -2,30 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=aistudio&up_color=violet&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)
-> 一剪梅·自问自答
+> 遣愤四首 其三
 >
-> 近现代末当代初·田遨
+> 清·毛澄
 >
-> 我是何人自掂量。
+> 茫茫西北几交兵，那见沧溟跋浪鲸。
 > 
-> 不涉官场。
+> 直恨未曾填大海，可怜无益筑长城。
 > 
-> 不涉商场。
+> 戈船下濑涛声伏，炮石飞车地道平。
 > 
-> 文场冷处一身藏。
-> 
-> 不会梳妆。
-> 
-> 何必张扬。
-> 
-> 抓紧时间总瞎忙。
-> 
-> 笔底风霜。
-> 
-> 眼底沧桑。
-> 
-> 漫漫长路觅津梁。
-> 
-> 照破迷茫。
-> 
-> 希望之光。
+> 万古中华无此祸，古人何事不迟生。
