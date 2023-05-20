@@ -2,14 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=aistudio&up_color=violet&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)
-> 送吴二尹之官交阯二首 其一
+> 明惠皇后挽歌词四十首 其三十一
 >
-> 明·邓林
+> 金·赵秉文
 >
-> 石渠小假出沙堤，堤路新晴多马蹄。
+> 孙谋贻嗣圣，内教辅先朝。
 > 
-> 道是群贤辞上国，直从五岭入蛮溪。
+> 孝敬全终始，勤劳继夙宵。
 > 
-> 交情欲话心如织，别酒初斟思已迷。
+> 民灾忧水沴，边患虑天骄。
 > 
-> 遥想旅途相忆处，黄茅满地鹧鸪啼。
+> 大渐惟几际，犹思俭德昭。
