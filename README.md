@@ -2,15 +2,19 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=aistudio&up_color=violet&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)
-> 珍寶
+> 相州晝錦堂記
 > 
-> 山川之精英，每泄爲至寶；乾坤之瑞氣，恆結爲奇珍。故玉足以庇嘉穀，明珠可以御火災。魚目豈可混珠，碔砆焉能亂玉。黃金生於麗水，白銀出自朱提。曰孔方、曰家兄，俱爲錢號；日青蚨，曰鵝眼，亦是錢名。
+> 宋代：歐陽修 
 > 
-> 可貴者明月夜光之珠，可珍者璠璵琬琰之玉。宋人以燕石爲玉，什襲緹巾之中；楚王以璞玉爲石，兩刖卞和之足。惠王之珠，光能照乘；和氏之壁，價重連城。鮫人泣淚成珠，宋人削玉爲楮。賢乃國家之寶，儒爲席上之珍。王者聘賢，束帛加壁；真儒抱道，懷瑾握瑜。
+> 仕宦而至將相，富貴而歸故鄉。此人情之所榮，而今昔之所同也。
 > 
-> 雍伯多緣，種玉於藍田而得美婦；太公奇遇，釣璜於渭水而遇文王。剖腹藏珠，愛財而不愛命；纏頭作錦，助舞而更助嬌。孟嘗廉潔，克俾合浦還珠；相如忠勇，能使秦廷歸璧。玉釵作燕飛，漢宮之異事；金錢成蝶舞，唐庫之奇傳。廣錢固可以通神，營利乃爲鬼所笑。以小致大，謂之拋磚引玉；不知所貴，謂之買櫝還珠。
+> 蓋士方窮時，困厄閭里，庸人孺子，皆得易而侮之。若季子不禮於其嫂，買臣見棄於其妻。一旦高車駟馬，旗旄導前，而騎卒擁後，夾道之人，相與駢肩累跡，瞻望諮嗟；而所謂庸夫愚婦者，奔走駭汗，羞愧俯伏，以自悔罪於車塵馬足之間。此一介之士，得志於當時，而意氣之盛，昔人比之衣錦之榮者也。
 > 
-> 賢否罹害，如玉石俱焚；貪得無厭，雖輜珠必算。崔烈以錢買官，人皆惡其銅臭；秦嫂不敢視叔，自言畏其多金。熊袞父亡，天乃雨錢助葬；仲儒家窘，天乃雨金濟貧。漢楊震畏四知而辭金，唐太宗因懲貪而賜絹。
+> 惟大丞相魏國公則不然：公，相人也，世有令德，爲時名卿。自公少時，已擢高科，登顯仕。海內之士，聞下風而望餘光者，蓋亦有年矣。所謂將相而富貴，皆公所宜素有；非如窮厄之人，僥倖得志於一時，出於庸夫愚婦之不意，以驚駭而誇耀之也。然則高牙大纛，不足爲公榮；桓圭袞冕，不足爲公貴。惟德被生民，而功施社稷，勒之金石，播之聲詩，以耀後世而垂無窮，此公之志，而士亦以此望於公也。豈止誇一時而榮一鄉哉！
 > 
-> 晉魯褒作《錢神論》，嘗以錢爲孔方兄；王夷甫口不言錢，乃謂錢爲阿堵物。然而牀頭金盡，壯士無顏；囊內錢空，阮郎羞澀。但匹夫不可懷壁，人生孰不愛財。
+> 公在至和中，嘗以武康之節，來治於相，乃作“晝錦”之堂於後圃。既又刻詩於石，以遺相人。其言以快恩仇、矜名譽爲可薄，蓋不以昔人所誇者爲榮，而以爲戒。於此見公之視富貴爲何如，而其志豈易量哉！故能出入將相，勤勞王家，而夷險一節。至於臨大事，決大議，垂紳正笏，不動聲色，而措天下於泰山之安：可謂社稷之臣矣！其豐功盛烈，所以銘彝鼎而被絃歌者，乃邦家之光，非閭里之榮也。
+> 
+> 餘雖不獲登公之堂，幸嘗竊誦公之詩，樂公之志有成，而喜爲天下道也。於是乎書。
+> 
+> 尚書吏部侍郎、參知政事歐陽修記。
 >
