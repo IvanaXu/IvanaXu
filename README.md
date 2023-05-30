@@ -2,19 +2,92 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=aistudio&up_color=violet&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)
-> 相州晝錦堂記
-> 
-> 宋代：歐陽修 
-> 
-> 仕宦而至將相，富貴而歸故鄉。此人情之所榮，而今昔之所同也。
-> 
-> 蓋士方窮時，困厄閭里，庸人孺子，皆得易而侮之。若季子不禮於其嫂，買臣見棄於其妻。一旦高車駟馬，旗旄導前，而騎卒擁後，夾道之人，相與駢肩累跡，瞻望諮嗟；而所謂庸夫愚婦者，奔走駭汗，羞愧俯伏，以自悔罪於車塵馬足之間。此一介之士，得志於當時，而意氣之盛，昔人比之衣錦之榮者也。
-> 
-> 惟大丞相魏國公則不然：公，相人也，世有令德，爲時名卿。自公少時，已擢高科，登顯仕。海內之士，聞下風而望餘光者，蓋亦有年矣。所謂將相而富貴，皆公所宜素有；非如窮厄之人，僥倖得志於一時，出於庸夫愚婦之不意，以驚駭而誇耀之也。然則高牙大纛，不足爲公榮；桓圭袞冕，不足爲公貴。惟德被生民，而功施社稷，勒之金石，播之聲詩，以耀後世而垂無窮，此公之志，而士亦以此望於公也。豈止誇一時而榮一鄉哉！
-> 
-> 公在至和中，嘗以武康之節，來治於相，乃作“晝錦”之堂於後圃。既又刻詩於石，以遺相人。其言以快恩仇、矜名譽爲可薄，蓋不以昔人所誇者爲榮，而以爲戒。於此見公之視富貴爲何如，而其志豈易量哉！故能出入將相，勤勞王家，而夷險一節。至於臨大事，決大議，垂紳正笏，不動聲色，而措天下於泰山之安：可謂社稷之臣矣！其豐功盛烈，所以銘彝鼎而被絃歌者，乃邦家之光，非閭里之榮也。
-> 
-> 餘雖不獲登公之堂，幸嘗竊誦公之詩，樂公之志有成，而喜爲天下道也。於是乎書。
-> 
-> 尚書吏部侍郎、參知政事歐陽修記。
+> 拟古十首
 >
+> 金·张建
+>
+> 飞云何冉冉，高与日月齐。
+> 
+> 中有两仙人，盛服持玉圭。
+> 
+> 我欲从之游，天险不可跻。
+> 
+> 邈焉望不及，短日西山西。
+> 
+> 客从岳顶来，贻我松粉黄。
+> 
+> 为言服之久，身轻欲飞翔。
+> 
+> 我尝淡无味，我嗅寂无香。
+> 
+> 还君三太息，世好方膏粱。
+> 
+> 枯桑依颓垣，摧折生理微。
+> 
+> 剥我枝间叶，备君身上衣。
+> 
+> 叶尽谁复顾，栖鸟来亦稀。
+> 
+> 君看牡丹丛，日日笙歌围。
+> 
+> 青青河滨柳，柯叶柔且妍。
+> 
+> 一从智巧萌，戕贼为柸棬。
+> 
+> 器成岂不佳，天质失自然。
+> 
+> 争如河堤上，濯濯披春烟。
+> 
+> 石泉何清泠，中有九节蒲。
+> 
+> 蒲性本孤洁，不受滓秽污。
+> 
+> 一移入城市，生意寄泥淤。
+> 
+> 翠叶日焦卷，不霜而自枯。
+> 
+> 寄言守静者，勿涉奔竞途。
+> 
+> 庭前兰蕙窠，三年种不成。
+> 
+> 门外旱蒺藜，一旦还自生。
+> 
+> 第恐伤我足，锄去根与萌。
+> 
+> 如何一雨后，走蔓复纵横。
+> 
+> 有客曳长裾，袖刺谒高闳。
+> 
+> 低头拜阍者，始得通姓名。
+> 
+> 主人果厚眷，开宴海陆并。
+> 
+> 顾必承彼颜，语必顺彼情。
+> 
+> 不如茅檐下，饱我藜藿羹。
+> 
+> 菶菶峄山桐，一树十二枝。
+> 
+> 枝分十二律，所指各不移。
+> 
+> 胡为师襄子，独谓东南奇。
+> 
+> 一律不可阙，一枝不可遗。
+> 
+> 谁能以此意，说似典乐夔。
+> 
+> 美人何荧荧，颜若苕之英。
+> 
+> 绝世而独立，一顾倾人城。
+> 
+> 三星正当户，俟我亦在庭。
+> 
+> 之子无良媒，不敢犯露行。
+> 
+> 丘中有一士，颜貌清且癯。
+> 
+> 缊袍仅蔽体，蔬饭不满盂。
+> 
+> 时出蓬荜门，鼓腹歌黄虞。
+> 
+> 不知何所得，矫首望八区。
