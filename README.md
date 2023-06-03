@@ -2,13 +2,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=aistudio&up_color=violet&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)
-> 朋友賓主
+> 諫太宗十思疏
 > 
-> 取善輔仁，皆資朋友；往來交際，迭爲主賓。爾我同心，曰金蘭；朋友相資，日麗澤。東家曰東主，師傅曰西賓。父所交遊，尊爲父執；己所共事，謂之同袍。心志相孚爲莫逆，老幼相交曰忘年。刎頸交，相如與廉頗；總角好，孫策與周瑜。
+> 唐代：魏徵 
 > 
-> 膠漆相投，陳重之與雷義；雞黍之約，元伯之與巨卿。與善人交，如入芝蘭之室，久而不聞其香；與惡人交，如入鮑魚之肆，久而不聞其臭。肝膽相照，斯爲腹心之友；意氣不孚，謂之口頭之交。彼此不合，謂之參商；爾我相仇，如同冰炭。民之失德，乾餱以愆；他山之石，可以攻玉。落月屋梁，相思顏色；暮雲春樹，想望丰儀。
+> 臣聞：求木之長者，必固其根本；欲流之遠者，必浚其泉源；思國之安者，必積其德義。源不深而望流之遠，根不固而求木之長，德不厚而思國之治，臣雖下愚，知其不可，而況於明哲乎？人君當神器之重，居域中之大，將崇極天之峻，永保無疆之休。不念居安思危，戒奢以儉，德不處其厚，情不勝其欲，斯亦伐根以求木茂，塞源而欲流長也。(望國 一作：思國)
 > 
-> 王陽在位，貢禹彈冠以待薦；杜伯非罪，左儒寧死不徇君。分首判袂，敘別之辭；擁彗掃門，迎迓之敬。陸凱折梅逢驛使，聊寄江南一枝春；王維折柳贈行人，遂唱《陽關三疊》曲。頻來無忌，乃雲入慕之賓；不請自來，謂之不速之客。醴酒不設，楚王戊待土之意怠；投轄於井，漢陳遵留客之心誠。
+> 凡昔元首，承天景命，莫不殷憂而道著，功成而德衰，有善始者實繁，能克終者蓋寡。豈其取之易守之難乎？昔取之而有餘，今守之而不足，何也？夫在殷憂必竭誠以待下，既得志則縱情以傲物；竭誠則吳、越爲一體，傲物則骨肉爲行路。雖董之以嚴刑，震之以威怒，終苟免而不懷仁，貌恭而不心服。怨不在大，可畏惟人；載舟覆舟，所宜深慎。奔車朽索，其可忽乎？
 > 
-> 蔡邕倒屣以迎賓，周公握髮而待士。陳蕃器重徐稚，下榻相延；孔子道遇程生，傾蓋而語。伯牙絕弦失子期，更無知音之輩；管寧割席拒華歆，調非同志之人。分金多與，鮑叔獨知管仲之貧；綈袍垂愛，須賈深憐範叔之窘。要知主賓聯以情，須盡東南之美；朋友合以義，當展切偲之誠。
+> 君人者，誠能見可欲，則思知足以自戒；將有作，則思知止以安人；念高危，則思謙沖而自牧；懼滿溢，則思江海下百川；樂盤遊，則思三驅以爲度；憂懈怠，則思慎始而敬終；慮壅蔽，則思虛心以納下；懼讒邪，則思正身以黜惡；恩所加，則思無因喜以謬賞；罰所及，則思無以怒而濫刑。總此十思，宏茲九德，簡能而任之，擇善而從之，則智者盡其謀，勇者竭其力，仁者播其惠，信者效其忠；文武爭馳，君臣無事，可以盡豫遊之樂，可以養松喬之壽，鳴琴垂拱，不言而化。何必勞神苦思，代下司職，役聰明之耳目，虧無爲之大道哉？
 >
