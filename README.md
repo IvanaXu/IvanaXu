@@ -2,11 +2,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=aistudio&up_color=violet&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)
-> 四 豪
+> 黃州快哉亭記
 > 
-> 琴對瑟，劍對刀，地迥對天高。峨冠對博帶，紫綬對緋袍。煎異茗，酌香醪，虎兕對猿猱。武夫攻騎射，野婦務蠶繅。秋雨一川淇澳竹，春風兩岸武陵桃。螺髻青濃，樓外晚山千仞；鴨頭綠膩，溪中春水半篙。
+> 宋代：蘇轍 
 > 
-> 刑對賞，貶對褒，破斧對徵袍。梧桐對橘柚，枳棘對蓬蒿。雷煥劍，呂虔刀，橄欖對葡萄。一椽書舍小，百尺酒樓高。李白能詩時秉筆，劉伶愛酒每餺糟。禮別尊卑，拱北衆星常燦燦；勢分高下，朝東萬水自滔滔。
+> 江出西陵，始得平地，其流奔放肆大。南合沅、湘 ，北合漢沔，其勢益張。至於赤壁之下，波流浸灌，與海相若。清河張君夢得謫居齊安，即其廬之西南爲亭，以覽觀江流之勝，而餘兄子瞻名之曰“快哉”。
 > 
-> 瓜對果，李對桃，犬子對羊羔。春分對夏至，谷水對山濤。雙鳳翼，九牛毛，主逸對臣勞。水流無限闊，山聳有餘高。雨打村童新牧笠，塵生邊將舊徵袍。俊士居官，榮引鵷鴻之序；忠臣報國，誓殫犬馬之勞。
+> 蓋亭之所見，南北百里，東西一舍。濤瀾洶涌，風雲開闔。晝則舟楫出沒於其前，夜則魚龍悲嘯於其下。變化倏忽，動心駭目，不可久視。今乃得玩之几席之上，舉目而足。西望武昌諸山，岡陵起伏，草木行列，煙消日出。漁夫樵父之舍，皆可指數。此其所以爲“快哉”者也。至於長洲之濱，故城之墟。曹孟德、孫仲謀之所睥睨，周瑜、陸遜之所騁騖。其流風遺蹟，亦足以稱快世俗。
+> 
+> 昔楚襄王從宋玉、景差於蘭臺之宮，有風颯然至者，王披襟當之，曰：“快哉此風！寡人所與庶人共者耶？”宋玉曰：“此獨大王之雄風耳，庶人安得共之！”玉之言蓋有諷焉。夫風無雌雄之異，而人有遇，不遇之變；楚王之所以爲樂，與庶人之所以爲憂，此則人之變也，而風何與焉？士生於世，使其中不自得，將何往而非病？使其中坦然，不以物傷性，將何適而非快？今張君不以謫爲患，竊會計之餘功，而自放山水之間，此其中宜有以過人者。將蓬戶甕牖無所不快；而況乎濯長江之清流，揖西山之白雲 ，窮耳目之勝以自適也哉！不然，連山絕壑，長林古木，振之以清風，照之以明月，此皆騷人思士之所以悲傷憔悴而不能勝者，烏睹其爲快也哉！
+> 
+> 元豐六年十一月朔日，趙郡蘇轍記。
 >
