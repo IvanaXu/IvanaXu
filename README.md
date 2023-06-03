@@ -2,15 +2,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=tianchi&up_color=orange&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=yuque&up_color=green&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=leetcode&up_color=yellow&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=aistudio&up_color=violet&up_message=IvanaXu&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)
-> 黃州快哉亭記
+> 祖孫父子
 > 
-> 宋代：蘇轍 
+> 何謂五倫？君臣、父子、兄弟、夫婦、朋友；何謂九族？高、曾、祖、考、已身、子、孫、曾、玄。始祖曰鼻祖，遠孫曰耳孫。父子創造，曰肯構肯堂；父子俱賢，曰是父是子。祖稱王父，父曰嚴君。父母俱存，謂之椿萱並茂；子孫發達，謂之蘭桂騰芳。
 > 
-> 江出西陵，始得平地，其流奔放肆大。南合沅、湘 ，北合漢沔，其勢益張。至於赤壁之下，波流浸灌，與海相若。清河張君夢得謫居齊安，即其廬之西南爲亭，以覽觀江流之勝，而餘兄子瞻名之曰“快哉”。
+> 橋木高而仰，似父之道；梓木低而俯，如子之卑。不癡不聾，不作阿家阿翁；得親順親，方可爲人爲子。蓋父愆，名爲千蠱；育義子，乃曰螟蛉。生子當如孫仲謀，曹操羨孫權之語；生子須如李亞子，朱溫嘆存勖之詞。菽水承歡，貧士養親之樂；義方是訓，父親教子之嚴。
 > 
-> 蓋亭之所見，南北百里，東西一舍。濤瀾洶涌，風雲開闔。晝則舟楫出沒於其前，夜則魚龍悲嘯於其下。變化倏忽，動心駭目，不可久視。今乃得玩之几席之上，舉目而足。西望武昌諸山，岡陵起伏，草木行列，煙消日出。漁夫樵父之舍，皆可指數。此其所以爲“快哉”者也。至於長洲之濱，故城之墟。曹孟德、孫仲謀之所睥睨，周瑜、陸遜之所騁騖。其流風遺蹟，亦足以稱快世俗。
+> 紹箕裘，子承父業；恢先緒，子振家聲。具慶下，父母俱存；重慶下，祖父俱在。燕翼貽謀，乃稱裕後之祖；克繩祖武，是稱象賢之孫。稱人有令子，曰鱗趾呈祥；稱宦有賢郎，曰鳳毛濟美。弒父自立，隋楊廣之天性何存；殺子媚君，齊易牙之人心何在。
 > 
-> 昔楚襄王從宋玉、景差於蘭臺之宮，有風颯然至者，王披襟當之，曰：“快哉此風！寡人所與庶人共者耶？”宋玉曰：“此獨大王之雄風耳，庶人安得共之！”玉之言蓋有諷焉。夫風無雌雄之異，而人有遇，不遇之變；楚王之所以爲樂，與庶人之所以爲憂，此則人之變也，而風何與焉？士生於世，使其中不自得，將何往而非病？使其中坦然，不以物傷性，將何適而非快？今張君不以謫爲患，竊會計之餘功，而自放山水之間，此其中宜有以過人者。將蓬戶甕牖無所不快；而況乎濯長江之清流，揖西山之白雲 ，窮耳目之勝以自適也哉！不然，連山絕壑，長林古木，振之以清風，照之以明月，此皆騷人思士之所以悲傷憔悴而不能勝者，烏睹其爲快也哉！
+> 分甘以娛目，王羲之弄孫自樂；問安惟點頷，郭子儀厥孫最多。和丸教子，仲郢母之賢；戲綵娛親，老萊子之孝。毛義捧檄，爲親之存；伯俞位杖，因母之老。慈母望子，倚門倚閭；遊子思親，陟岵陟屺。
 > 
-> 元豐六年十一月朔日，趙郡蘇轍記。
+> 愛無差等，曰兄子如鄰子；分有相同，曰吾翁即若翁。長男爲主器，令子可克家。子光前曰充閭，子過父曰跨竈。寧馨英畏，皆是羨人之兒；國器掌珠，悉是稱人之子。可愛者子孫之多，若螽斯之蟄蟄；堪羨者後人之盛，如瓜瓞之綿綿。
 >
