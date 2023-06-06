@@ -25,7 +25,7 @@ tianchi = f"""[![Website](https://img.shields.io/website?label=&up_color=orange&
 yuque = f"""[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)"""
 leetcode = f"""[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)"""
 aistduio = f"""[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)"""
-gitee = f"""[![Website](https://img.shields.io/website?label=&up_color=red&up_message=gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)"""
+gitee = f"""[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)"""
 
 # latest
 # latest = f"""[![Website](https://img.shields.io/website?label=leetcode&up_message=IvanaXu&style=social&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)"""
