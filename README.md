@@ -2,11 +2,19 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 六 麻
+> 釋道鬼神
 > 
-> 鬆對柏，縷對麻，蟻陣對蜂衙。頳鱗對白鷺，凍雀對昏鴉，白墮酒，碧沉茶，品笛對吹笳。秋涼梧墮葉，春暖杏開花。雨長苔痕侵壁砌，月移梅影上窗紗。颯颯秋風，度城頭之篳篥；遲遲晚照，動江上之琵琶。
+> 如來釋迦，即是牟尼，原系成佛之祖；老聃李耳，即是道君，乃是道教之宗。鷲嶺、祗園，皆屬佛國；交梨、火棗，盡是仙丹。沙門稱釋，始於晉道安；中國有佛，始於漢明帝。
 > 
-> 優對劣，凸對凹，翠竹對黃花。鬆杉對杞梓，菽麥對桑麻。山不斷，水無涯，煮酒對烹茶。魚遊池面水，鷺立岸頭沙。百畝風翻陶令秫，一畦雨熟邵平瓜。閒捧竹根，飲李白一壺之酒；偶擎桐葉，啜盧仝七碗之茶。
+> 籛鏗即是彭祖，八百高年；許遜原宰旌陽，一家超舉。波羅猶雲彼岸，紫府即是仙宮。曰上方、曰梵剎，總是佛場；曰真宇、曰蕊珠，皆稱仙境。伊蒲饌可以齋僧，青精飯亦堪供佛。香積廚，僧家所備；仙麟脯，仙子所餐。佛圖澄顯神通，咒蓮生鉢；葛仙翁作戲術，吐飯成蜂。
 > 
-> 吳對楚，蜀對巴，落日對流霞。酒錢對詩債，柏葉對松花。馳驛騎，泛仙槎，碧玉對丹砂。設橋偏送筍，開道竟還瓜。楚國大夫沉汨水，洛陽才子謫長沙。書篋琴囊，乃士流活計；藥爐茶鼎，實閒客生涯。
+> 達摩一葦渡江，欒巴噀酒滅火。吳猛畫江成路，麻姑擲米成珠。飛錫掛錫，謂僧人之行止；導引胎息，謂道士之修持。和尚拜禮曰和南，道士拜禮曰稽首。曰圓寂、曰荼毗，皆言和尚之死；曰羽化、曰尸解，悉言道士之亡。
+> 
+> 女道曰巫，男道曰覡，自古攸分；男僧曰僧，女僧曰尼，從來有別。羽客黃冠，皆稱道士；上人比丘，並美僧人。檀越、檀那，僧家稱施主；燒丹、鍊汞，道士學神仙。和尚自謙，謂之空桑子；道士誦經，謂之步虛聲。
+> 
+> 菩者普也，薩者濟也，尊稱神祇，故有菩薩之譽；水行龍力大，陸行象力大，負荷佛法，故有龍象之稱。儒家謂之世，釋家謂之劫，道家謂之塵，俱謂俗緣之未脫；儒家曰精一，釋家曰三昧，道家曰貞一，總言奧義之無窮。達摩死後，手攜只履西歸；王喬朝君，舄化雙鳧下降。
+> 
+> 辟穀絕粒，神仙能服氣煉形；不滅不生，釋氏惟明心見性。樑高僧談經入妙，可使岩石點頭，天花墜地；張虛靖煉丹既成，能令龍虎並伏，雞犬俱升。藏世界於一粟，佛法何其大；貯乾坤於一壺，道法何其玄。妄誕之言，載鬼一車；高明之家，鬼瞰其室。
+> 
+> 《無鬼論》作於晉之阮瞻，《搜神記》撰於晉之幹寶。顏子淵、卜子商，死爲地下修文郎；韓擒虎、寇萊公，死爲陰司閻羅王。至若土谷之神曰社稷，乾旱之鬼曰旱魃。魑魅魍魎，山川之祟；神荼鬱壘，啖鬼之神。仕途偃蹇，鬼神爲之揶揄；心地光明，吉神自爲之呵護。
 >
