@@ -2,18 +2,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 四序回文十二首 春
+> 秦中寄遠上人
+> 
+> 孟浩然
+> 
+> 一丘常欲臥，三徑苦無資。
+> 
+> 北土非吾願，東林懷我師。
+> 
+> 黃金燃桂盡，壯志逐年衰。
+> 
+> 日夕涼風至，聞蟬但益悲。
 >
-> 宋末金初·宇文虚中
->
-> 短草铺茸绿，残红照雪稀。
-> 
-> 暖轻还锦褥，寒峭怯罗衣。
-> 
-> 翠涟冰绽日，香径晚多花。
-> 
-> 细笋抽蒲密，长条舞柳斜。
-> 
-> 折花幽槛小，倾酒绿杯深。
-> 
-> 蝶舞轻风晓，莺啼老树阴。
