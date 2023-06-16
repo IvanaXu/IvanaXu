@@ -2,21 +2,32 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 花木
-> 
-> 植物非一，故有萬卉之名；谷種甚多，故有百穀之號。如茨如樑，謂禾稼之蕃；惟夭惟喬，謂草木之茂。蓮乃花中君子，海棠花內神仙。國色天香，乃牡丹之富貴；冰肌玉骨，乃梅萼之清奇。
-> 
-> 蘭爲王者之香，菊同隱逸之士。竹稱君子，鬆號大夫。萱草可忘憂，屈軼能指佞。篔簹，竹之別號；木樨，桂之別名。明日黃花，過時之物；歲寒松柏，有節之稱。樗櫟乃無用之散材，楩楠勝大用之良木。
-> 
-> 玉版，筍之異號；蹲鴟，芋之別名。瓜田李下，事避嫌疑；秋菊春桃，時來尚早。南枝先，北枝後，庾嶺之梅；朔而生，望而落，堯階蓂莢。苾蒭背陰向陽，比僧人之有德；木槿朝開暮落，比榮華之不長。芒刺在背，言恐懼不安；薰蕕異氣，猶賢否有別。
-> 
-> 桃李不言，下自成蹊；道旁苦李，爲人所棄。老人娶少婦，曰枯楊生稊；國家進多賢，曰拔茅連茹。蒲柳之姿，未秋先槁；薑桂之性，愈老愈辛。王者之兵，勢如破竹；七雄之國，地若瓜分。苻堅望陣，疑草木皆是晉兵；索靖知亡，嘆銅駝會在荊棘。
-> 
-> 王祜知子必貴，手植三槐；竇鈞五子齊榮，人稱五桂。鉏麑觸槐，不忍賊民之主；越王嘗蓼，必欲復吳之仇。修母畫荻以教子，誰不稱賢；廉頗負荊以請罪，善能悔過。彌子瑕常恃寵，將餘桃以啖君；秦商鞅欲行令，使徙木以立信。
-> 
-> 王戎賣李鑽核，不勝鄙吝；成王剪桐封弟，因無戲言。齊景公以二桃殺三士，楊再思謂蓮花似六郎。倒啖蔗，漸入佳境；蒸哀梨，大失本真。煮豆燃萁，比兄殘弟；砍竹遮筍，棄舊憐新。元素致江陵之柑，吳剛伐月中之桂。
-> 
-> 捐資濟貧，當效堯夫之助麥；以物申敬，聊效野人之獻芹。冒雨剪韭，郭林宗款友情殷；踏雪尋梅，孟浩然自娛興雅。商太戊能修德，詳桑自死；寇萊公有深仁，枯竹復生。王母蟠桃，三千年開花，三千年結子，故人藉以祝壽誕；上古大椿，八千歲爲春，八千歲爲秋，故人託以比嚴君。
-> 
-> 去稂莠，正以植嘉禾；沃枝葉，不如培根本。世路之蓁蕪當剔，人心之茅塞須開。
+> 蒜山被始兴王命作诗
 >
+> 南北朝·鲍照
+>
+> 暮冬霜朔严，地闭泉不流。
+> 
+> 玄武藏木阴，丹乌还养羞。
+> 
+> 劳农泽既周，役车时亦休。
+> 
+> 高薄符好茜，藻驾及时游。
+> 
+> 鹿苑岂淹睇，兔园不足留。
+> 
+> 升峤眺日軏，临迥望沧洲。
+> 
+> 云生玉堂里，风靡银台陬。
+> 
+> 陂石类星悬，屿木似烟浮。
+> 
+> 形胜信天府，珍宝丽皇州。
+> 
+> 白日回清景，芳醴洽欢柔。
+> 
+> 参差出寒吹，飉戾江上讴。
+> 
+> 王德爱文雅，飞瀚洒鸣球。
+> 
+> 美哉物会昌，衣道服光猷。
