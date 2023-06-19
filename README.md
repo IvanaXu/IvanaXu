@@ -2,11 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 九 佳
+> 十一 尤
 > 
-> 河對海，漢對淮，赤岸對朱崖。鷺飛對魚躍，寶鈿對金釵。魚圉圉，鳥喈喈，草履對芒鞋。古賢嘗篤厚，時輩喜詼諧。孟訓文公談性善，顏師孔子問心齋。緩撫琴絃，像流鶯而並語；斜排箏柱。類過雁之相挨。
+> 榮對辱，喜對憂，夜宴對春遊。燕關對楚水，蜀犬對吳牛。茶敵睡，酒消愁，青眼對白頭。馬遷修史記，孔子作春秋。適興子猷常泛棹，思歸王粲強登樓。窗下佳人，妝罷重將金插鬢；筵前舞妓，曲終還要錦纏頭。
 > 
-> 豐對儉，等對差，布襖對荊釵。雁行對魚陣，榆塞對蘭崖。挑薺女，採蓮娃，菊徑對苔階。詩成六義備，樂奏八音諧。造律吏哀秦法酷，知音人說鄭聲哇。天欲飛霜，塞上有鴻行已過；雲將作雨，庭前多蟻陣先排。
+> 脣對齒，角對頭，策馬對騎牛。毫尖對筆底，綺閣對雕鏤。楊柳岸，荻蘆洲，語燕對啼鳩。客乘金絡馬，人泛木蘭舟。綠野耕夫春舉耜，碧池漁父晚垂鉤。波浪千層，喜見蛟龍得水；雲霄萬里，驚看鵰鶚橫秋。
 > 
-> 城對市，巷對街，破屋對空階。桃枝對桂葉，砌蚓對牆蝸。梅可望，橘堪懷，季路對高柴。花藏沽酒市，竹映讀書齋。馬首不容孤竹扣，車輪終就洛陽埋。朝宰錦衣，貴束烏犀之帶；宮人寶髻，宜簪白燕之釵。
+> 庵對寺，殿對樓，酒艇對漁舟。金龍對綵鳳，豶豕對童牛。王郎帽，蘇子裘，四季對三秋。峯巒扶地秀，江漢接天流。一灣綠水漁村小，萬里青山佛寺幽。龍馬呈河，羲皇闡微而畫卦；神龜出洛，禹王取法以陳疇。
 >
