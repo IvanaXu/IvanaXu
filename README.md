@@ -2,13 +2,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 婚姻
+> 諫院題名記
 > 
-> 良緣由夙締，佳偶自天成。蹇修與柯人，皆是煤妁之號；冰人與掌判，悉是傳言之人。禮須六禮之周，好合二姓之好。女嫁曰于歸，男婚日完娶。
+> 宋代：司馬光 
 > 
-> 婚姻論財，夷虜之道；同姓不婚，周禮則然。女家受聘禮，謂之許纓；新婦謁祖先，謂之廟見。文定納采，皆爲行聘之名；女嫁男婚，謂了子平之願。聘儀日雁幣，卜妻曰鳳占。成婚之日曰星期，傳命之人曰月老。下采即是納幣，合巹系是交杯。
+> 古者諫無官，自公卿大夫，至於工商，無不得諫者。漢興以來，始置官。
 > 
-> 執巾櫛，奉箕帚，皆女家自謙之詞；嫺姆訓，習《內則》，皆男家稱女之說。綠窗是貧女之室，紅樓是富女之居。姚夭謂婚姻之及時．摽梅謂婚期之已過。御溝題葉，於祐始得宮娥；繡幕牽絲，元振幸獲美女。漢武與景帝論婦，欲將金屋貯嬌；韋固與月老論婚，始知赤繩繫足。
+> 夫以天下之政，四海之衆，得失利病，萃於一官使言之，其爲任亦重矣。居是官者，常志其大，舍其細；先其急，後其緩；專利國家而不爲身謀。彼汲汲於名者，猶汲汲於利也，其間相去何遠哉！
 > 
-> 朱陳一村而結好，秦晉兩國以聯姻。藍田種玉，雍伯之緣；寶窗選婚，林甫之女。架鵲橋以渡河，牛女相會；射雀屏而中目，唐高得妻。至若禮重親迎，所以正人倫之始；《詩》首好逑，所以崇王化之原。
+> 天禧初，真宗詔置諫官六員，責其職事。慶曆中，錢君始書其名於版，光恐久而漫滅。嘉祐八年，刻於石。後之人將歷指其名而議之曰：“某也忠，某也詐，某也直，某也曲。”嗚呼！可不懼哉！
 >
