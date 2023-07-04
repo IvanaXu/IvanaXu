@@ -2,19 +2,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 遊褒禪山記
+> 宮室
 > 
-> 宋代：王安石 
+> 洪荒之世，野處穴居；有巢以後，上棟下宇。竹苞松茂，謂制度之得宜；鳥革翬飛，調創造之盡善。朝廷曰紫宸，禁門曰青瑣。宰相職掌絲綸，內居黃閣；百官具陳章疏，敷奏丹墀。木天署，學土所居；紫薇省，中書所蒞。
 > 
-> 褒禪山亦謂之華山，唐浮圖慧褒始舍於其址，而卒葬之；以故其後名之曰“褒禪”。今所謂慧空禪院者，褒之廬冢也。距其院東五里，所謂華山洞者，以其乃華山之陽名之也。距洞百餘步，有碑僕道，其文漫滅，獨其爲文猶可識曰“花山”。今言“華”如“華實”之“華”者，蓋音謬也。
+> 金馬玉堂，翰林院宇；柏臺烏府，御史衙門。布政司稱爲藩府，按察司系是臬司。潘岳種挑於滿縣，人稱花縣；於賤鳴琴以治邑，故曰琴堂。譚府是仕宦之家，衙門乃隱逸之宅。賀人有喜，曰門闌藹瑞；謝人過訪，曰蓬蓽生輝。美奐美輪，《禮》稱屋宇之高華；肯構肯堂，《書》言父子之同志。
 > 
-> 其下平曠，有泉側出，而記遊者甚衆，所謂前洞也。由山以上五六裏，有穴窈然，入之甚寒，問其深，則其好遊者不能窮也，謂之後洞。餘與四人擁火以入，入之愈深，其進愈難，而其見愈奇。有怠而欲出者，曰：“不出，火且盡。”遂與之俱出。蓋餘所至，比好遊者尚不能十一，然視其左右，來而記之者已少。蓋其又深，則其至又加少矣。方是時，餘之力尚足以入，火尚足以明也。既其出，則或咎其欲出者，而餘亦悔其隨之，而不得極夫遊之樂也。
+> 土木方興曰經始，創造已畢曰落成。樓高可以摘星，屋小僅堪容膝。寇萊公庭除之外，只可栽花；李文靖廳事之前，僅容旋馬。恭賀屋成曰燕賀，自謙屋小曰蝸廬。民家名曰閭閻，貴族稱爲閥閱。朱門乃富豪之第，白屋是布衣之家。客舍曰逆旅，館驛曰郵亭。書室曰芸窗，朝廷曰魏闕。
 > 
-> 於是餘有嘆焉。古人之觀於天地、山川、草木、蟲魚、鳥獸，往往有得，以其求思之深而無不在也。夫夷以近，則遊者衆；險以遠，則至者少。而世之奇偉、瑰怪，非常之觀，常在於險遠，而人之所罕至焉，故非有志者不能至也。有志矣，不隨以止也，然力不足者，亦不能至也。有志與力，而又不隨以怠，至於幽暗昏惑而無物以相之，亦不能至也。然力足以至焉，於人爲可譏，而在己爲有悔；盡吾志也而不能至者，可以無悔矣，其孰能譏之乎？此餘之所得也！
-> 
-> 餘於僕碑，又以悲夫古書之不存，後世之謬其傳而莫能名者，何可勝道也哉！此所以學者不可以不深思而慎取之也。
-> 
-> 四人者：廬陵蕭君圭君玉，長樂王回深父，餘弟安國平父、安上純父。
-> 
-> 至和元年七月某日，臨川王某記。
+> 成均辟雍，皆國學之號；黌宮膠序，乃鄉學之稱。笑人善忘，曰徙宅忘妻；譏人不謹，曰開門揖盜。何樓所市，皆濫惡之物；壟斷獨登，譏專利之人。蓽門圭竇，系貧土之居；甕牖繩樞，皆窶人之室。宋寇準真是北門鎖鑰，檀道濟不愧萬里長城。
 >
