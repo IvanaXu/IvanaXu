@@ -2,9 +2,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=codeSTACKr" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanaXu&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Programming&nbsp;Times&nbsp;(Since&nbsp;Jul.29.2021)&range=all_time" />
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 国风
-> 
-> 纠纠葛屦，可以履霜？掺掺女手，可以缝裳？要之襋之，好人服之。
-> 
-> 好人提提，宛然左辟，佩其象揥。维是褊心，是以为刺。
+> 问谋佺二上人病 其二
 >
+> 元末明初·徐贲
+>
+> 已断游方念，天寒独闭房。
+> 
+> 禅期多疾废，经诵老年忘。
+> 
+> 几上惟香具，龛前有药囊。
+> 
+> 乡人皆敬爱，无不馈新方。
