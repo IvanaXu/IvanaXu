@@ -5,7 +5,7 @@ import random
 import pandas as pd
 
 u = "IvanaXu"
-theme = "codeSTACKr" # vue-dark, graywhite, codeSTACKr
+theme = "graywhite" # vue-dark, graywhite, codeSTACKr
 url1 = f"https://github-readme-stats.vercel.app/api?username={u}&theme={theme}"# &show_icons=true&theme=vue-dark
 url2 = f"https://github.com/anuraghazra/github-readme-stats"
 url3 = f"https://github-readme-stats.vercel.app/api/top-langs/?username={u}&langs_count=8&theme={theme}"# &theme=graywhite
@@ -31,7 +31,7 @@ gitee = f"""[![Website](https://img.shields.io/website?label=&up_color=red&up_me
 # latest = f"""[![Website](https://img.shields.io/website?label=leetcode&up_message=IvanaXu&style=social&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)"""
 
 # title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
-title = f"""{stats}# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
+title = f"""{stats}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
 
 
 
