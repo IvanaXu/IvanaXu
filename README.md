@@ -1,16 +1,18 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 贈黎安二生序
+> 超然臺記
 > 
-> 宋代：曾鞏 
+> 宋代：蘇軾 
 > 
-> 趙郡蘇軾，餘之同年友也。自蜀以書至京師遺餘，稱蜀之士，曰黎生、安生者。既而黎生攜其文數十萬言，安生攜其文亦數千言，辱以顧餘。讀其文，誠閎壯雋偉，善反覆馳騁，窮盡事理；而其材力之放縱，若不可極者也。二生固可謂魁奇特起之士，而蘇君固可謂善知人者也。
+> 凡物皆有可觀。苟有可觀，皆有可樂，非必怪奇偉麗者也。
 > 
-> 頃之，黎生補江陵府司法參軍。將行，請予言以爲贈。餘曰：「餘之知生，既得之於心矣，乃將以言相求於外邪？」黎生曰：「生與安生之學於斯文，裏之人皆笑以爲迂闊。今求子之言，蓋將解惑於里人。」餘聞之，自顧而笑。
+> 哺糟啜醨皆可以醉；果蔬草木，皆可以飽。推此類也，吾安往而不樂？
 > 
-> 夫世之迂闊，孰有甚於予乎？知信乎古，而不知合乎世；知志乎道，而不知同乎俗。此餘所以困於今而不自知也。世之迂闊，孰有甚於予乎？今生之迂，特以文不近俗，迂之小者耳，患爲笑於裏之人。若餘之迂大矣，使生持吾言而歸，且重得罪，庸詎止於笑乎？
+> 夫所爲求褔而辭禍者，以褔可喜而禍可悲也。人之所欲無窮，而物之可以足吾欲者有盡，美惡之辨戰乎中，而去取之擇交乎前。則可樂者常少，而可悲者常多。是謂求禍而辭褔。夫求禍而辭褔，豈人之情也哉？物有以蓋之矣。彼遊於物之內，而不遊於物之外。物非有大小也，自其內而觀之，未有不高且大者也。彼挾其高大以臨我，則我常眩亂反覆，如隙中之觀鬥，又焉知勝負之所在。是以美惡橫生，而憂樂出焉，可不大哀乎！
 > 
-> 然則若餘之於生，將何言哉？謂餘之迂爲善，則其患若此；謂爲不善，則有以合乎世，必違乎古，有以同乎俗，必離乎道矣。生其無急於解里人之惑，則於是焉，必能擇而取之。
+> 餘自錢塘移守膠西，釋舟楫之安，而服車馬之勞；去雕牆之美，而蔽採椽之居；背湖山之觀，而適桑麻之野。始至之日，歲比不登，盜賊滿野，獄訟充斥；而齋廚索然，日食杞菊。人固疑餘之不樂也。處之期年，而貌加豐，發之白者，日以反黑。予既樂其風俗之淳，而其吏民亦安予之拙也。於是治其園圃，潔其庭宇，伐安丘、高密之木，以修補破敗，爲苟全之計。
 > 
-> 遂書以贈二生，並示蘇君，以爲何如也？
+> 而園之北，因城以爲臺者舊矣，稍葺而新之。時相與登覽，放意肆志焉。南望馬耳、常山，出沒隱見，若近若遠，庶幾有隱君子乎！而其東則廬山，秦人盧敖之所從遁也。西望穆陵，隱然如城郭，師尚父、齊桓公之遺烈，猶有存者。北俯濰水，慨然太息，思淮陰之功，而吊其不終。臺高而安，深而明，夏涼而冬溫。雨雪之朝，風月之夕，予未嘗不在，客未嘗不從。擷園蔬，取池魚，釀秫酒，瀹脫粟而食之，曰：“樂哉遊乎！"
+> 
+> 方是時，予弟子由，適在濟南，聞而賦之，且名其臺曰“超然”，以見餘之無所往而不樂者，蓋遊於物之外也。
 >
