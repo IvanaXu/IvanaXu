@@ -1,16 +1,14 @@
 [![IvanaXu's github stats](https://github-readme-stats.vercel.app/api?username=IvanaXu&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 待漏院記
+> 上樞密韓太尉書
 > 
-> 宋代：王禹偁 
+> 宋代：蘇轍 
 > 
-> 天道不言，而品物亨、歲功成者，何謂也？四時之吏，五行之佐，宣其氣矣。聖人不言而百姓親、萬邦寧者，何謂也？三公論道，六卿分職，張其教矣。是知君逸於上，臣勞於下，法乎天也。古之善相天下者，自咎、夔至房、魏，可數也，是不獨有其德，亦皆務於勤耳，況夙興夜寐，以事一人。卿大夫猶然，況宰相乎！朝廷自國初因舊制，設宰臣待漏院于丹鳳門之右，示勤政也。至若北闕向曙，東方未明，相君啓行，煌煌火城；相君至止，噦噦鑾聲。金門未闢，玉漏猶滴，徹蓋下車，於焉以息。待漏之際，相君其有思乎？
+> 太尉執事：轍生好爲文，思之至深。以爲文者氣之所形，然文不可以學而能，氣可以養而致。孟子曰：“我善養吾浩然之氣。”今觀其文章，寬厚宏博，充乎天地之間，稱其氣之小大。太史公行天下，周覽四海名山大川，與燕、趙間豪俊交遊，故其文疏蕩，頗有奇氣。此二子者，豈嘗執筆學爲如此之文哉？其氣充乎其中而溢乎其貌，動乎其言而見乎其文，而不自知也。
 > 
-> 其或兆民未安，思所泰之；四夷未附，思所來之。兵革未息，何以弭之；田疇多蕪，何以闢之。賢人在野，我將進之；佞臣立朝，我將斥之。六氣不和，災眚薦至，願避位以禳之；五刑未措，欺詐日生，請修德以釐之。憂心忡忡，待旦而入，九門既啓，四聰甚邇。相君言焉，時君納焉。皇風於是乎清夷，蒼生以之而富庶。若然，總百官、食萬錢，非幸也，宜也。
+> 轍生十有九年矣。其居家所與遊者，不過其鄰里鄉黨之人；所見不過數百里之間，無高山大野可登覽以自廣；百氏之書，雖無所不讀，然皆古人之陳跡，不足以激發其志氣。恐遂汩沒，故決然捨去，求天下奇聞壯觀，以知天地之廣大。過秦、漢之故都，恣觀終南、嵩、華之高，北顧黃河之奔流，慨然想見古之豪傑。至京師，仰觀天子宮闕之壯，與倉廩、府庫、城池、苑囿之富且大也，而後知天下之巨麗。見翰林歐陽公，聽其議論之宏辯，觀其容貌之秀偉，與其門人賢士大夫遊，而後知天下之文章聚乎此也。太尉以才略冠天下，天下之所恃以無憂，四夷之所憚以不敢發，入則周公、召公，出則方叔、召虎。而轍也未之見焉。
 > 
-> 其或私仇未復，思所逐之；舊恩未報，思所榮之。子女玉帛，何以致之；車馬器玩，何以取之。奸人附勢，我將陟之；直士抗言，我將黜之。三時告災，上有憂也，構巧詞以悅之；羣吏弄法，君聞怨言，進諂容以媚之。私心慆慆，假寐而坐，九門既開，重瞳屢回。相君言焉，時君惑焉。政柄於是乎隳哉，帝位以之而危矣。若然，則下死獄、投遠方，非不幸也，亦宜也。
+> 且夫人之學也，不志其大，雖多而何爲？轍之來也，于山見終南、嵩、華之高，於水見黃河之大且深，於人見歐陽公，而猶以爲未見太尉也。故願得觀賢人之光耀，聞一言以自壯，然後可以盡天下之大觀而無憾者矣。
 > 
-> 是知一國之政，萬人之命，懸於宰相，可不慎歟？復有無毀無譽，旅進旅退，竊位而苟祿，備員而全身者，亦無所取焉。
-> 
-> 棘寺小吏王某爲文，請志院壁，用規於執政者。
+> 轍年少，未能通習吏事。向之來，非有取於斗升之祿，偶然得之，非其所樂。然幸得賜歸待選，使得優遊數年之間，將以益治其文，且學爲政。太尉苟以爲可教而辱教之，又幸矣！
 >
