@@ -1,9 +1,13 @@
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 十五 刪
+> 五代史伶官傳序
 > 
-> 興對廢，附對攀，露草對霜菅，歌廉對借寇，習孔對希顏。山壘壘，水潺潺，奉壁對探鐶。禮由公旦作，詩本仲尼刪。驢困客方經灞水，雞鳴人已出函關。幾夜霜飛，已有蒼鴻辭北塞；數朝霧暗，豈無玄豹隱南山。
+> 宋代：歐陽修 
 > 
-> 猶對尚，侈對慳，霧髻對煙鬟。鶯啼對鵲噪，獨鶴對雙鷳。黃牛峽，金馬山，結草對銜環。崑山惟玉集，合浦有珠還。阮籍舊能爲眼白，老萊新愛着衣斑。棲遲避世人，草衣木食；窈窕傾城女，雲鬢花顏。
+> 嗚呼！盛衰之理，雖曰天命，豈非人事哉！原莊宗之所以得天下，與其所以失之者，可以知之矣。
 > 
-> 姚對宋，柳對顏，賞善對懲奸。愁中對夢裏，巧慧對癡頑。孔北海，謝東山，使越對徵蠻，淫聲聞濮上，離曲聽陽關。驍將袍披仁貴白，小兒衣着老萊斑。茅舍無人，難卻塵埃生榻上；竹亭有客，尚留風月在窗間。
+> 世言晉王之將終也，以三矢賜莊宗而告之曰：“樑，吾仇也；燕王，吾所立；契丹與吾約爲兄弟；而皆背晉以歸樑。此三者，吾遺恨也。與爾三矢，爾其無忘乃父之志！”莊宗受而藏之於廟。其後用兵，則遣從事以一少牢告廟，請其矢，盛以錦囊，負而前驅，及凱旋而納之。
+> 
+> 方其系燕父子以組，函樑君臣之首，入於太廟，還矢先王，而告以成功，其意氣之盛，可謂壯哉！及仇讎已滅，天下已定，一夫夜呼，亂者四應，倉皇東出，未及見賊而士卒離散，君臣相顧，不知所歸。至於誓天斷髮，泣下沾襟，何其衰也！豈得之難而失之易歟？抑本其成敗之跡，而皆自於人歟？
+> 
+> 《書》曰：“滿招損，謙得益。”憂勞可以興國，逸豫可以亡身，自然之理也。故方其盛也，舉天下之豪傑，莫能與之爭；及其衰也，數十伶人困之，而身死國滅，爲天下笑。夫禍患常積於忽微，而智勇多困於所溺，豈獨伶人也哉！作《伶官傳》。
 >
