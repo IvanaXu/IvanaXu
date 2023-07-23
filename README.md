@@ -1,18 +1,8 @@
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 感旧四章 其三 刘庭范国模
+> 赠王肃诗
 >
-> 清末民国初·曹家达
+> 南北朝·谢氏
 >
-> 才士多怫郁，陆机发高论。
+> 本为箔上蚕，今作机上丝。
 > 
-> 山水还自寇，蒙庄观道存。
-> 
-> 昔我同盟友，壮志天池鲲。
-> 
-> 臭味共都梁，啜胔六籍根。
-> 
-> 玉楼夜相召，帝天何太昏。
-> 
-> 幡然思首邱，江潮为声吞。
-> 
-> 朝露既溘至，握手终无言。
+> 得络逐胜去，颇忆纆绵时。
