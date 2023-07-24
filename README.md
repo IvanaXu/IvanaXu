@@ -1,12 +1,9 @@
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 十画四言
+> 国风
+> 
+> 大车槛槛，毳衣如菼。岂不尔思？畏子不敢。
+> 
+> 大车啍啍，毳衣如璊，岂不尔思？畏子不奔。
+> 
+> 谷则异室，死则同穴。谓予不信，有如皎日。
 >
-> 宋·孔平仲
->
-> 亨倅沉俗，泥虬卧虹。
-> 
-> 星君促面，省座班封。
-> 
-> 修治克茂，果有昌宗。
-> 
-> 耻于便倖，宜效孤忠。
