@@ -1,9 +1,12 @@
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 遣懷
-> 
-> 杜牧
-> 
-> 落魄江南載酒行，楚腰纖細掌中輕。(江南 一作：江湖；纖細 一作：腸斷)
-> 
-> 十年一覺揚州夢，贏得青樓薄倖名。
+> 出郭晚回
 >
+> 宋末元初·陈杰
+>
+> 昧谷含凉景，环涂进晚程。
+> 
+> 角声呼月出，鞭影御风行。
+> 
+> 云树故多思，暗泉偏有情。
+> 
+> 临关不得下，回首愧尘缨。
