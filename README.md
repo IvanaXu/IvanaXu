@@ -1,9 +1,12 @@
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 国风
-> 
-> 蜉蝣之羽，衣裳楚楚。心之忧矣，于我归处。
-> 
-> 蜉蝣之翼，采采衣服。心之忧矣，于我归息。
-> 
-> 蜉蝣掘阅，麻衣如雪。心之忧矣，于我归说。
+> 友卿弟见和复赋二首 其二
 >
+> 宋·葛胜仲
+>
+> 门无杂客往仍还，趺坐澄心定水寒。
+> 
+> 清净苦嫌千日酒，萧閒惟事一铢檀。
+> 
+> 眼中金屑全无用，髻里明珠得自看。
+> 
+> 作止更能除任灭，已无禅病自轻安。
