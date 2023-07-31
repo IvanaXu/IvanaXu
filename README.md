@@ -1,13 +1,23 @@
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)
-> 喜雨亭記
+> 小雅
 > 
-> 宋代：蘇軾 
+> 节彼南山，维石岩岩。赫赫师尹，民具尔瞻。忧心如惔，不敢戏谈。国既卒斩，何用不监！
 > 
-> 亭以雨名，誌喜也。古者有喜，則以名物，示不忘也。周公得禾，以名其書；漢武得鼎，以名其年；叔孫勝敵，以名其子。其喜之大小不齊，其示不忘一也。
+> 节彼南山，有实其猗。赫赫师尹，不平谓何。天方荐瘥，丧乱弘多。民言无嘉，惨莫惩嗟。
 > 
-> 予至扶風之明年，始治官舍。爲亭於堂之北，而鑿池其南，引流種木，以爲休息之所。是歲之春，雨麥於岐山之陽，其佔爲有年。既而彌月不雨，民方以爲憂。越三月，乙卯乃雨，甲子又雨，民以爲未足。丁卯大雨，三日乃止。官吏相與慶於庭，商賈相與歌於市，農夫相與忭於野，憂者以喜，病者以愈，而吾亭適成。
+> 尹氏大师，维周之氐；秉国之钧，四方是维。天子是毗，俾民不迷。不吊昊天，不宜空我师。
 > 
-> 於是舉酒於亭上，以屬客而告之，曰：“五日不雨可乎？”曰：“五日不雨則無麥。”“十日不雨可乎？”曰：“十日不雨則無禾。”“無麥無禾，歲且荐饑，獄訟繁興，而盜賊滋熾。則吾與二三子，雖欲優遊以樂於此亭，其可得耶？今天不遺斯民，始旱而賜之以雨。使吾與二三子得相與優遊以樂於此亭者，皆雨之賜也。其又可忘耶？”
+> 弗躬弗亲，庶民弗信。弗问弗仕，勿罔君子。式夷式已，无小人殆。琐琐姻亚，则无膴仕。
 > 
-> 既以名亭，又從而歌之，曰：“使天而雨珠，寒者不得以爲襦；使天而雨玉，飢者不得以爲粟。一雨三日，伊誰之力？民曰太守。太守不有，歸之天子。天子曰不然，歸之造物。造物不自以爲功，歸之太空。太空冥冥，不可得而名。吾以名吾亭。”
+> 昊天不佣，降此鞠訩。昊天不惠，降此大戾。君子如届，俾民心阕。君子如夷，恶怒是违。
+> 
+> 不吊昊天，乱靡有定。式月斯生，俾民不宁。忧心如酲，谁秉国成？不自为政，卒劳百姓。
+> 
+> 驾彼四牡，四牡项领。我瞻四方，蹙蹙靡所骋。
+> 
+> 方茂尔恶，相尔矛矣。既夷既怿，如相酬矣。
+> 
+> 昊天不平，我王不宁。不惩其心，覆怨其正。
+> 
+> 家父作诵，以究王訩。式讹尔心，以畜万邦。
 >
