@@ -29,18 +29,20 @@ toplangs = f"""<img align="right" src="{url3}" />"""
 wakatime = f"""<img src="{url4}" />"""
 wakatime_total = f"""[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)"""
 
-tianchi = f"""[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)"""
-yuque = f"""[![Website](https://img.shields.io/website?label=&up_color=green&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)"""
-leetcode = f"""[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)"""
-aistduio = f"""[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)"""
-gitee = f"""[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)"""
+t0 = "[![Website](https://img.shields.io/website?label="
+t1 = "https%3A%2F%2Fshields.io"
+tianchi = f"""{t0}&up_color=orange&up_message=Tianchi&url={t1})](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)"""
+yuque = f"""{t0}&up_color=gay&up_message=Yuque&url={t1})](https://www.yuque.com/ivanaxu)"""
+leetcode = f"""{t0}&up_color=white&up_message=Leetcode&url={t1})](https://leetcode.cn/u/ivanaxu)"""
+aistduio = f"""{t0}&up_color=violet&up_message=AIstudio&url={t1})](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)"""
+gitee = f"""{t0}&up_color=red&up_message=Gitee&url={t1})](https://gitee.com/IvanaXu)"""
+monkeytype = f"""{t0}&up_color=yellow&up_message=Monkeytype&url={t1})](https://monkeytype.com/profile/IvanaXu)"""
 
 # latest
 # latest = f"""[![Website](https://img.shields.io/website?label=leetcode&up_message=IvanaXu&style=social&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)"""
-
 # title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
 # title = f"""{stats}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
-title = f"""# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
+title = f"""# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}\t{monkeytype}"""
 
 
 
