@@ -1,8 +1,13 @@
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu)
-> 路经达维红一、四方面军会师处，极荒凉
->
-> 当代·陈仁德
->
-> 夹金山下倍萧条，犹有丰碑独自高。
+> 国风
 > 
-> 脚底风生沟壑冷，路人道是会师桥。
+> 击鼓其镗，踊跃用兵。土国城漕，我独南行。
+> 
+> 从孙子仲，平陈与宋。不我以归，忧心有忡。
+> 
+> 爰居爰处？爰丧其马？于以求之？于林之下。
+> 
+> 死生契阔，与子成说。执子之手，与子偕老。
+> 
+> 于嗟阔兮，不我活兮。于嗟洵兮，不我信兮。
+>
