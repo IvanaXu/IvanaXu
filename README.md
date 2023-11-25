@@ -1,13 +1,15 @@
 # བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu)
-> 珍寶
+> 與韓荊州書
 > 
-> 山川之精英，每泄爲至寶；乾坤之瑞氣，恆結爲奇珍。故玉足以庇嘉穀，明珠可以御火災。魚目豈可混珠，碔砆焉能亂玉。黃金生於麗水，白銀出自朱提。曰孔方、曰家兄，俱爲錢號；日青蚨，曰鵝眼，亦是錢名。
+> 唐代：李白 
 > 
-> 可貴者明月夜光之珠，可珍者璠璵琬琰之玉。宋人以燕石爲玉，什襲緹巾之中；楚王以璞玉爲石，兩刖卞和之足。惠王之珠，光能照乘；和氏之壁，價重連城。鮫人泣淚成珠，宋人削玉爲楮。賢乃國家之寶，儒爲席上之珍。王者聘賢，束帛加壁；真儒抱道，懷瑾握瑜。
+> 白聞天下談士相聚而言曰：“生不用封萬戶侯，但願一識韓荊州。”何令人之景慕，一至於此耶！豈不以有周公之風，躬吐握之事，使海內豪俊，奔走而歸之，一登龍門，則聲價十倍！所以龍蟠鳳逸之士，皆欲收名定價於君侯。願君侯不以富貴而驕之、寒賤而忽之，則三千之中有毛遂，使白得穎脫而出，即其人焉。
 > 
-> 雍伯多緣，種玉於藍田而得美婦；太公奇遇，釣璜於渭水而遇文王。剖腹藏珠，愛財而不愛命；纏頭作錦，助舞而更助嬌。孟嘗廉潔，克俾合浦還珠；相如忠勇，能使秦廷歸璧。玉釵作燕飛，漢宮之異事；金錢成蝶舞，唐庫之奇傳。廣錢固可以通神，營利乃爲鬼所笑。以小致大，謂之拋磚引玉；不知所貴，謂之買櫝還珠。
+> 白，隴西布衣，流落楚、漢。十五好劍術，遍幹諸侯。三十成文章，歷抵卿相。雖長不滿七尺，而心雄萬夫。皆王公大人許與氣義。此疇曩心跡，安敢不盡於君侯哉！
 > 
-> 賢否罹害，如玉石俱焚；貪得無厭，雖輜珠必算。崔烈以錢買官，人皆惡其銅臭；秦嫂不敢視叔，自言畏其多金。熊袞父亡，天乃雨錢助葬；仲儒家窘，天乃雨金濟貧。漢楊震畏四知而辭金，唐太宗因懲貪而賜絹。
+> 君侯製作侔神明，德行動天地，筆參造化，學究天人。幸願開張心顏，不以長揖見拒。必若接之以高宴，縱之以清談，請日試萬言，倚馬可待。今天下以君侯爲文章之司命，人物之權衡，一經品題，便作佳士。而君侯何惜階前盈尺之地，不使白揚眉吐氣，激昂青雲耶？
 > 
-> 晉魯褒作《錢神論》，嘗以錢爲孔方兄；王夷甫口不言錢，乃謂錢爲阿堵物。然而牀頭金盡，壯士無顏；囊內錢空，阮郎羞澀。但匹夫不可懷壁，人生孰不愛財。
+> 昔王子師爲豫州，未下車，即闢荀慈明，既下車，又闢孔文舉；山濤作冀州，甄拔三十餘人，或爲侍中、尚書，先代所美。而君侯亦薦一嚴協律，入爲祕書郎，中間崔宗之、房習祖、黎昕、許瑩之徒，或以才名見知，或以清白見賞。白每觀其銜恩撫躬，忠義奮發，以此感激，知君侯推赤心於諸賢腹中，所以不歸他人，而願委身國士。儻急難有用，敢效微軀。
+> 
+> 且人非堯舜，誰能盡善？白謨猷籌畫，安能自矜？至於製作，積成卷軸，則欲塵穢視聽。恐雕蟲小技，不合大人。若賜觀芻蕘，請給紙墨，兼之書人，然後退掃閒軒，繕寫呈上。庶青萍、結綠，長價於薛、卞之門。幸惟下流，大開獎飾，惟君侯圖之。
 >
