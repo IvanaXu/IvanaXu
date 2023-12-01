@@ -1,28 +1,22 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 倾杯乐  品茶
+> 予题杨子仙宫诗，赞仙也，吾宗之彦，与邑人士和章稠叠，不仙之赞而赞赞仙者，戏为玄语，以答雅贶
 >
-> 清·陈维崧
+> 清·丘逢甲
 >
-> 雨后新晴，林端小阁，疏帘窣地。
+> 沈沈虎豹正当关，只鹤西归浩渺间。
 > 
-> 正注罢、南华下卷，几般绿雪，岳僧新寄。
+> 说与诸仙同一叹，灵鳌今已失神山。
 > 
-> 涧边杓取鸣泉试。
+> 瀛海莲还太乙舟，闲同天老话前游。
 > 
-> 借幽廊，支瓦铫，细商茶事。
+> 群真正乐钧天奏，辞汉金仙独泪流。
 > 
-> 松风入听，瑟瑟珠跳雪沸。
+> 洞天丹药苦无资，坐隐闲争一著棋。
 > 
-> 绿鬓女、娇拖燕尾。
+> 龙脯剖完尘劫换，橘中全局正输时。
 > 
-> 捧玉湿钧州磁盏翠。
+> 仙山故侣剧多情，霓帔霞裳引鹤旌。
 > 
-> 羡幽韵、未泻先传，馀芬罢啜还殢。
-> 
-> 渐證入、茗柯至理。
-> 
-> 终不负、酪奴风致。
-> 
-> 七椀后，玉川子、颓然竟醉。
+> 瑶简要书都散汉，灵霄乞去上真名。
