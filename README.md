@@ -1,21 +1,11 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 小雅
+> 国风
 > 
-> 弁彼鸴斯，归飞提提。民莫不穀，我独于罹。何辜于天？我罪伊何？心之忧矣，云如之何？
+> 墙有茨，不可扫也。中冓之言，不可道也。所可道也，言之丑也。
 > 
-> 踧踧周道，鞫为茂草。我心忧伤，惄焉如捣。假寐永叹，维忧用老。心之忧矣，疢如疾首。
+> 墙有茨，不可襄也。中冓之言，不可详也。所可详也，言之长也。
 > 
-> 维桑与梓，必恭敬止。靡瞻匪父，靡依匪母。不属于毛？不罹于里？天之生我，我辰安在？
-> 
-> 菀彼柳斯，鸣蜩嘒嘒，有漼者渊，萑苇淠淠。譬彼舟流，不知所届，心之忧矣，不遑假寐。
-> 
-> 鹿斯之奔，维足伎伎。雉之朝雊，尚求其雌。譬彼坏木，疾用无枝。心之忧矣，宁莫之知？
-> 
-> 相彼投兔，尚或先之。行有死人，尚或墐之。君子秉心，维其忍之。心之忧矣，涕既陨之。
-> 
-> 君子信谗，如或酬之。君子不惠，不舒究之。伐木掎矣，析薪扡矣。舍彼有罪，予之佗矣。
-> 
-> 莫高匪山，莫浚匪泉。君子无易由言，耳属于垣。无逝我梁，无发我笱。我躬不阅，遑恤我后。
+> 墙有茨，不可束也。中冓之言，不可读也。所可读也，言之辱也。
 >
