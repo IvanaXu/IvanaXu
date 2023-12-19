@@ -6,5 +6,5 @@ git pull
 /Users/ivan/opt/anaconda3/bin/python update.py;echo;
 
 git add *;echo;
-git commit -m "Auto@Mac";echo;
+git commit -m "Auto@Mac $(date "+%H")";echo;
 git push;
