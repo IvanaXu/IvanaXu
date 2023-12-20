@@ -1,11 +1,11 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 四 豪
+> 三 餚
 > 
-> 琴對瑟，劍對刀，地迥對天高。峨冠對博帶，紫綬對緋袍。煎異茗，酌香醪，虎兕對猿猱。武夫攻騎射，野婦務蠶繅。秋雨一川淇澳竹，春風兩岸武陵桃。螺髻青濃，樓外晚山千仞；鴨頭綠膩，溪中春水半篙。
+> 風對雅，象對爻，巨蟒對長蛟。天文對地理，蟋蟀對螵蛸。龍生矯，虎咆哮，北學對東膠。築臺須壘土，成屋必誅茅。潘岳不忘秋興賦，邊韶常被晝眠嘲。撫養羣黎，已見國家隆治；滋生萬物，方知天地泰交。
 > 
-> 刑對賞，貶對褒，破斧對徵袍。梧桐對橘柚，枳棘對蓬蒿。雷煥劍，呂虔刀，橄欖對葡萄。一椽書舍小，百尺酒樓高。李白能詩時秉筆，劉伶愛酒每餺糟。禮別尊卑，拱北衆星常燦燦；勢分高下，朝東萬水自滔滔。
+> 蛇對虺，蜃對蛟，麟藪對鵲巢。風聲對月色，麥穗對桑苞。何妥難，子云嘲，楚甸對商郊。五音惟耳聽，萬慮在心包。葛被湯徵因仇餉，楚遭齊伐責包茅。高矣若天，洵是聖人大道；淡而如水，實爲君子神交。
 > 
-> 瓜對果，李對桃，犬子對羊羔。春分對夏至，谷水對山濤。雙鳳翼，九牛毛，主逸對臣勞。水流無限闊，山聳有餘高。雨打村童新牧笠，塵生邊將舊徵袍。俊士居官，榮引鵷鴻之序；忠臣報國，誓殫犬馬之勞。
+> 牛對馬，犬對貓，旨酒對嘉餚。桃紅對柳綠，竹葉對鬆梢，藜杖叟，布衣樵，北野對東郊。白駒形皎皎，黃鳥語交交。花圃春殘無客到，柴門夜永有僧敲。牆畔佳人，飄揚競把鞦韆舞；樓前公子，笑語爭將蹴踘拋。
 >
