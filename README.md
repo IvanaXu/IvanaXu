@@ -1,11 +1,10 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 三月晦日送春
-> 
-> （唐）賈島
-> 
-> 三月正當三十日，風光別我苦吟身。
-> 
-> 共君今夜不須睡，未到曉鍾猶是春。
+> 和李啸楼先生三醉木芙蓉原韵 其七
 >
+> 近现代·刘凤梧
+>
+> 秋露侵黄霜晕红，淡妆不异魏园中。
+> 
+> 夜阑徙倚楼头望，宝剑光腾月在空。
