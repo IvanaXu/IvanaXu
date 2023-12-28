@@ -1,11 +1,13 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 技藝
+> 朋友賓主
 > 
-> 醫士業岐軒之術，稱曰國手；地師習青烏之書，號曰堪輿。盧醫扁鵲，古之名醫；鄭虔崔白，古之名畫。晉郭璞得《青囊經》，故善卜筮地理；孫思邈得龍宮方，能醫虎口龍鱗。
+> 取善輔仁，皆資朋友；往來交際，迭爲主賓。爾我同心，曰金蘭；朋友相資，日麗澤。東家曰東主，師傅曰西賓。父所交遊，尊爲父執；己所共事，謂之同袍。心志相孚爲莫逆，老幼相交曰忘年。刎頸交，相如與廉頗；總角好，孫策與周瑜。
 > 
-> 善卜者，是君平、詹尹之流；善相者，即唐舉、子卿之亞。推命之士即星士，繪圖之士曰丹青。大風鑑，相士之稱；大工師，木匠之譽。若王良，若造父，皆善御之人；東方朔，淳于髡，系滑稽之輩。稱善卜卦者，曰今之鬼谷；稱善記怪者，曰古之董狐。稱諏日之人曰太史，稱書算之人曰掌文。
+> 膠漆相投，陳重之與雷義；雞黍之約，元伯之與巨卿。與善人交，如入芝蘭之室，久而不聞其香；與惡人交，如入鮑魚之肆，久而不聞其臭。肝膽相照，斯爲腹心之友；意氣不孚，謂之口頭之交。彼此不合，謂之參商；爾我相仇，如同冰炭。民之失德，乾餱以愆；他山之石，可以攻玉。落月屋梁，相思顏色；暮雲春樹，想望丰儀。
 > 
-> 擲骰者，喝雉呼盧；善射者，穿楊貫蝨。樗蒱之戲，乃雲雙陸；橘中之樂，是說圍棋。陳平作傀儡，解漢高白登之圍；孔明造木牛，輔劉備運糧之計。公輸子削木鳶，飛天至三日而不下；張僧繇畫壁龍，點睛則雷電而飛騰。然奇技似無益於人，而百藝則有濟於用。
+> 王陽在位，貢禹彈冠以待薦；杜伯非罪，左儒寧死不徇君。分首判袂，敘別之辭；擁彗掃門，迎迓之敬。陸凱折梅逢驛使，聊寄江南一枝春；王維折柳贈行人，遂唱《陽關三疊》曲。頻來無忌，乃雲入慕之賓；不請自來，謂之不速之客。醴酒不設，楚王戊待土之意怠；投轄於井，漢陳遵留客之心誠。
+> 
+> 蔡邕倒屣以迎賓，周公握髮而待士。陳蕃器重徐稚，下榻相延；孔子道遇程生，傾蓋而語。伯牙絕弦失子期，更無知音之輩；管寧割席拒華歆，調非同志之人。分金多與，鮑叔獨知管仲之貧；綈袍垂愛，須賈深憐範叔之窘。要知主賓聯以情，須盡東南之美；朋友合以義，當展切偲之誠。
 >
