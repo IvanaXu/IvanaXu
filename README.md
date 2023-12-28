@@ -1,11 +1,11 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 三 江
+> 十三 元
 > 
-> 樓對閣，戶對窗，巨海對長江。蓉裳對蕙帳，玉斝對銀釭。青布幔，碧油幢，寶劍對金缸。忠心安社稷，利口覆家邦。世祖中興延馬武，桀王失道殺龍逄。秋雨瀟瀟，漫爛黃花都滿徑；春風嫋嫋，扶疏綠竹正盈窗。
+> 幽對顯，寂對喧，柳岸對桃源。鶯朋對燕友，早暮對寒暄。魚躍沼，鶴乘軒，醉膽對吟魂。輕塵生範甑，積雪擁袁門。縷縷輕煙芳草渡，絲絲微雨杏花村。詣闕王通，獻太平十二策；出關老子，著道德五千言。
 > 
-> 旌對旆，蓋對幢，故國對他邦。千山對萬水，九澤對三江。山岌岌，水淙淙，鼓振對鍾撞。清風生酒舍，皓月照書窗。陣上倒戈辛紂戰，道旁系劍子嬰降。夏日池塘，出沒浴波鷗對對；春風簾幕，往來營壘燕雙雙。
+> 兒對女，子對孫，藥圃對花村。高樓對邃閣，赤豹對玄猿。妃子騎，夫人軒，曠野對平原。匏巴能鼓瑟，伯氏善吹壎。馥馥早梅思驛使，萋萋芳草怨王孫。秋夕月明，蘇子黃崗遊絕壁；春朝花發，石家金谷啓芳園。
 > 
-> 銖對兩，只對雙，華嶽對湘江。朝車對禁鼓，宿火對寒缸。青瑣闥，碧紗窗，漢社對周邦。笙簫鳴細細，鐘鼓響摐摐。主簿棲鸞名有覽，治中展驥姓惟龐。蘇武牧羊，雪屢餐於北海；莊周活鮒，水必決於西江。
+> 歌對舞，德對恩，犬馬對雞豚。龍池對鳳沼，雨驟對雲屯。劉向閣，李膺門，唳鶴對啼猿。柳搖春白晝，梅弄月黃昏，歲冷鬆筠皆有節，春喧桃李本無言。噪晚齊蟬，歲歲秋來泣恨；啼宵蜀鳥，年年春去傷魂。
 >
