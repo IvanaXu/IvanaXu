@@ -1,11 +1,13 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 貧富
+> 訟獄
 > 
-> 命之修短有數，人之富貴在天。惟君子安貧，達人知命。貫朽粟陳，稱羨財多之謂；紫標黃榜，封記錢庫之名。貪愛錢物，謂之錢愚；好置由宅，謂之地癖。守錢虜，譏蓄財而不散；落魄夫，謂失業之無依。貧者地無立錐，富者田連阡陌。
+> 世人惟不平則鳴，聖人以無訟爲貴。上有恤刑之主，桁楊雨潤；下無冤枉之民，肺石風清。雖囹圄便是福堂，而畫地亦可爲獄。與人構訟，曰鼠牙雀角之爭；罪人訴冤，有搶地籲天之慘。
 > 
-> 室如懸磬，言其甚窘；家無儋石，謂其極貧。無米曰在陳，守死曰待斃。富足曰殷實，命蹇日數奇。蘇涸鮒，乃濟人之急；呼庚癸，是乞人之糧。家徒壁立，司馬相如之貧；扊扅爲炊，秦百里奚之苦。鵠形菜色，皆窮民飢餓之形；炊骨爨骸，謂軍中乏糧之慘。餓死留君臣之義，伯夷叔齊；資財敵王公之富，陶朱倚頓。
+> 狴犴猛犬而能守，故獄門畫狴犴之形；棘木外刺而裏直，故聽訟在棘木之下。鄉亭之繫有岸，朝廷之繫有獄，誰敢作奸犯科；死者不可復生，刑者不可復續，上當原情定罪。囹圄是周獄，羑里是商牢。桎梏之設，乃拘罪人之具；縲紲之中，豈無賢者之冤。兩爭不放，謂之鷸蚌相持；無辜牽連，謂之池魚受害。
 > 
-> 石崇殺妓以侑酒，恃富行兇；何曾一食費萬錢，奢侈過甚。二月賣新絲，五月糶新谷，真是剜肉醫瘡；三年耕而有一年之食，九年耕而有三年之食，庶幾遇荒有備。貧士之腸習黎莧，富人之口厭膏樑。石崇以蠟代薪，王愷以飴沃釜。範丹土竈生蛙，破甑生塵；曾子捉襟見肘，納履決踵，貧不勝言。子路衣敝縕袍，與輕裘立；韋莊數米而飲，稱薪而爨，儉有可鄙。總之飽德之士，不願膏樑；聞譽之施，奚圖文繡。
+> 請公入甕，周興自作其孽；下車泣罪，夏禹深痛其民。好訟曰健訟，掛告曰株連。爲人息訟，謂之釋紛；被人栽冤，謂之嫁禍。徒配曰城旦，遣戍是問軍。三尺乃朝廷之法，三木是罪人之刑。
+> 
+> 古之五刑，墨、劓、剕、宮、大辟；今之律例，笞、杖、死罪、徒、流。上古時削木爲吏，今日之淳風安在；唐太宗縱囚歸獄，古人之誠信可嘉。花落訟庭間，草生囹圄靜，歌何易治民之間；吏從冰上立，人在鏡中行，頌盧奐折獄之清。可見治亂之藥石，刑罰爲重；興平之樑肉，德教爲先。
 >
