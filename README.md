@@ -1,25 +1,11 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 小雅
+> 十四 寒
 > 
-> 节彼南山，维石岩岩。赫赫师尹，民具尔瞻。忧心如惔，不敢戏谈。国既卒斩，何用不监！
+> 多對少，易對難，虎踞對龍蟠。龍舟對鳳輦，白鶴對青鸞。風淅淅，露漙漙，繡轂對雕鞍。魚遊荷葉沼，鷺立蓼花灘。有酒阮貂奚用解，無魚馮鋏必須彈。丁固夢鬆，柯葉忽然生腹上；文郎畫竹，枝梢倏爾長毫端。
 > 
-> 节彼南山，有实其猗。赫赫师尹，不平谓何。天方荐瘥，丧乱弘多。民言无嘉，惨莫惩嗟。
+> 寒對暑，溼對幹，魯隱對齊桓。寒氈對暖席，夜飲對晨餐。叔子帶，仲由冠，郟鄏對邯鄲。嘉禾憂夏旱，衰柳耐秋寒。楊柳綠遮元亮宅，杏花紅映仲尼壇。江水流長，環繞似青羅帶；海蟾輪滿，澄明如白玉盤。
 > 
-> 尹氏大师，维周之氐；秉国之钧，四方是维。天子是毗，俾民不迷。不吊昊天，不宜空我师。
-> 
-> 弗躬弗亲，庶民弗信。弗问弗仕，勿罔君子。式夷式已，无小人殆。琐琐姻亚，则无膴仕。
-> 
-> 昊天不佣，降此鞠訩。昊天不惠，降此大戾。君子如届，俾民心阕。君子如夷，恶怒是违。
-> 
-> 不吊昊天，乱靡有定。式月斯生，俾民不宁。忧心如酲，谁秉国成？不自为政，卒劳百姓。
-> 
-> 驾彼四牡，四牡项领。我瞻四方，蹙蹙靡所骋。
-> 
-> 方茂尔恶，相尔矛矣。既夷既怿，如相酬矣。
-> 
-> 昊天不平，我王不宁。不惩其心，覆怨其正。
-> 
-> 家父作诵，以究王訩。式讹尔心，以畜万邦。
+> 橫對豎，窄對寬，黑志對彈丸。朱簾對畫棟，彩檻對雕欄。春既老，夜將闌，百辟對千官。懷仁稱足足，抱義美般般。好馬君王曾市骨，食豬處士僅思肝。世仰雙仙，元禮舟中攜郭泰，人稱連壁，夏侯車上並潘安。
 >
