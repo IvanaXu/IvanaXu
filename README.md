@@ -1,17 +1,15 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 賣柑者言
+> 珍寶
 > 
-> 明代：劉基 
+> 山川之精英，每泄爲至寶；乾坤之瑞氣，恆結爲奇珍。故玉足以庇嘉穀，明珠可以御火災。魚目豈可混珠，碔砆焉能亂玉。黃金生於麗水，白銀出自朱提。曰孔方、曰家兄，俱爲錢號；日青蚨，曰鵝眼，亦是錢名。
 > 
-> 杭有賣果者，善藏柑，涉寒暑不潰。出之燁然，玉質而金色。置於市，賈十倍，人爭鬻之。
+> 可貴者明月夜光之珠，可珍者璠璵琬琰之玉。宋人以燕石爲玉，什襲緹巾之中；楚王以璞玉爲石，兩刖卞和之足。惠王之珠，光能照乘；和氏之壁，價重連城。鮫人泣淚成珠，宋人削玉爲楮。賢乃國家之寶，儒爲席上之珍。王者聘賢，束帛加壁；真儒抱道，懷瑾握瑜。
 > 
-> 予貿得其一，剖之，如有煙撲口鼻，視其中，則幹若敗絮。予怪而問之曰：“若所市於人者，將以實籩豆，奉祭祀，供賓客乎？將炫外以惑愚瞽也？甚矣哉，爲欺也！”
+> 雍伯多緣，種玉於藍田而得美婦；太公奇遇，釣璜於渭水而遇文王。剖腹藏珠，愛財而不愛命；纏頭作錦，助舞而更助嬌。孟嘗廉潔，克俾合浦還珠；相如忠勇，能使秦廷歸璧。玉釵作燕飛，漢宮之異事；金錢成蝶舞，唐庫之奇傳。廣錢固可以通神，營利乃爲鬼所笑。以小致大，謂之拋磚引玉；不知所貴，謂之買櫝還珠。
 > 
-> 賣者笑曰：“吾業是有年矣，吾賴是以食吾軀。吾售之，人取之，未嘗有言，而獨不足子所乎？世之爲欺者不寡矣，而獨我也乎？吾子未之思也。
+> 賢否罹害，如玉石俱焚；貪得無厭，雖輜珠必算。崔烈以錢買官，人皆惡其銅臭；秦嫂不敢視叔，自言畏其多金。熊袞父亡，天乃雨錢助葬；仲儒家窘，天乃雨金濟貧。漢楊震畏四知而辭金，唐太宗因懲貪而賜絹。
 > 
-> 今夫佩虎符、坐皋比者，洸洸乎干城之具也，果能授孫、吳之略耶？ 峨大冠、 拖長紳者，昂昂乎廟堂之器也，果能建伊、皋之業耶？盜起而不知御，民困而不知救，吏奸而不知禁，法斁而不知理，坐糜廩粟而不知恥。觀其坐高堂，騎大馬，醉醇醴而飫肥鮮者，孰不巍巍乎可畏，赫赫乎可象也？又何往而不金玉其外，敗絮其中也哉？今子是之不察，而以察吾柑！”
-> 
-> 予默默無以應。退而思其言，類東方生滑稽之流。豈其憤世疾邪者耶？而託於柑以諷耶？
+> 晉魯褒作《錢神論》，嘗以錢爲孔方兄；王夷甫口不言錢，乃謂錢爲阿堵物。然而牀頭金盡，壯士無顏；囊內錢空，阮郎羞澀。但匹夫不可懷壁，人生孰不愛財。
 >
