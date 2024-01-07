@@ -1,15 +1,17 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 小雅
+> 賣柑者言
 > 
-> 蓼蓼者莪，匪莪伊蒿。哀哀父母，生我劬劳。
+> 明代：劉基 
 > 
-> 蓼蓼者莪，匪莪伊蔚。哀哀父母，生我劳瘁。
+> 杭有賣果者，善藏柑，涉寒暑不潰。出之燁然，玉質而金色。置於市，賈十倍，人爭鬻之。
 > 
-> 瓶之罄矣，维罍之耻。鲜民之生，不如死之久矣。无父何怙？无母何恃？出则衔恤，入则靡至。
+> 予貿得其一，剖之，如有煙撲口鼻，視其中，則幹若敗絮。予怪而問之曰：“若所市於人者，將以實籩豆，奉祭祀，供賓客乎？將炫外以惑愚瞽也？甚矣哉，爲欺也！”
 > 
-> 父兮生我，母兮鞠我。抚我畜我，长我育我，顾我复我，出入腹我。欲报之德。昊天罔极！
+> 賣者笑曰：“吾業是有年矣，吾賴是以食吾軀。吾售之，人取之，未嘗有言，而獨不足子所乎？世之爲欺者不寡矣，而獨我也乎？吾子未之思也。
 > 
-> 南山烈烈，飘风发发。民莫不穀，我独何害！南山律律，飘风弗弗。民莫不穀，我独不卒！
+> 今夫佩虎符、坐皋比者，洸洸乎干城之具也，果能授孫、吳之略耶？ 峨大冠、 拖長紳者，昂昂乎廟堂之器也，果能建伊、皋之業耶？盜起而不知御，民困而不知救，吏奸而不知禁，法斁而不知理，坐糜廩粟而不知恥。觀其坐高堂，騎大馬，醉醇醴而飫肥鮮者，孰不巍巍乎可畏，赫赫乎可象也？又何往而不金玉其外，敗絮其中也哉？今子是之不察，而以察吾柑！”
+> 
+> 予默默無以應。退而思其言，類東方生滑稽之流。豈其憤世疾邪者耶？而託於柑以諷耶？
 >
