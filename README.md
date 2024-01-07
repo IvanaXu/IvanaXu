@@ -1,20 +1,15 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 祝英台近 秋旅搜箧，得故衣，怅然
+> 小雅
+> 
+> 蓼蓼者莪，匪莪伊蒿。哀哀父母，生我劬劳。
+> 
+> 蓼蓼者莪，匪莪伊蔚。哀哀父母，生我劳瘁。
+> 
+> 瓶之罄矣，维罍之耻。鲜民之生，不如死之久矣。无父何怙？无母何恃？出则衔恤，入则靡至。
+> 
+> 父兮生我，母兮鞠我。抚我畜我，长我育我，顾我复我，出入腹我。欲报之德。昊天罔极！
+> 
+> 南山烈烈，飘风发发。民莫不穀，我独何害！南山律律，飘风弗弗。民莫不穀，我独不卒！
 >
-> 近现代末当代初·赵尊岳
->
-> 掠秋痕，扶烛影，残夜伴针线。
-> 
-> 唾碧裁红，刻意试寒暖。
-> 
-> 不期万劫蹉跎，百年辛苦，送流水时光一盷。
-> 
-> 尽肠断。
-> 
-> 历历金锁葳蕤，开奁隐犹现。
-> 
-> 偏是仙蓬，咫尺隔天远。
-> 
-> 那回谁信寻常，凌波人去，竟忘约他生重见。
