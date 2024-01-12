@@ -1,11 +1,11 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 子產論尹何爲邑
+> 王孫圉論楚寶
 > 
-> 先秦：左丘明 
+> 先秦：佚名 
 > 
-> 子皮欲使尹何爲邑。子產曰：“少，未知可否。”子皮曰：“願，吾愛之，不吾叛也。使夫往而學焉，夫亦愈知治矣。”子產曰；“不可。人之愛人，求利之也。今吾子愛人則以政。猶未能操刀而使割也，其傷實多。子之愛人，傷之而已，其誰敢求愛於子？子於鄭國，棟也。棟折榱崩，僑將厭焉，敢不盡言？子有美錦，不使人學制焉。大官大邑，身之所庇也，而使學者制焉。其爲美錦，不亦多乎？僑聞學而後入政，未聞以政學者也。若果行此，必有所害。譬如田獵，射御貫，則能獲禽；若未嘗登車射御，則敗績厭覆是懼，何暇思獲？
+> 王孫圉聘於晉，定公饗之。趙簡子鳴玉以相，問於王孫圉曰：“楚之白珩猶在乎？”對曰：“然。”簡子曰：“其爲寶也，幾何矣？”曰：“未嘗爲寶。楚之所寶者，曰觀射父，能作訓辭，以行事於諸侯，使無以寡君爲口實。又有左史倚相，能道訓典，以敘百物，以朝夕獻善敗於寡君，使寡君無忘先王之業；又能上下說於鬼神，順道其欲惡，使神無有怨痛於楚國。又有藪曰云，連徒洲，金、木、竹、箭之所生也，龜、珠、角、齒、皮、革、羽、毛，所以備賦，以戒不虞者也；所以共幣帛，以賓享於諸侯者也。若諸侯之好幣具，而導之以訓辭，有不虞之備，而皇神相之，寡君其可以免罪於諸侯，而國民保焉。此楚國之寶也。若夫白珩，先王之玩也，何寶之焉？”
 > 
-> 子皮曰：“善哉！虎不敏。吾聞君子務知大者、遠者，小人務知小者、近者。我，小人也。衣服附在吾身，我知而慎之；大官、大邑，所以庇身也，我遠而慢之。微子之言，吾不知也。他日我曰：‘子爲鄭國，我爲吾家，以庇焉，其可也。’今而後知不足。自今請雖吾家，聽子而行。”子產曰：“人心之不同，如其面焉。吾豈敢謂子面如吾面乎？抑心所謂危，亦以告也。”子皮以爲忠，故委政焉。子產是以能爲鄭國。
+> “圉聞國之寶，六而已：聖能制議百物，以輔相國家，則寶之；玉足以庇廕嘉穀，使無水旱之災，則寶之；龜足以憲臧否，則寶之；珠足以御火災，則寶之；金足以御兵亂，則寶之；山林藪澤足以備財用，則寶之。若夫譁囂之美，楚雖蠻夷，不能寶也。”
 >
