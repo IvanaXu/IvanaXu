@@ -1,11 +1,11 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 四 支
+> 十一 真
 > 
-> 茶對酒，賦對詩，燕子對鶯兒。栽花對種竹，落絮對遊絲。四目頡，一足夔，鴝鵒對鷺鷥。半池紅菡萏，一架白荼蘼。幾陣秋風能應候，一犁春雨甚知時。智伯恩深，國士吞變形之炭；羊公德大，邑人豎墮淚之碑。
+> 邪對正，假對真，獬豸對麒麟。韓盧對蘇雁，陸橘對莊椿。韓五鬼，李三人，北魏對西秦。蟬鳴哀暮夏，鶯囀怨殘春。野燒焰騰紅爍爍，溪流波皺碧粼粼。行無蹤，居無廬，頌成酒德；動有時，藏有節，論著錢神。
 > 
-> 行對止，速對遲，舞劍對圍棋。花箋對草字，竹簡對毛錐。汾水鼎，峴山碑，虎豹對熊羆。花開紅錦繡，水漾碧琉璃。去婦因探鄰舍棗，出妻爲種後園葵。笛韻和諧，仙管恰從雲裏降；櫓聲咿軋，漁舟正向雪中移。
+> 哀對樂，富對貧，好友對嘉賓。彈冠對結綬，白日對青春。金翡翠，玉麒麟，虎爪對龍麟。柳塘生細浪，花徑起香塵。閒愛登山穿謝屐，醉思漉酒脫陶巾。雪冷霜嚴，倚檻鬆筠同傲歲；日遲風暖，滿園花柳各爭春。
 > 
-> 戈對甲，鼓對旗，紫燕對黃鸝。梅酸對李苦，青眼對白眉。三弄笛，一圍棋，雨打對風吹。海棠春睡早，楊柳晝眠遲。張駿曾爲槐樹賦，杜陵不作海棠詩。晉士特奇，可比一斑之豹；唐儒博識，堪爲五總之龜。
+> 香對火，炭對薪，日觀對天津。禪心對道眼，野婦對宮嬪。仁無敵，德有鄰，萬石對千鈞。滔滔三峽水，冉冉一溪冰。充國功名當畫閣，子張言行貴書紳。篤志詩書，思入聖賢絕域；忘情官爵，羞沾名利纖塵。
 >
