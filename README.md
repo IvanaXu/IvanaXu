@@ -1,18 +1,14 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 隰有苌楚
+> 上杜相三首 其三
 >
-> 先秦·诗经
+> 宋·曾巩
 >
-> 隰有苌楚，猗傩其枝。
+> 转觉忧馀好尚孤，较量唯合老葭蒲。
 > 
-> 夭之沃沃，乐子之无知。
+> 圣贤可是随时拙，正直由来济世迂。
 > 
-> 隰有苌楚，猗傩其华。
+> 生事有亲甘钓筑，客情无力买山湖。
 > 
-> 夭之沃沃，乐子之无家。
-> 
-> 隰有苌楚，猗傩其实。
-> 
-> 夭之沃沃，乐子之无室。
+> 天边愁绝伤离苦，台象空看照宋都。
