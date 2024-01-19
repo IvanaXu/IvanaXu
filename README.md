@@ -1,11 +1,11 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 六 麻
+> 十 蒸
 > 
-> 鬆對柏，縷對麻，蟻陣對蜂衙。頳鱗對白鷺，凍雀對昏鴉，白墮酒，碧沉茶，品笛對吹笳。秋涼梧墮葉，春暖杏開花。雨長苔痕侵壁砌，月移梅影上窗紗。颯颯秋風，度城頭之篳篥；遲遲晚照，動江上之琵琶。
+> 新對舊，降對升，白犬對蒼鷹。葛巾對藜杖，澗水對池冰。張兔網，掛魚罾，燕雀對鵾鵬。爐中煎藥火，窗下讀書燈。織錦逐梭成舞鳳，畫屏誤筆作飛蠅。宴客劉公，座上滿斟三雅爵；迎仙漢帝，宮中高插九光燈。
 > 
-> 優對劣，凸對凹，翠竹對黃花。鬆杉對杞梓，菽麥對桑麻。山不斷，水無涯，煮酒對烹茶。魚遊池面水，鷺立岸頭沙。百畝風翻陶令秫，一畦雨熟邵平瓜。閒捧竹根，飲李白一壺之酒；偶擎桐葉，啜盧仝七碗之茶。
+> 儒對士，佛對僧，面友對心朋。春殘對夏老，夜寢對晨興。千里馬，九霄鵬，霞蔚對雲蒸。寒堆陰嶺雪，春泮水池冰。亞父憤生撞玉斗，周公誓死作金縢。將軍元暉，莫怪人譏爲餓虎；侍中盧昶，難逃世號作飢鷹。
 > 
-> 吳對楚，蜀對巴，落日對流霞。酒錢對詩債，柏葉對松花。馳驛騎，泛仙槎，碧玉對丹砂。設橋偏送筍，開道竟還瓜。楚國大夫沉汨水，洛陽才子謫長沙。書篋琴囊，乃士流活計；藥爐茶鼎，實閒客生涯。
+> 規對矩，墨對繩，獨步對同登。吟哦對諷詠，訪友對尋僧。風繞屋，水襄陵，紫鵠對蒼鷹。鳥寒驚夜月，魚暖上春冰。揚子口中飛白鳳，何郎鼻上集青蠅。巨鯉躍池，翻幾重之密藻；顛猿飲澗，掛百尺之垂藤。
 >
