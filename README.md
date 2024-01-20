@@ -1,15 +1,15 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 六國論
+> 珍寶
 > 
-> 宋代：蘇轍 
+> 山川之精英，每泄爲至寶；乾坤之瑞氣，恆結爲奇珍。故玉足以庇嘉穀，明珠可以御火災。魚目豈可混珠，碔砆焉能亂玉。黃金生於麗水，白銀出自朱提。曰孔方、曰家兄，俱爲錢號；日青蚨，曰鵝眼，亦是錢名。
 > 
-> 嘗讀六國《世家》，竊怪天下之諸侯，以五倍之地，十倍之衆，發憤西向，以攻山西千里之秦，而不免於死亡。常爲之深思遠慮，以爲必有可以自安之計，蓋未嘗不咎其當時之士慮患之疏，而見利之淺，且不知天下之勢也。
+> 可貴者明月夜光之珠，可珍者璠璵琬琰之玉。宋人以燕石爲玉，什襲緹巾之中；楚王以璞玉爲石，兩刖卞和之足。惠王之珠，光能照乘；和氏之壁，價重連城。鮫人泣淚成珠，宋人削玉爲楮。賢乃國家之寶，儒爲席上之珍。王者聘賢，束帛加壁；真儒抱道，懷瑾握瑜。
 > 
-> 夫秦之所以與諸侯爭天下者，不在齊、楚、燕、趙也，而在韓、魏之郊；諸侯之所與秦爭天下者，不在齊、楚、燕、趙也，而在韓、魏之野。秦之有韓、魏，譬如人之有腹心之疾也。韓、魏塞秦之衝，而弊山東之諸侯，故夫天下之所重者，莫如韓、魏也。昔者範睢用於秦而收韓，商鞅用於秦而收魏，昭王未得韓、魏之心，而出兵以攻齊之剛、壽，而范雎以爲憂。然則秦之所忌者可以見矣。
+> 雍伯多緣，種玉於藍田而得美婦；太公奇遇，釣璜於渭水而遇文王。剖腹藏珠，愛財而不愛命；纏頭作錦，助舞而更助嬌。孟嘗廉潔，克俾合浦還珠；相如忠勇，能使秦廷歸璧。玉釵作燕飛，漢宮之異事；金錢成蝶舞，唐庫之奇傳。廣錢固可以通神，營利乃爲鬼所笑。以小致大，謂之拋磚引玉；不知所貴，謂之買櫝還珠。
 > 
-> 秦之用兵於燕、趙，秦之危事也。越韓過魏，而攻人之國都，燕、趙拒之於前，而韓、魏乘之於後，此危道也。而秦之攻燕、趙，未嘗有韓、魏之憂，則韓、魏之附秦故也。夫韓、魏諸侯之障，而使秦人得出入於其間，此豈知天下之勢邪！委區區之韓、魏，以當強虎狼之秦，彼安得不折而入於秦哉？韓、魏折而入於秦，然後秦人得通其兵於東諸侯，而使天下偏受其禍。
+> 賢否罹害，如玉石俱焚；貪得無厭，雖輜珠必算。崔烈以錢買官，人皆惡其銅臭；秦嫂不敢視叔，自言畏其多金。熊袞父亡，天乃雨錢助葬；仲儒家窘，天乃雨金濟貧。漢楊震畏四知而辭金，唐太宗因懲貪而賜絹。
 > 
-> 夫韓、魏不能獨當秦，而天下之諸侯，藉之以蔽其西，故莫如厚韓親魏以擯秦。秦人不敢逾韓、魏以窺齊、楚、燕、趙之國，而齊、楚、燕、趙之國，因得以自完於其間矣。以四無事之國，佐當寇之韓、魏，使韓、魏無東顧之憂，而爲天下出身以當秦兵；以二國委秦，而四國休息於內，以陰助其急，若此，可以應夫無窮，彼秦者將何爲哉！不知出此，而乃貪疆埸尺寸之利，背盟敗約，以自相屠滅，秦兵未出，而天下諸侯已自困矣。至於秦人得伺其隙以取其國，可不悲哉！
+> 晉魯褒作《錢神論》，嘗以錢爲孔方兄；王夷甫口不言錢，乃謂錢爲阿堵物。然而牀頭金盡，壯士無顏；囊內錢空，阮郎羞澀。但匹夫不可懷壁，人生孰不愛財。
 >
