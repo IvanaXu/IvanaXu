@@ -1,22 +1,17 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 二月八日偶成寄祝艾臣同年四首
+> 贈黎安二生序
+> 
+> 宋代：曾鞏 
+> 
+> 趙郡蘇軾，餘之同年友也。自蜀以書至京師遺餘，稱蜀之士，曰黎生、安生者。既而黎生攜其文數十萬言，安生攜其文亦數千言，辱以顧餘。讀其文，誠閎壯雋偉，善反覆馳騁，窮盡事理；而其材力之放縱，若不可極者也。二生固可謂魁奇特起之士，而蘇君固可謂善知人者也。
+> 
+> 頃之，黎生補江陵府司法參軍。將行，請予言以爲贈。餘曰：「餘之知生，既得之於心矣，乃將以言相求於外邪？」黎生曰：「生與安生之學於斯文，裏之人皆笑以爲迂闊。今求子之言，蓋將解惑於里人。」餘聞之，自顧而笑。
+> 
+> 夫世之迂闊，孰有甚於予乎？知信乎古，而不知合乎世；知志乎道，而不知同乎俗。此餘所以困於今而不自知也。世之迂闊，孰有甚於予乎？今生之迂，特以文不近俗，迂之小者耳，患爲笑於裏之人。若餘之迂大矣，使生持吾言而歸，且重得罪，庸詎止於笑乎？
+> 
+> 然則若餘之於生，將何言哉？謂餘之迂爲善，則其患若此；謂爲不善，則有以合乎世，必違乎古，有以同乎俗，必離乎道矣。生其無急於解里人之惑，則於是焉，必能擇而取之。
+> 
+> 遂書以贈二生，並示蘇君，以爲何如也？
 >
-> 清末民国初·曹家达
->
-> 春风送我到天涯，九九消寒不在家。
-> 
-> 传语城南祝吏部，与谁携手咏梅花。
-> 
-> 薄采葑菲日易斜，暂凭高卧息纷拿。
-> 
-> 海风吹下萧萧雨，别梦如云谢到家。
-> 
-> 沙才色艺冠江南，醉眼朦胧酒半酣。
-> 
-> 强记昔年愁却曲，有人扶我十方庵。
-> 
-> 新年叨被邀春酌，孤负珍珠一斗红。
-> 
-> 赚得孔璋好文字，阿瞒原不病头风。
