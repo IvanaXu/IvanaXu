@@ -1,28 +1,22 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 前缓声歌
+> 百字令 中国健儿登上珠穆朗玛峰，喜赋
 >
-> 汉·两汉乐府
+> 民国末当代初·朱庸斋
 >
-> 水中之马。
+> 峥嵘绝仞，记八千尺外，未窥人迹。
 > 
-> 必有陆地之船。
+> 最后一区神秘地，举世同称三极。
 > 
-> 但有意气不能自前。
+> 鸳綵翔金，狮茸灿白，胜境教谁识。
 > 
-> 心非木石。
+> 怜她圣母，年年耐此孤寂。
 > 
-> 荆根株数得覆盖天。
+> 凭仗大勇豪情，蹬冰踏雪，开展英雄役。
 > 
-> 当复思东流之水。
+> 争取最高峰上去，一瞰万山如席。
 > 
-> 必有西上之鱼。
+> 解冻东风，淩云壮志，绝顶今能辟。
 > 
-> 不在大小。
-> 
-> 但有朝于复来。
-> 
-> 长笛续短笛。
-> 
-> 欲今皇帝陛下三千万。
+> 天堂咫尺，琼梯步步堪历。
