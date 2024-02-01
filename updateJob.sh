@@ -7,4 +7,4 @@ git pull
 
 git add *;echo;
 git commit -m "Auto@Mac #1 $(date "+%H")";echo;
-git push;
+proxychains4 git push;
