@@ -1,5 +1,5 @@
 
-cd /Users/ivan/PycharmProjects/IvanaXu
+cd /Volumes/DATA/code/IvanaXu
 
 git pull
 
