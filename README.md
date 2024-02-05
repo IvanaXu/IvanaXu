@@ -1,11 +1,15 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 六 麻
+> 永州韋使君新堂記
 > 
-> 鬆對柏，縷對麻，蟻陣對蜂衙。頳鱗對白鷺，凍雀對昏鴉，白墮酒，碧沉茶，品笛對吹笳。秋涼梧墮葉，春暖杏開花。雨長苔痕侵壁砌，月移梅影上窗紗。颯颯秋風，度城頭之篳篥；遲遲晚照，動江上之琵琶。
+> 唐代：柳宗元 
 > 
-> 優對劣，凸對凹，翠竹對黃花。鬆杉對杞梓，菽麥對桑麻。山不斷，水無涯，煮酒對烹茶。魚遊池面水，鷺立岸頭沙。百畝風翻陶令秫，一畦雨熟邵平瓜。閒捧竹根，飲李白一壺之酒；偶擎桐葉，啜盧仝七碗之茶。
+> 將爲穹谷嵁巖淵池於郊邑之中，則必輦山石，溝澗壑，陵絕險阻，疲極人力，乃可以有爲也。然而求天作地生之狀，鹹無得焉。逸其人，因其地，全其天，昔之所難，今於是乎在。
 > 
-> 吳對楚，蜀對巴，落日對流霞。酒錢對詩債，柏葉對松花。馳驛騎，泛仙槎，碧玉對丹砂。設橋偏送筍，開道竟還瓜。楚國大夫沉汨水，洛陽才子謫長沙。書篋琴囊，乃士流活計；藥爐茶鼎，實閒客生涯。
+> 永州實惟九疑之麓。其始度土者，環山爲城。有石焉，翳於奧草；有泉焉，伏於土塗。蛇虺之所蟠，狸鼠之所遊。茂樹惡木，嘉葩毒卉，亂雜而爭植，號爲穢墟。
+> 
+> 韋公之來，既逾月，理甚無事。望其地，且異之。始命芟其蕪，行其塗。積之丘如，蠲之瀏如。既焚既釃，奇勢迭出。清濁辨質，美惡異位。視其植，則清秀敷舒；視其蓄，則溶漾紆餘。怪石森然，周於四隅。或列或跪，或立或僕，竅穴逶邃，堆阜突怒。乃作棟宇，以爲觀遊。凡其物類，無不合形輔勢，效伎於堂廡之下。外之連山高原，林麓之崖，間廁隱顯。邇延野綠，遠混天碧，鹹會於譙門之內。
+> 
+> 已乃延客入觀，繼以宴娛。或贊且賀曰：“見公之作，知公之志。公之因土而得勝，豈不欲因俗以成化？公之擇惡而取美，豈不欲除殘而佑仁？公之蠲濁而流清，豈不欲廢貪而立廉？公之居高以望遠，豈不欲家撫而戶曉？夫然，則是堂也，豈獨草木土石水泉之適歟？山原林麓之觀歟？將使繼公之理者，視其細知其大也。”宗元請志諸石，措諸壁，編以爲二千石楷法。
 >
