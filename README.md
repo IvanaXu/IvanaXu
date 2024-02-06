@@ -1,13 +1,11 @@
 - བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 曹劌論戰
+> 六 麻
 > 
-> 先秦：左丘明 
+> 鬆對柏，縷對麻，蟻陣對蜂衙。頳鱗對白鷺，凍雀對昏鴉，白墮酒，碧沉茶，品笛對吹笳。秋涼梧墮葉，春暖杏開花。雨長苔痕侵壁砌，月移梅影上窗紗。颯颯秋風，度城頭之篳篥；遲遲晚照，動江上之琵琶。
 > 
-> 十年春，齊師伐我。公將戰。曹劌請見。其鄉人曰：“肉食者謀之，又何間焉？”劌曰：“肉食者鄙，未能遠謀。”乃入見。問：“何以戰？”公曰：“衣食所安，弗敢專也，必以分人。”對曰：“小惠未遍，民弗從也。”公曰：“犧牲玉帛，弗敢加也，必以信。”對曰：“小信未孚，神弗福也。”公曰：“小大之獄，雖不能察，必以情。”對曰：“忠之屬也。可以一戰。戰則請從。”（遍 一作：徧)
+> 優對劣，凸對凹，翠竹對黃花。鬆杉對杞梓，菽麥對桑麻。山不斷，水無涯，煮酒對烹茶。魚遊池面水，鷺立岸頭沙。百畝風翻陶令秫，一畦雨熟邵平瓜。閒捧竹根，飲李白一壺之酒；偶擎桐葉，啜盧仝七碗之茶。
 > 
-> 公與之乘，戰於長勺。公將鼓之。劌曰：“未可。”齊人三鼓。劌曰：“可矣。”齊師敗績。公將馳之。劌曰：“未可。”下視其轍，登軾而望之，曰：“可矣。”遂逐齊師。
-> 
-> 既克，公問其故。對曰：“夫戰，勇氣也。一鼓作氣，再而衰，三而竭。彼竭我盈，故克之，夫大國，難測也，懼有伏焉。吾視其轍亂，望其旗靡，故逐之。”
+> 吳對楚，蜀對巴，落日對流霞。酒錢對詩債，柏葉對松花。馳驛騎，泛仙槎，碧玉對丹砂。設橋偏送筍，開道竟還瓜。楚國大夫沉汨水，洛陽才子謫長沙。書篋琴囊，乃士流活計；藥爐茶鼎，實閒客生涯。
 >
