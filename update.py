@@ -44,7 +44,6 @@ monkeytype = f"""{t0}&up_color=yellow&up_message=Monkeytype&url={t1})](https://m
 # title = f"""{stats}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
 
 title = (
-    # f"""{stats}\n{toplangs}\n{wakatime}\n"""
     f"""{wakatime} \n"""
     f"""- བཀྲ་ཤིས་བདེ་ལེགས་ \n"""
     f"""- {wakatime_total}\t{tianchi}\t{kaggle}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}\t{monkeytype} \n"""
