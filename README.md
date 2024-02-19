@@ -3,11 +3,11 @@
 - Person	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 - Product	[![Website](https://img.shields.io/website?label=alpha&up_color=blue&up_message=EDA&url=https%3A%2F%2Fshields.io)](http://eda.tangjt.cn/) 
 
-> 十 灰
+> 二 冬
 > 
-> 增對損，閉對開，碧草對蒼苔。書籤對筆架，兩曜對三臺。周召虎，宋桓魋，閬苑對蓬萊。薰風生殿閣，皓月照樓臺。卻馬漢文思罷獻，吞蝗唐太冀移災。照耀八荒，赫赫麗天秋日；震驚百里，轟轟出地春雷。
+> 春對夏，秋對冬，暮鼓對晨鐘。觀山對玩水，綠竹對蒼松。馮婦虎，葉公龍，舞蝶對鳴蛩。銜泥雙紫燕，課蜜幾黃蜂。春日園中鶯恰恰，秋天塞外雁雍雍。秦嶺雲橫，迢遞八千遠路；巫山雨洗，嵯峨十二危峯。
 > 
-> 沙對水，火對灰，雨雪對風雷。書淫對傳癖，水滸對巖隈。歌舊曲，釀新醅，舞館對歌臺。春棠經雨放，秋菊傲霜開。作酒固難忘麴櫱，調羹必要用鹽梅。月滿庾樓，據胡牀而可玩；花開唐苑，轟羯鼓以奚催。
+> 明對暗，淡對濃，上智對中庸。鏡奩對衣笥，野杵對村舂。花灼爍，草蒙茸，九夏對三冬。臺高名戲馬，齋小號蟠龍。手擘蟹螯從畢卓，身披鶴氅自王恭。五老峯高，秀插雲霄如玉筆；三姑石大，響傳風雨若金鏞。
 > 
-> 休對咎，福對災，象箸對犀杯。宮花對御柳，峻閣對高臺。花蓓蕾，草根荄，剔蘚對剜苔。雨前庭蟻鬧，霜後陣鴻哀。元亮南窗今日傲，孫弘東閣幾時開。平展青茵，野外茸茸軟草；高張翠幄，庭前鬱郁涼槐。
+> 仁對義，讓對恭，禹舜對羲農。雪花對雲葉，芍藥對芙蓉。陳後主，漢中宗，繡虎對雕龍。柳塘風淡淡，花圃月濃濃。春日正宜朝看蝶，秋風那更夜聞蛩。戰士邀功，必借干戈成勇武；逸民適志，須憑詩酒養疏慵。
 >
