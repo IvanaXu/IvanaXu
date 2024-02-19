@@ -3,9 +3,15 @@
 - _Person_	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 - _Product_	[![Website](https://img.shields.io/website?label=alpha&up_color=blue&up_message=EDA&url=https%3A%2F%2Fshields.io)](http://eda.tangjt.cn/) 
 
-> 国风
+> 插花吟
 > 
-> 十亩之间兮，桑者闲闲兮，行与子还兮。
+> （宋）邵雍
 > 
-> 十亩之外兮，桑者泄泄兮，行与子逝兮。
+> 頭上花枝照酒卮，酒卮中有好花枝。
+> 
+> 身經兩世太平日，眼見四朝全盛時。
+> 
+> 況復筋骸粗康健，那堪時節正芳菲。
+> 
+> 酒涵花影紅光溜，爭忍花前不醉歸。
 >
