@@ -1,13 +1,11 @@
 ### བཀྲ་ཤིས་བདེ་ལེགས་	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)	[![Website](https://img.shields.io/website?label=alpha&up_color=blue&up_message=EDA&url=https%3A%2F%2Fshields.io)](http://eda.tangjt.cn/) 
 [![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 
-> 上書諫獵
+> 十 灰
 > 
-> 兩漢：司馬相如 
+> 增對損，閉對開，碧草對蒼苔。書籤對筆架，兩曜對三臺。周召虎，宋桓魋，閬苑對蓬萊。薰風生殿閣，皓月照樓臺。卻馬漢文思罷獻，吞蝗唐太冀移災。照耀八荒，赫赫麗天秋日；震驚百里，轟轟出地春雷。
 > 
-> 臣聞物有同類而殊能者，故力稱烏獲，捷言慶忌，勇期賁、育。臣之愚，竊以爲人誠有之，獸亦宜然。今陛下好陵阻險，射猛獸，卒然遇逸材之獸，駭不存之地，犯屬車之清塵，輿不及還轅，人不暇施巧，雖有烏獲、逢蒙之技不能用，枯木朽枝盡爲難矣。是胡越起於轂下，而羌夷接軫也，豈不殆哉！雖萬全而無患，然本非天子之所宜近也。
+> 沙對水，火對灰，雨雪對風雷。書淫對傳癖，水滸對巖隈。歌舊曲，釀新醅，舞館對歌臺。春棠經雨放，秋菊傲霜開。作酒固難忘麴櫱，調羹必要用鹽梅。月滿庾樓，據胡牀而可玩；花開唐苑，轟羯鼓以奚催。
 > 
-> 且夫清道而後行，中路而馳，猶時有銜橛之變。況乎涉豐草，騁丘虛，前有利獸之樂，而內無存變之意，其爲害也不難矣。夫輕萬乘之重不以爲安，樂出萬有一危之途以爲娛，臣竊爲陛下不取。
-> 
-> 蓋明者遠見於未萌，而知者避危於無形，禍固多藏於隱微而發於人之所忽者也。故鄙諺曰：“家累千金，坐不垂堂。”此言雖小，可以喻大。臣願陛下留意幸察。
+> 休對咎，福對災，象箸對犀杯。宮花對御柳，峻閣對高臺。花蓓蕾，草根荄，剔蘚對剜苔。雨前庭蟻鬧，霜後陣鴻哀。元亮南窗今日傲，孫弘東閣幾時開。平展青茵，野外茸茸軟草；高張翠幄，庭前鬱郁涼槐。
 >
