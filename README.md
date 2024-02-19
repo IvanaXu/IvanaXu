@@ -5,16 +5,13 @@
 - _Person_	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 - _Product_	[![Website](https://img.shields.io/website?label=alpha&up_color=blue&up_message=EDA&url=https%3A%2F%2Fshields.io)](http://eda.tangjt.cn/) 
 - _Poetry Daily_ 
+> [!IMPORTANT]\ 
 
-> 女子
+> 四 支
 > 
-> 男子稟乾之剛，女子配坤之順。賢后稱女中堯舜，烈女稱女中丈夫。曰閨秀，曰淑媛，皆稱賢女；曰閫範，曰懿德，並美佳人。婦主中饋，烹治飲食之名；女子歸寧，回家省親之謂。何謂三從，從父從夫從子；何謂四德，婦德婦言婦工婦容。
+> 茶對酒，賦對詩，燕子對鶯兒。栽花對種竹，落絮對遊絲。四目頡，一足夔，鴝鵒對鷺鷥。半池紅菡萏，一架白荼蘼。幾陣秋風能應候，一犁春雨甚知時。智伯恩深，國士吞變形之炭；羊公德大，邑人豎墮淚之碑。
 > 
-> 周家母儀，太王有周姜，王季有太妊，文王有太姒；三代亡國，夏桀以妹喜，商紂以妲已，周幽以褒姒。蘭蕙質，柳絮才，皆女人之美譽；冰雪心，柏舟操，悉孀婦之清聲。女貌嬌嬈，謂之尤物；婦容妖媚，實可傾城。
+> 行對止，速對遲，舞劍對圍棋。花箋對草字，竹簡對毛錐。汾水鼎，峴山碑，虎豹對熊羆。花開紅錦繡，水漾碧琉璃。去婦因探鄰舍棗，出妻爲種後園葵。笛韻和諧，仙管恰從雲裏降；櫓聲咿軋，漁舟正向雪中移。
 > 
-> 潘妃步朵朵蓮花，小蠻腰纖纖楊柳。張麗華髮光可鑑，吳絳仙秀色可餐。麗娟氣馥如蘭，呵氣結成香霧；太真淚紅於血，滴時更結紅冰。孟光力大，石臼可擎；飛燕身輕，掌上可舞。
-> 
-> 至若緹縈上書而救父，盧氏冒刃而衛姑，此女之孝者；侃母截髮以延賓，村媼殺雞而謝客，此女之賢者；韓玖英恐賊穢而自投於穢，陳仲妻恐隕德而寧隕於崖，此女之烈者；王凝妻被牽，斷臂投地；曹令女誓志，引刀割鼻，此女之節者；曹大家續完《漢》帙，徐惠妃援筆成文，此女之才者；戴女之練裳竹笥，孟光之荊釵裙布，此女之貧者；柳氏禿妃之髮，郭氏絕夫之嗣，此女之妒者；賈女偷韓壽之香，齊女致襖廟之毀，此女之淫者。東施效顰而可厭，無鹽刻畫以難堪，此女之醜者。
-> 
-> 自古貞淫各異，人生妍醜不齊。是故生菩薩、九子母、鳩盤荼，謂婦態之更變可畏；錢樹子、一點紅、無廉恥，謂青樓之妓女殊名。此固不列於人羣，亦可附之以博笑。
+> 戈對甲，鼓對旗，紫燕對黃鸝。梅酸對李苦，青眼對白眉。三弄笛，一圍棋，雨打對風吹。海棠春睡早，楊柳晝眠遲。張駿曾爲槐樹賦，杜陵不作海棠詩。晉士特奇，可比一斑之豹；唐儒博識，堪爲五總之龜。
 >
