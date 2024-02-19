@@ -49,7 +49,7 @@ title = (
     f"""- {wakatime_total} \n"""
     f"""- _Person_\t{tianchi}\t{aistduio}\t{kaggle}\t{yuque}\t{leetcode}\t{gitee}\t{monkeytype} \n"""
     f"""- _Product_\t{EDA} \n"""
-    f"""- _Poetry Daily_ \n"""
+    f"""- _Poetry Daily_ \n\n"""
     f"""> [!IMPORTANT]\ \n> """
 )
 
