@@ -1,25 +1,13 @@
 ### བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05) 
-- Person [![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
-- Product [![Website](https://img.shields.io/website?label=alpha&up_color=blue&up_message=EDA&url=https%3A%2F%2Fshields.io)](http://eda.tangjt.cn/) 
+- Person	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
+- Product	[![Website](https://img.shields.io/website?label=alpha&up_color=blue&up_message=EDA&url=https%3A%2F%2Fshields.io)](http://eda.tangjt.cn/) 
 
-> 介之推不言祿
+> 十 灰
 > 
-> 先秦：左丘明 
+> 增對損，閉對開，碧草對蒼苔。書籤對筆架，兩曜對三臺。周召虎，宋桓魋，閬苑對蓬萊。薰風生殿閣，皓月照樓臺。卻馬漢文思罷獻，吞蝗唐太冀移災。照耀八荒，赫赫麗天秋日；震驚百里，轟轟出地春雷。
 > 
-> 晉侯賞從亡者，介之推不言祿，祿亦弗及。
+> 沙對水，火對灰，雨雪對風雷。書淫對傳癖，水滸對巖隈。歌舊曲，釀新醅，舞館對歌臺。春棠經雨放，秋菊傲霜開。作酒固難忘麴櫱，調羹必要用鹽梅。月滿庾樓，據胡牀而可玩；花開唐苑，轟羯鼓以奚催。
 > 
-> 推曰：“獻公之子九人，唯君在矣。惠、懷無親，外內棄之。天未絕晉，必將有主。主晉祀者，非君而誰？天實置之，而二三子以爲己力，不亦誣乎？竊人之財，猶謂之盜。況貪天之功，以爲己力乎？下義其罪，上賞其奸。上下相蒙，難與處矣。”
-> 
-> 其母曰：“盍亦求之？以死誰懟？”
-> 
-> 對曰：“尤而效之，罪又甚焉！且出怨言，不食其食。”
-> 
-> 其母曰：“亦使知之，若何？”
-> 
-> 對曰：“言，身之文也。身將隱，焉用文之？是求顯也。”
-> 
-> 其母曰：“能如是乎？與汝偕隱。”遂隱而死。
-> 
-> 晉侯求之，不獲，以綿上（地名）爲之田。曰：“以志吾過，且旌善人。”
+> 休對咎，福對災，象箸對犀杯。宮花對御柳，峻閣對高臺。花蓓蕾，草根荄，剔蘚對剜苔。雨前庭蟻鬧，霜後陣鴻哀。元亮南窗今日傲，孫弘東閣幾時開。平展青茵，野外茸茸軟草；高張翠幄，庭前鬱郁涼槐。
 >

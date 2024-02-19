@@ -46,8 +46,8 @@ EDA = f"""{t0}alpha&up_color=blue&up_message=EDA&url={t1})](http://eda.tangjt.cn
 title = (
     f"""### བཀྲ་ཤིས་བདེ་ལེགས་ \n"""
     f"""- {wakatime_total} \n"""
-    f"""- Person {tianchi}\t{aistduio}\t{kaggle}\t{yuque}\t{leetcode}\t{gitee}\t{monkeytype} \n"""
-    f"""- Product {EDA} \n"""
+    f"""- Person\t{tianchi}\t{aistduio}\t{kaggle}\t{yuque}\t{leetcode}\t{gitee}\t{monkeytype} \n"""
+    f"""- Product\t{EDA} \n"""
 )
 
 ## 
