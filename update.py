@@ -5,7 +5,7 @@ import random
 import pandas as pd
 
 u = "IvanaXu"
-theme = "graywhite"
+theme = "codeSTACKr"
 """
 vue-dark
 graywhite
