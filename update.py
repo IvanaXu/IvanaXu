@@ -48,12 +48,13 @@ title = (
     f"""- {wakatime_total} \n"""
     f"""- _Person_\t{tianchi}\t{aistduio}\t{kaggle}\t{yuque}\t{leetcode}\t{gitee}\t{monkeytype} \n"""
     f"""- _Product_\t{EDA} \n"""
+    f"""- _Poetry_ \n"""
 )
 
 ## 
 if random.random() < 0.618:
     print("@1")
-    with open(f"poetry{random.randint(0,5)}.json", "r", encoding="utf-8") as f:
+    with open(f"poetry{random.randint(0, 5)}.json", "r", encoding="utf-8") as f:
         data = json.load(f)
     ldata = [jdata for idata in data["content"] for jdata in idata["content"]]
 
@@ -80,9 +81,7 @@ else:
 ## Write
 with open("README.md", "w") as f:
     # f.write("![](./Source/5eecf35f693f168adc0bc5ad06da35ad.jpg)")
-    
     f.write(f"{title}\n{conts}\n")
-    
     # f.write(latest)
 
 ## Thx
