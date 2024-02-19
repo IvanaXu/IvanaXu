@@ -5,13 +5,14 @@ import random
 import pandas as pd
 
 u = "IvanaXu"
-theme = "codeSTACKr"
+theme = "dark"
 """
 vue-dark
 graywhite
 codeSTACKr
 shadow_red
 shadow_green
+dark
 """
 
 url1 = f"https://github-readme-stats.vercel.app/api?username={u}&theme={theme}"# &show_icons=true&theme=vue-dark
@@ -44,7 +45,7 @@ EDA = f"""{t0}alpha&up_color=blue&up_message=EDA&url={t1})](http://eda.tangjt.cn
 # title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
 # title = f"""{stats}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
 title = (
-    # f"""{toplangs} \n\n"""
+    f"""{toplangs} \n\n"""
     f"""### བཀྲ་ཤིས་བདེ་ལེགས་ \n"""
     f"""- {wakatime_total} \n"""
     f"""- _Person_\t{tianchi}\t{aistduio}\t{kaggle}\t{yuque}\t{leetcode}\t{gitee}\t{monkeytype} \n"""
