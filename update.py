@@ -50,7 +50,7 @@ title = (
     f"""- _Person_\t{tianchi}\t{aistduio}\t{kaggle}\t{yuque}\t{leetcode}\t{gitee}\t{monkeytype} \n"""
     f"""- _Product_\t{EDA} \n"""
     f"""- _Poetry Daily_ \n"""
-    f"""> [!IMPORTANT]\ \n"""
+    f"""> [!IMPORTANT]\ """
 )
 
 ## 
