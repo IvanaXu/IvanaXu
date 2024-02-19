@@ -6,10 +6,19 @@
 - _Product_	[![Website](https://img.shields.io/website?label=alpha&up_color=blue&up_message=EDA&url=https%3A%2F%2Fshields.io)](http://eda.tangjt.cn/) 
 - _Poetry Daily_ 
 > [!IMPORTANT]\ 
-> 陆机引里语
->
-> 魏晋·无名氏
->
-> 网鱼得鱮。
 > 
-> 不如啖茹。
+> 湖州亲旧二首 其二
+>
+> 宋·赵蕃
+>
+> 舟行风打头，苦恨行不驶。
+> 
+> 今晨得顺风，亦自非所喜。
+> 
+> 溪山如许佳，欲画无绝艺。
+> 
+> 要当稍收拾，一一付诗里。
+> 
+> 近看忽成远，得此已失彼。
+> 
+> 但令人此心，惘惘不足耳。
