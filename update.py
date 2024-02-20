@@ -47,10 +47,10 @@ EDA = f"""{t0}alpha&up_color=blue&up_message=EDA&url={t1})](http://eda.tangjt.cn
 # latest
 # title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
 # title = f"""{stats}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
+code = "བཀྲ་ཤིས་བདེ་ལེགས་"
 title = (
     # f"""{rtitle} \n\n"""
-    f"""### བཀྲ་ཤིས་བདེ་ལེགས་ \n"""
-    f"""- {wakatime_total}\t{wakatime_figure} \n"""
+    f"""- {code}\t{wakatime_total}\t{wakatime_figure} \n"""
     f"""- _Person_\t{tianchi}\t{aistduio}\t{kaggle}\t{yuque}\t{leetcode}\t{gitee}\t{monkeytype} \n"""
     f"""- _Product_\t{EDA} \n"""
     f"""- _Poetry Daily_ \n\n"""
