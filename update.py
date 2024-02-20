@@ -26,10 +26,10 @@ url4 = f"https://github-readme-stats.vercel.app/api/wakatime?username={u}&layout
 # https://github.com/anuraghazra/github-readme-stats/discussions/2668
 
 stats = f"[![IvanaXu's github stats]({url1})]({url2})"
-stats_ = f"""<img align="right" src="{url1}" />"""
 toplangs = f"""<img align="right" src="{url3}" />"""
 wakatime = f"""<img src="{url4}" />"""
 wakatime_total = f"""[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)"""
+rtitle = f"""<img align="right" src="{url3}" />"""
 
 t0 = "[![Website](https://img.shields.io/website?label="
 t1 = "https%3A%2F%2Fshields.io"
@@ -46,7 +46,7 @@ EDA = f"""{t0}alpha&up_color=blue&up_message=EDA&url={t1})](http://eda.tangjt.cn
 # title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
 # title = f"""{stats}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
 title = (
-    f"""{stats_} \n\n"""
+    f"""{rtitle} \n\n"""
     f"""### བཀྲ་ཤིས་བདེ་ལེགས་ \n"""
     f"""- {wakatime_total} \n"""
     f"""- _Person_\t{tianchi}\t{aistduio}\t{kaggle}\t{yuque}\t{leetcode}\t{gitee}\t{monkeytype} \n"""
