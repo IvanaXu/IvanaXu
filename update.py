@@ -5,7 +5,7 @@ import random
 import pandas as pd
 
 u = "IvanaXu"
-theme = "ambient_gradient"
+theme = "dark"
 """
 vue-dark
 graywhite
@@ -29,7 +29,7 @@ stats = f"[![IvanaXu's github stats]({url1})]({url2})"
 toplangs = f"""<img align="right" src="{url3}" />"""
 wakatime = f"""<img src="{url4}" />"""
 wakatime_total = f"""[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)"""
-rtitle = f"""<img align="right" src="{url3}" />"""
+rtitle = f"""<img align="right" src="{url4}" />"""
 
 t0 = "[![Website](https://img.shields.io/website?label="
 t1 = "https%3A%2F%2Fshields.io"
