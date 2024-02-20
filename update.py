@@ -29,6 +29,7 @@ stats = f"[![IvanaXu's github stats]({url1})]({url2})"
 toplangs = f"""<img align="right" src="{url3}" />"""
 wakatime = f"""<img src="{url4}" />"""
 wakatime_total = f"""[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05)"""
+wakatime_figure = f"""<figure><embed src="https://wakatime.com/share/@IvanAXu/a3a1609c-6d66-4f56-a392-9d770eeec1ec.svg"></embed></figure>"""
 rtitle = f"""<img align="right" src="{url4}" />"""
 
 t0 = "[![Website](https://img.shields.io/website?label="
@@ -48,7 +49,7 @@ EDA = f"""{t0}alpha&up_color=blue&up_message=EDA&url={t1})](http://eda.tangjt.cn
 title = (
     # f"""{rtitle} \n\n"""
     f"""### བཀྲ་ཤིས་བདེ་ལེགས་ \n"""
-    f"""- {wakatime_total} \n"""
+    f"""- {wakatime_total} {wakatime_figure}\n"""
     f"""- _Person_\t{tianchi}\t{aistduio}\t{kaggle}\t{yuque}\t{leetcode}\t{gitee}\t{monkeytype} \n"""
     f"""- _Product_\t{EDA} \n"""
     f"""- _Poetry Daily_ \n\n"""
