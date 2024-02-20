@@ -5,7 +5,7 @@ import random
 import pandas as pd
 
 u = "IvanaXu"
-theme = "dark"
+theme = "ambient_gradient"
 """
 vue-dark
 graywhite

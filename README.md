@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=dark" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaXu&langs_count=8&theme=ambient_gradient" /> 
 
 ### བཀྲ་ཤིས་བདེ་ལེགས་ 
 - [![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05) 
@@ -7,11 +7,11 @@
 - _Poetry Daily_ 
 
 
-> 二 蕭
+> 初夏睡起
 > 
-> 恭對慢，吝對驕，水遠對山遙。鬆軒對竹檻，雪賦對風謠。乘五馬，貫雙鵰，燭滅對香消。明蟾常徹夜，驟雨不終朝。樓閣天涼風颯颯，關河地隔雨瀟瀟。幾點鷺鷥，日暮常飛紅蓼岸；一雙鸂鶒，春朝頻泛綠楊橋。
+> （宋）楊萬里
 > 
-> 開對落，暗對昭，趙瑟對虞韶。軺車對驛騎，錦繡對瓊瑤。羞攘臂，懶折腰，範甑對顏瓢。寒天鴛帳酒，夜月鳳台簫。舞女腰肢楊柳軟，佳人顏貌海棠嬌。豪客尋春，南陌草青香陣陣；閒人避暑，東堂蕉綠影搖搖。
+> 梅子流酸濺齒牙，芭蕉分綠上窗紗。
 > 
-> 班對馬，董對晁，夏晝對春宵。雷聲對電影，麥穗對禾苗。八千路，廿四橋，總角對垂髫。露桃勻嫩臉，風柳舞纖腰。賈誼賦成傷鵩鳥，周公詩就託鴟鴞。幽寺尋僧，逸興豈知俄爾盡；長亭送客，離魂不覺黯然消。
+> 日長睡起無情思，閒看兒童捉柳花。
 >
