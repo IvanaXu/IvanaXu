@@ -51,7 +51,7 @@ code = "བཀྲ་ཤིས་བདེ་ལེགས་"
 title = (
     # f"""{rtitle} \n\n"""
     f"""### {code} \n"""
-    f"""- {wakatime_total}\t{wakatime_figure} \n"""
+    f"""- _Practice_\t{wakatime_total}\t{wakatime_figure} \n"""
     f"""- _Person_\t{tianchi}\t{aistduio}\t{kaggle}\t{yuque}\t{leetcode}\t{gitee}\t{monkeytype} \n"""
     f"""- _Product_\t{EDA} \n"""
     f"""- _Poetry Daily_ \n\n"""
