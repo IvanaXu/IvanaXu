@@ -43,7 +43,7 @@ aistduio = f"""{t0}&up_color=violet&up_message=AIstudio&url={t1})](https://aistu
 gitee = f"""{t0}&up_color=red&up_message=Gitee&url={t1})](https://gitee.com/IvanaXu)"""
 monkeytype = f"""{t0}&up_color=yellow&up_message=Monkeytype&url={t1})](https://monkeytype.com/profile/IvanaXu)"""
 EDA = f"""{t0}alpha&up_color=blue&up_message=EDA&url={t1})](http://eda.tangjt.cn/)"""
-project1 = f"""{t0}&up_color=white&up_message=AICAS2024&url={t1})](https://github.com/IvanaXu/AICAS2024/)"""
+project1 = f"""{t0}&up_color=black&up_message=AICAS2024&url={t1})](https://github.com/IvanaXu/AICAS2024/)"""
 
 # latest
 # title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
