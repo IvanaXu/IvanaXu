@@ -2,17 +2,13 @@
 - _Practice_	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/dashboard)	<a href="https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05"><img src="https://wakatime.com/share/@IvanAXu/06501b1d-f434-4f2a-9524-dc2196223971.png" /></a> 
 - _Profile_	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
 - _Product_	[![Website](https://img.shields.io/website?label=alpha&up_color=blue&up_message=EDA&url=https%3A%2F%2Fshields.io)](http://eda.tangjt.cn/) 
-- _Progress_	[![Website](https://img.shields.io/website?label=&up_color=black&up_message=APTOS2021&url=https%3A%2F%2Fshields.io)](https://github.com/IvanaXu/APTOS2021/)	{project1} 
+- _Progress_	[![Website](https://img.shields.io/website?label=&up_color=black&up_message=APTOS2021&url=https%3A%2F%2Fshields.io)](https://github.com/IvanaXu/APTOS2021/)	[![Website](https://img.shields.io/website?label=&up_color=black&up_message=AICAS2024&url=https%3A%2F%2Fshields.io)](https://github.com/IvanaXu/AICAS2024/) 
 - _Poetry Daily_ 
 
 
 > 国风
 > 
-> 终风且暴，顾我则笑，谑浪笑敖，中心是悼。
+> 狼跋其胡，载疐其尾。公孙硕肤，赤舄几几。
 > 
-> 终风且霾，惠然肯来，莫往莫来，悠悠我思。
-> 
-> 终风且曀，不日有曀，寤言不寐，愿言则嚏。
-> 
-> 曀曀其阴，虺虺其雷，寤言不寐，愿言则怀。
+> 狼疐其尾，载跋其胡。公孙硕肤，德音不瑕？
 >
