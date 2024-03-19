@@ -43,8 +43,7 @@ aistduio = f"""{t0}&up_color=violet&up_message=AIstudio&url={t1})](https://aistu
 gitee = f"""{t0}&up_color=red&up_message=Gitee&url={t1})](https://gitee.com/IvanaXu)"""
 monkeytype = f"""{t0}&up_color=yellow&up_message=Monkeytype&url={t1})](https://monkeytype.com/profile/IvanaXu)"""
 EDA = f"""{t0}alpha&up_color=blue&up_message=EDA&url={t1})](http://eda.tangjt.cn/)"""
-project0 = f"""{t0}&up_color=black&up_message=APTOS2021&url={t1})](https://github.com/IvanaXu/APTOS2021/)"""
-project1 = f"""{t0}&up_color=black&up_message=AICAS2024&url={t1})](https://github.com/IvanaXu/AICAS2024/)"""
+f_pro = lambda x: f"""{t0}&up_color=black&up_message={x}&url={t1})](https://github.com/IvanaXu/{x}/)"""
 
 # latest
 # title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
@@ -56,7 +55,7 @@ title = (
     f"""- _Practice_\t{wakatime_total}\t{wakatime_figure} \n"""
     f"""- _Profile_\t{tianchi}\t{aistduio}\t{kaggle}\t{yuque}\t{leetcode}\t{gitee}\t{monkeytype} \n"""
     f"""- _Product_\t{EDA} \n"""
-    f"""- _Progress_\t{project0}\t/{project1} \n"""
+    f"""- _Progress_\t{f_pro('APTOS2021')}\t{f_pro('AICAS2024')} \n"""
     f"""- _Poetry Daily_ \n\n"""
     # f"""> [!NOTE]\\"""
 )
