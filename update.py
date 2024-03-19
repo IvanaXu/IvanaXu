@@ -55,7 +55,7 @@ title = (
     f"""- _Practice_\t{wakatime_total}\t{wakatime_figure} \n"""
     f"""- _Profile_\t{tianchi}\t{aistduio}\t{kaggle}\t{yuque}\t{leetcode}\t{gitee}\t{monkeytype} \n"""
     f"""- _Product_\t{EDA} \n"""
-    f"""- _Progress_\t{f_pro('APTOS2021')}\t{f_pro('AICAS2024')} \n"""
+    f"""- _Progress_\t{f_pro('APTOS2021')}\t|{f_pro('AICAS2024')} \n"""
     f"""- _Poetry Daily_ \n\n"""
     # f"""> [!NOTE]\\"""
 )
