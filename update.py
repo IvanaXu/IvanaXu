@@ -42,7 +42,7 @@ leetcode = f"""{t0}&up_color=brown&up_message=Leetcode&url={t1})](https://leetco
 aistduio = f"""{t0}&up_color=violet&up_message=AIstudio&url={t1})](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)"""
 gitee = f"""{t0}&up_color=red&up_message=Gitee&url={t1})](https://gitee.com/IvanaXu)"""
 monkeytype = f"""{t0}&up_color=yellow&up_message=Monkeytype&url={t1})](https://monkeytype.com/profile/IvanaXu)"""
-EDA = f"""{t0}alpha&up_color=blue&up_message=EDA&url={t1})](http://eda.tangjt.cn/)"""
+EDA = f"""{t0}update&up_color=blue&up_message=EDA&url={t1})](http://eda.tangjt.cn/)"""
 fP = lambda x: f"""{t0}&up_color=black&up_message={x}&url={t1})](https://github.com/IvanaXu/{x}/)"""
 
 # latest
