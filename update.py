@@ -30,7 +30,7 @@ toplangs = f"""<img align="right" src="{url3}" />"""
 wakatime = f"""<img src="{url4}" />"""
 wakatime_home = f"""https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05"""
 wakatime_total = f"""[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/dashboard)"""
-wakatime_figure = f"""<a href="{wakatime_home}"><img src="https://wakatime.com/share/@IvanAXu/06501b1d-f434-4f2a-9524-dc2196223971.png" /></a>"""
+wakatime_figure = f"""<a href="{wakatime_home}"><img src="https://wakatime.com/share/@IvanAXu/19fb35f7-7adc-48f4-860b-843373818e62.png" /></a>"""
 rtitle = f"""<img align="right" src="{url4}" />"""
 
 t0 = "[![Website](https://img.shields.io/website?label="
