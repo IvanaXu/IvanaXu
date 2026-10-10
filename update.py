@@ -51,7 +51,7 @@ fP2 = lambda x: f"""{t0}&up_color=black&up_message={x}&url={t1})](https://github
 # latest
 # title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
 # title = f"""{stats}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
-code = "བཀྲ་ཤིས་བདེ་ལེགས་"
+code = "བཀྲ་ཤིས་བདེ་ལེགས་" + "\t I am back!!!-2024.07"
 title = (
     # f"""{rtitle} \n\n"""
     f"""### {code} \n"""
