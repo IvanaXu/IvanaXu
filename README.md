@@ -1,16 +1,31 @@
 ### བཀྲ་ཤིས་བདེ་ལེགས་ 
 - _Practice_	[![wakatime](https://wakatime.com/badge/user/5043ee4a-e361-4607-9d47-d557f2005d05.svg)](https://wakatime.com/dashboard)	<a href="https://wakatime.com/@5043ee4a-e361-4607-9d47-d557f2005d05"><img src="https://wakatime.com/share/@IvanAXu/19fb35f7-7adc-48f4-860b-843373818e62.png" /></a> 
 - _Profile_	[![Website](https://img.shields.io/website?label=&up_color=orange&up_message=Tianchi&url=https%3A%2F%2Fshields.io)](https://tianchi.aliyun.com/home/science/scienceDetail?userId=1095279182618)	[![Website](https://img.shields.io/website?label=&up_color=violet&up_message=AIstudio&url=https%3A%2F%2Fshields.io)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)	[![Website](https://img.shields.io/website?label=&up_color=blue&up_message=Kaggle&url=https%3A%2F%2Fshields.io)](https://www.kaggle.com/ivanxu/)	[![Website](https://img.shields.io/website?label=&up_color=gay&up_message=Yuque&url=https%3A%2F%2Fshields.io)](https://www.yuque.com/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=brown&up_message=Leetcode&url=https%3A%2F%2Fshields.io)](https://leetcode.cn/u/ivanaxu)	[![Website](https://img.shields.io/website?label=&up_color=red&up_message=Gitee&url=https%3A%2F%2Fshields.io)](https://gitee.com/IvanaXu)	[![Website](https://img.shields.io/website?label=&up_color=yellow&up_message=Monkeytype&url=https%3A%2F%2Fshields.io)](https://monkeytype.com/profile/IvanaXu) 
-- _Product_	[![Website](https://img.shields.io/website?label=update&up_color=blue&up_message=EDA&url=https%3A%2F%2Fshields.io)](http://eda.tangjt.cn/) 
-- _Progress_	[![Website](https://img.shields.io/website?label=&up_color=black&up_message=APTOS2021&url=https%3A%2F%2Fshields.io)](https://github.com/IvanaXu/APTOS2021/)'	[![Website](https://img.shields.io/website?label=&up_color=black&up_message=EDA&url=https%3A%2F%2Fshields.io)](https://github.com/IvanaXu/EDA/)'	[![Website](https://img.shields.io/website?label=&up_color=black&up_message=AICAS2024&url=https%3A%2F%2Fshields.io)](https://github.com/IvanaXu/AICAS2024/) 
+- _Product_	[![Website](https://img.shields.io/website?label=update&up_color=blue&up_message=BioSeqs&url=https%3A%2F%2Fshields.io)](https://github.com/paipai-Studio/BioSeqs) 
+- _Progress_	[![Website](https://img.shields.io/website?label=&up_color=black&up_message=BioSeqs&url=https%3A%2F%2Fshields.io)](https://github.com/paipai-Studio/BioSeqs/)'	[![Website](https://img.shields.io/website?label=&up_color=black&up_message=BlackBoxOptimization&url=https%3A%2F%2Fshields.io)](https://github.com/paipai-Studio/BlackBoxOptimization/)'	[![Website](https://img.shields.io/website?label=&up_color=black&up_message=PythonVersions&url=https%3A%2F%2Fshields.io)](https://github.com/IvanaXu/PythonVersions/) 
 - _Poetry Daily_ 
 
 
-> 四 支
-> 
-> 茶對酒，賦對詩，燕子對鶯兒。栽花對種竹，落絮對遊絲。四目頡，一足夔，鴝鵒對鷺鷥。半池紅菡萏，一架白荼蘼。幾陣秋風能應候，一犁春雨甚知時。智伯恩深，國士吞變形之炭；羊公德大，邑人豎墮淚之碑。
-> 
-> 行對止，速對遲，舞劍對圍棋。花箋對草字，竹簡對毛錐。汾水鼎，峴山碑，虎豹對熊羆。花開紅錦繡，水漾碧琉璃。去婦因探鄰舍棗，出妻爲種後園葵。笛韻和諧，仙管恰從雲裏降；櫓聲咿軋，漁舟正向雪中移。
-> 
-> 戈對甲，鼓對旗，紫燕對黃鸝。梅酸對李苦，青眼對白眉。三弄笛，一圍棋，雨打對風吹。海棠春睡早，楊柳晝眠遲。張駿曾爲槐樹賦，杜陵不作海棠詩。晉士特奇，可比一斑之豹；唐儒博識，堪爲五總之龜。
+> 赠妇诗三首 其三
 >
+> 汉·秦嘉
+>
+> 肃肃仆夫征，锵锵扬和铃。
+> 
+> 清晨当引迈，束带待鸡鸣。
+> 
+> 顾看空室中，仿佛相姿形。
+> 
+> 一别怀万恨，起坐为不宁。
+> 
+> 何用叙我心，遗思致款诚。
+> 
+> 宝钗好耀首，明镜可鉴形。
+> 
+> 芳香去垢秽，素琴有清声。
+> 
+> 诗人感木瓜，乃欲答瑶琼。
+> 
+> 愧彼赠我厚，惭此往物轻。
+> 
+> 虽知未足报，贵用叙我情。

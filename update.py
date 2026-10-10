@@ -42,8 +42,11 @@ leetcode = f"""{t0}&up_color=brown&up_message=Leetcode&url={t1})](https://leetco
 aistduio = f"""{t0}&up_color=violet&up_message=AIstudio&url={t1})](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/979775)"""
 gitee = f"""{t0}&up_color=red&up_message=Gitee&url={t1})](https://gitee.com/IvanaXu)"""
 monkeytype = f"""{t0}&up_color=yellow&up_message=Monkeytype&url={t1})](https://monkeytype.com/profile/IvanaXu)"""
-EDA = f"""{t0}update&up_color=blue&up_message=EDA&url={t1})](http://eda.tangjt.cn/)"""
-fP = lambda x: f"""{t0}&up_color=black&up_message={x}&url={t1})](https://github.com/IvanaXu/{x}/)"""
+
+PR1 = lambda x: f"""{t0}update&up_color=blue&up_message={x}&url={t1})](https://github.com/IvanaXu/{x})"""
+PR2 = lambda x: f"""{t0}update&up_color=blue&up_message={x}&url={t1})](https://github.com/paipai-Studio/{x})"""
+fP1 = lambda x: f"""{t0}&up_color=black&up_message={x}&url={t1})](https://github.com/IvanaXu/{x}/)"""
+fP2 = lambda x: f"""{t0}&up_color=black&up_message={x}&url={t1})](https://github.com/paipai-Studio/{x}/)"""
 
 # latest
 # title = f"""{stats}\n{toplangs}\n{wakatime}\n# བཀྲ་ཤིས་བདེ་ལེགས་\t{wakatime_total}\t{tianchi}\t{yuque}\t{leetcode}\t{aistduio}\t{gitee}"""
@@ -54,8 +57,8 @@ title = (
     f"""### {code} \n"""
     f"""- _Practice_\t{wakatime_total}\t{wakatime_figure} \n"""
     f"""- _Profile_\t{tianchi}\t{aistduio}\t{kaggle}\t{yuque}\t{leetcode}\t{gitee}\t{monkeytype} \n"""
-    f"""- _Product_\t{EDA} \n"""
-    f"""- _Progress_\t{fP('APTOS2021')}'\t{fP('EDA')}'\t{fP('AICAS2024')} \n"""
+    f"""- _Product_\t{PR2('BioSeqs')} \n"""
+    f"""- _Progress_\t{fP2('BioSeqs')}'\t{fP2('BlackBoxOptimization')}'\t{fP1('PythonVersions')} \n"""
     f"""- _Poetry Daily_ \n\n"""
     # f"""> [!NOTE]\\"""
 )
